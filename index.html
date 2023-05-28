@@ -144,10 +144,14 @@
         }
 
         function nextQuestion() {
-            if (currentQuestionIndex < questions.length - 1) {
-                currentQuestionIndex++;
-                displayQuestion();
+            var randomDecimal = Math.random();
+            var randomInRange = Math.floor(randomDecimal * questions.length);
+            if (currentQuestionIndex === randomInRange) {
+                currentQuestionIndex = randomInRange + 1;
+            } else {
+                currentQuestionIndex = randomInRange
             }
+            displayQuestion();
         }
 
         function getSelectedAnswer() {
