@@ -30,17 +30,14 @@
     <div class="container">
         <div class="question" id="question"></div>
         <div class="answers">
-            <input type="radio" name="answer" value="A" id="answerA">
-            <label for="answerA" id="labelA"></label><br>
-            <input type="radio" name="answer" value="B" id="answerB">
-            <label for="answerB" id="labelB"></label><br>
-            <input type="radio" name="answer" value="C" id="answerC">
-            <label for="answerC" id="labelC"></label><br>
+            <label for="answerA"><input type="radio" name="answer" value="A" id="answerA"> <span id="labelA"></span></label><br>
+            <label for="answerB"><input type="radio" name="answer" value="B" id="answerB"> <span id="labelB"></span></label><br>
+            <label for="answerC"><input type="radio" name="answer" value="C" id="answerC"> <span id="labelC"></span></label><br>
         </div>
         <button class="btn btn-primary" onclick="checkAnswer()">Check Answer</button>
         <div class="feedback" id="feedback"></div>
-        <button class="btn btn-primary" onclick="nextQuestion()">Next question</button>
-        <button class="btn btn-primary" onclick="searchQuestion()" class="search-button">Search in google</button>
+        <button class="btn btn-primary" onclick="nextQuestion()">Next</button>
+        <button class="btn btn-primary" onclick="searchQuestion()" class="search-button">Search in Google</button>
     </div>
 
     <script>
@@ -62,7 +59,7 @@
             {
                 "question": "Szpicgat to typ kadtuba jachtu o ponizszej charakterystyce:",
                 "answerA": "Bez pawezy, dzi\u00f3b i rufa ostro zakonczone.",
-                "answerB": "Dzi\u00f3b zakonczony tepo, rufa z paweza.",
+                "answerB": "Dzi\u00f3b zakonczony tępo, rufa z paweza.",
                 "answerC": "Dziob z duzym nawisem, rufa z bardzo szeroka paweza",
                 "correctAnswer": "A"
             },
