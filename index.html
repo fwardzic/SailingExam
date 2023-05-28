@@ -1,197 +1,211 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>Learning Test Questions</title>
-  <!-- Add Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      font-size: 16px;
-    }
-    
-    #question-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    }
-    
-    .question {
-      font-weight: bold;
-      margin-bottom: 20px;
-    }
-    
-    .answer {
-      margin-bottom: 10px;
-    }
-    
-    .result {
-      font-weight: bold;
-      margin-top: 20px;
-    }
-    
-    .correct {
-      color: green;
-      font-weight: bold;
-    }
-    
-    .incorrect {
-      color: red;
-      font-weight: bold;
-    }
-  </style>
+    <title>Learning Test Questions</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        .container {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 18px;
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+        .answers {
+            margin-bottom: 20px;
+        }
+        .feedback {
+            margin-bottom: 20px;
+        }
+        .next-button {
+            margin-bottom: 20px;
+        }
+        .search-button {
+            margin-bottom: 20px;
+        }
+    </style>
 </head>
 <body>
-  <div id="question-container" class="container">
-    <div id="question" class="question"></div>
-    <div id="answers"></div>
-    <button id="check-button" class="btn btn-primary">Check Answer</button>
-    <div id="result" class="result"></div>
-    <button id="next-button" class="btn btn-primary">Next</button>
-  </div>
+    <div class="container">
+        <div class="question" id="question"></div>
+        <div class="answers">
+            <input type="radio" name="answer" value="A" id="answerA">
+            <label for="answerA" id="labelA"></label><br>
+            <input type="radio" name="answer" value="B" id="answerB">
+            <label for="answerB" id="labelB"></label><br>
+            <input type="radio" name="answer" value="C" id="answerC">
+            <label for="answerC" id="labelC"></label><br>
+        </div>
+        <button class="btn btn-primary" onclick="checkAnswer()">Check Answer</button>
+        <div class="feedback" id="feedback"></div>
+        <button class="btn btn-primary" onclick="nextQuestion()">Next question</button>
+        <button class="btn btn-primary" onclick="searchQuestion()" class="search-button">Search in google</button>
+    </div>
 
-  <!-- Add Bootstrap JS -->
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  <script>
-    // Sample input data
-    var questions = [
-        {
-            "question": "Nok, jest to element (jeden z koncow):",
-            "answerA": "Bomu",
-            "answerB": "Gafla",
-            "answerC": "Masztu",
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Pomieszczenie stuzace do przygotowywania  positkow na jachcie, to:",
-            "answerA": "Kubryk",
-            "answerB": "Kambuz",
-            "answerC": "Kingston",
-            "correctAnswer": "B"
-        },
-        {
-            "question": "Szpicgat to typ kadtuba jachtu o ponizszej charakterystyce:",
-            "answerA": "Bez pawezy, dzi\u00f3b i rufa ostro zakonczone.",
-            "answerB": "Dzi\u00f3b zakonczony tepo, rufa z paweza.",
-            "answerC": "Dziob z duzym nawisem, rufa z bardzo szeroka paweza",
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Spinaker, to zagiel stosowany przy zegludze:",
-            "answerA": "Kursami ostro na wiatr (bejdewind)",
-            "answerB": "W zegludze sztormowej",
-            "answerC": "Na kursach pelnych (baksztag, fordewind)",
-            "correctAnswer": "C"
-        },
-        {
-            "question": "Miecz na jachcie to:",
-            "answerA": "Opuszczana plyta umieszczona w skrzyni lub falszkilu w srodkowej czesci jachtu.",
-            "answerB": "Cz\u0119\u015b\u0107 urzadzenia sterowego",
-            "answerC": "Poprzeczny element konstrukcyjny kad\u0142uba jachtu",
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Kraw\u0119d\u017a \u017cagla obszyt\u0105 da wzmocnienia nazywamy:",
-            "answerA": "Kilem",
-            "answerB": "Listwa",
-            "answerC": "Likiem",
-            "correctAnswer": "C"
-        },
-        {
-            "question": "Co zrobi\u0107, gdy w trakcie pracy silnika przyczepnego z otworu odplywowego przestanie wyplywa\u0107 woda:",
-            "answerA": "Wylaczy\u0107 natychmiast silnik",
-            "answerB": "Zmnieiszy\u0107 obroty nie gasz\u0105c silnika",
-            "answerC": "Na ma\u0142ych obrotach zdj\u0105\u0107 pokryw\u0119 i polewa\u0107 woda cylindry silnika",
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Jakiego rodzaju paliwo uzywane jest w czterosuwowych silnikach przyczepnych:",
-            "answerA": "Benzyna zmieszana z olejem silnikowym",
-            "answerB": "Olej napedowy",
-            "answerC": "Czysta benzyna",
-            "correctAnswer": "C"
-        },
-        {
-            "question": "Lazy jack, to:",
-            "answerA": "System linek biegnacych do kolumny masztu od bomu (czesto polaczony pokrowcem)",
-            "answerB": "System linek u\u0142atwiajacy wybieranie kotwicy",
-            "answerC": "System lin do cumowania jachtu amortyzujacy ruchy jachtu",
-            "correctAnswer": "A"
+    <script>
+        var questions = [
+            {
+                "question": "Nok, jest to element (jeden z koncow):",
+                "answerA": "Bomu",
+                "answerB": "Gafla",
+                "answerC": "Masztu",
+                "correctAnswer": "A"
+            },
+            {
+                "question": "Pomieszczenie stuzace do przygotowywania  positkow na jachcie, to:",
+                "answerA": "Kubryk",
+                "answerB": "Kambuz",
+                "answerC": "Kingston",
+                "correctAnswer": "B"
+            },
+            {
+                "question": "Szpicgat to typ kadtuba jachtu o ponizszej charakterystyce:",
+                "answerA": "Bez pawezy, dzi\u00f3b i rufa ostro zakonczone.",
+                "answerB": "Dzi\u00f3b zakonczony tepo, rufa z paweza.",
+                "answerC": "Dziob z duzym nawisem, rufa z bardzo szeroka paweza",
+                "correctAnswer": "A"
+            },
+            {
+                "question": "Spinaker, to zagiel stosowany przy zegludze:",
+                "answerA": "Kursami ostro na wiatr (bejdewind)",
+                "answerB": "W zegludze sztormowej",
+                "answerC": "Na kursach pelnych (baksztag, fordewind)",
+                "correctAnswer": "C"
+            },
+            {
+                "question": "Miecz na jachcie to:",
+                "answerA": "Opuszczana plyta umieszczona w skrzyni lub falszkilu w srodkowej czesci jachtu.",
+                "answerB": "Cz\u0119\u015b\u0107 urzadzenia sterowego",
+                "answerC": "Poprzeczny element konstrukcyjny kad\u0142uba jachtu",
+                "correctAnswer": "A"
+            },
+            {
+                "question": "Kraw\u0119d\u017a \u017cagla obszyt\u0105 da wzmocnienia nazywamy:",
+                "answerA": "Kilem",
+                "answerB": "Listwa",
+                "answerC": "Likiem",
+                "correctAnswer": "C"
+            },
+            {
+                "question": "Co zrobi\u0107, gdy w trakcie pracy silnika przyczepnego z otworu odplywowego przestanie wyplywa\u0107 woda:",
+                "answerA": "Wylaczy\u0107 natychmiast silnik",
+                "answerB": "Zmnieiszy\u0107 obroty nie gasz\u0105c silnika",
+                "answerC": "Na ma\u0142ych obrotach zdj\u0105\u0107 pokryw\u0119 i polewa\u0107 woda cylindry silnika",
+                "correctAnswer": "A"
+            },
+            {
+                "question": "Jakiego rodzaju paliwo uzywane jest w czterosuwowych silnikach przyczepnych:",
+                "answerA": "Benzyna zmieszana z olejem silnikowym",
+                "answerB": "Olej napedowy",
+                "answerC": "Czysta benzyna",
+                "correctAnswer": "C"
+            },
+            {
+                "question": "Lazy jack, to:",
+                "answerA": "System linek biegnacych do kolumny masztu od bomu (czesto polaczony pokrowcem)",
+                "answerB": "System linek u\u0142atwiajacy wybieranie kotwicy",
+                "answerC": "System lin do cumowania jachtu amortyzujacy ruchy jachtu",
+                "correctAnswer": "A"
+            }
+            // Add more questions here
+        ]
+    
+        var currentQuestionIndex = -1;
+        var feedbackElement = document.getElementById("feedback");
+
+        function displayQuestion() {
+            var questionElement = document.getElementById("question");
+            var labelA = document.getElementById("labelA");
+            var labelB = document.getElementById("labelB");
+            var labelC = document.getElementById("labelC");
+
+            if (currentQuestionIndex >= 0 && currentQuestionIndex < questions.length) {
+                var currentQuestion = questions[currentQuestionIndex];
+                questionElement.textContent = currentQuestion.question;
+                labelA.textContent = "A. " + currentQuestion.answerA;
+                labelB.textContent = "B. " + currentQuestion.answerB;
+                labelC.textContent = "C. " + currentQuestion.answerC;
+                feedbackElement.textContent = "";
+                clearSelectedAnswer();
+            }
         }
-        // Add more questions here
-    ]
-    
-    var currentQuestionIndex = -1;
-    var previousQuestionIndexes = [];
-    
-    // Function to pick a random question that is different from the current question
-    function pickRandomQuestion() {
-      var availableQuestions = questions.filter(function(question, index) {
-        return previousQuestionIndexes.indexOf(index) === -1;
-      });
-      
-      if (availableQuestions.length === 0) {
-        // If all questions have been displayed, reset the previousQuestionIndexes array
-        previousQuestionIndexes = [];
-        availableQuestions = questions;
-      }
-      
-      var randomIndex = Math.floor(Math.random() * availableQuestions.length);
-      currentQuestionIndex = questions.indexOf(availableQuestions[randomIndex]);
-      previousQuestionIndexes.push(currentQuestionIndex);
-      
-      var question = availableQuestions[randomIndex];
-      
-      // Update the question display
-      document.getElementById('question').innerHTML = question.question;
-      
-      // Update the answers display
-      var answersHTML = '';
-      answersHTML += '<div class="answer"><input type="radio" name="answer" value="A"> ' + question.answerA + '</div>';
-      answersHTML += '<div class="answer"><input type="radio" name="answer" value="B"> ' + question.answerB + '</div>';
-      answersHTML += '<div class="answer"><input type="radio" name="answer" value="C"> ' + question.answerC + '</div>';
-      document.getElementById('answers').innerHTML = answersHTML;
-      
-      // Clear the result display
-      document.getElementById('result').innerHTML = '';
-    }
-    
-    // Function to check the selected answer
-    function checkAnswer() {
-      var selectedAnswer = document.querySelector('input[name="answer"]:checked');
-      if (selectedAnswer) {
-        var selectedValue = selectedAnswer.value;
-        var question = questions[currentQuestionIndex];
-        
-        // Check if the selected answer is correct
-        if (selectedValue === question.correctAnswer) {
-          document.getElementById('result').innerHTML = 'Correct!';
-          selectedAnswer.parentElement.classList.add('correct');
-        } else {
-          document.getElementById('result').innerHTML = 'Incorrect. The correct answer is ' + question.correctAnswer;
-          selectedAnswer.parentElement.classList.add('incorrect');
+
+        function checkAnswer() {
+            var selectedAnswer = getSelectedAnswer();
+            var currentQuestion = questions[currentQuestionIndex];
+            var feedback = "";
+
+            if (selectedAnswer === currentQuestion.correctAnswer) {
+                feedback = "Correct!";
+            } else {
+                feedback = "Incorrect. The correct answer is " + currentQuestion.correctAnswer + ".";
+            }
+
+            feedbackElement.textContent = feedback;
+            highlightCorrectAnswer();
         }
-      }
-    }
-    
-    // Function to handle the "Next" button click
-    function nextQuestion() {
-      checkAnswer();
-      pickRandomQuestion();
-    }
-    
-    // Attach event listener to the "Check Answer" button
-    document.getElementById('check-button').addEventListener('click', checkAnswer);
-    
-    // Attach event listener to the "Next" button
-    document.getElementById('next-button').addEventListener('click', nextQuestion);
-    
-    // Initialize with the first question
-    pickRandomQuestion();
-  </script>
+
+        function nextQuestion() {
+            if (currentQuestionIndex < questions.length - 1) {
+                currentQuestionIndex++;
+                displayQuestion();
+            }
+        }
+
+        function getSelectedAnswer() {
+            var answerElements = document.getElementsByName("answer");
+
+            for (var i = 0; i < answerElements.length; i++) {
+                if (answerElements[i].checked) {
+                    return answerElements[i].value;
+                }
+            }
+
+            return null;
+        }
+
+        function clearSelectedAnswer() {
+            var answerElements = document.getElementsByName("answer");
+
+            for (var i = 0; i < answerElements.length; i++) {
+                answerElements[i].checked = false;
+            }
+        }
+
+        function highlightCorrectAnswer() {
+            var selectedAnswer = getSelectedAnswer();
+            var currentQuestion = questions[currentQuestionIndex];
+            var labelA = document.getElementById("labelA");
+            var labelB = document.getElementById("labelB");
+            var labelC = document.getElementById("labelC");
+
+            if (selectedAnswer === "A") {
+                labelA.style.color = currentQuestion.correctAnswer === "A" ? "green" : "red";
+            } else {
+                labelA.style.color = "";
+            }
+
+            if (selectedAnswer === "B") {
+                labelB.style.color = currentQuestion.correctAnswer === "B" ? "green" : "red";
+            } else {
+                labelB.style.color = "";
+            }
+
+            if (selectedAnswer === "C") {
+                labelC.style.color = currentQuestion.correctAnswer === "C" ? "green" : "red";
+            } else {
+                labelC.style.color = "";
+            }
+        }
+
+        function searchQuestion() {
+            var currentQuestion = questions[currentQuestionIndex];
+            var googleSearchUrl = "https://www.google.com/search?q=" + encodeURIComponent(currentQuestion.question);
+            window.open(googleSearchUrl, "_blank");
+        }
+
+        nextQuestion();
+    </script>
 </body>
 </html>
