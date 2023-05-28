@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Nok, jest to element (jeden z koncow):",
+    "answerA": "Bomu",
+    "answerB": "Gafla",
+    "answerC": "Masztu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Pomieszczenie stuzace do przygotowywania  positkow na jachcie, to:",
+    "answerA": "Kubryk",
+    "answerB": "Kambuz",
+    "answerC": "Kingston",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Szpicgat to typ kadtuba jachtu o ponizszej charakterystyce:",
+    "answerA": "Bez pawezy, dzi\u00f3b i rufa ostro zakonczone.",
+    "answerB": "Dzi\u00f3b zakonczony tepo, rufa z paweza.",
+    "answerC": "Dziob z duzym nawisem, rufa z bardzo szeroka paweza",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Spinaker, to zagiel stosowany przy zegludze:",
+    "answerA": "Kursami ostro na wiatr (bejdewind)",
+    "answerB": "W zegludze sztormowej",
+    "answerC": "Na kursach pelnych (baksztag, fordewind)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Miecz na jachcie to:",
+    "answerA": "Opuszczana plyta umieszczona w skrzyni lub falszkilu w srodkowej czesci jachtu.",
+    "answerB": "Cz\u0119\u015b\u0107 urzadzenia sterowego",
+    "answerC": "Poprzeczny element konstrukcyjny kad\u0142uba jachtu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Kraw\u0119d\u017a \u017cagla obszyt\u0105 da wzmocnienia nazywamy:",
+    "answerA": "Kilem",
+    "answerB": "Listwa",
+    "answerC": "Likiem",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Co zrobi\u0107, gdy w trakcie pracy silnika przyczepnego z otworu odplywowego przestanie wyplywa\u0107 woda:",
+    "answerA": "Wylaczy\u0107 natychmiast silnik",
+    "answerB": "Zmnieiszy\u0107 obroty nie gasz\u0105c silnika",
+    "answerC": "Na ma\u0142ych obrotach zdj\u0105\u0107 pokryw\u0119 i polewa\u0107 woda cylindry silnika",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Jakiego rodzaju paliwo uzywane jest w czterosuwowych silnikach przyczepnych:",
+    "answerA": "Benzyna zmieszana z olejem silnikowym",
+    "answerB": "Olej napedowy",
+    "answerC": "Czysta benzyna",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Lazy jack, to:",
+    "answerA": "System linek biegnacych do kolumny masztu od bomu (czesto polaczony pokrowcem)",
+    "answerB": "System linek u\u0142atwiajacy wybieranie kotwicy",
+    "answerC": "System lin do cumowania jachtu amortyzujacy ruchy jachtu",
+    "correctAnswer": "A"
+  }
+]

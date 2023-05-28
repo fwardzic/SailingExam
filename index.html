@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Learning Test Questions</title>
+  <!-- Add Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      font-size: 16px;
+    }
+    
+    #question-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    
+    .question {
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    
+    .answer {
+      margin-bottom: 10px;
+    }
+    
+    .result {
+      font-weight: bold;
+      margin-top: 20px;
+    }
+    
+    .correct {
+      color: green;
+      font-weight: bold;
+    }
+    
+    .incorrect {
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="question-container" class="container">
+    <div id="question" class="question"></div>
+    <div id="answers"></div>
+    <button id="check-button" class="btn btn-primary">Check Answer</button>
+    <div id="result" class="result"></div>
+    <button id="next-button" class="btn btn-primary">Next</button>
+  </div>
+  
+  <!-- Add Bootstrap JS -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    // Sample input data
+    var questions = [
+      {
+        "question": "Nok, jest to element (jeden z koncow):",
+        "answerA": "A. Bomu",
+        "answerB": "B. Gafla",
+        "answerC": "C. Masztu",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Pomieszczenie stuzace do przygotowywania positkow na jachcie, to:",
+        "answerA": "A. Kubryk",
+        "answerB": "B. Kambuz",
+        "answerC": "C. Kingston",
+        "correctAnswer": "B"
+      },
+      // Add more questions here
+    ];
+    
+    var currentQuestionIndex = -1;
+    var previousQuestionIndexes = [];
+    
+    // Function to pick a random question that is different from the current question
+    function pickRandomQuestion() {
+      var availableQuestions = questions.filter(function(question, index) {
+        return previousQuestionIndexes.indexOf(index) === -1;
+      });
+      
+      if (availableQuestions.length === 0) {
+        // If all questions have been displayed, reset the previousQuestionIndexes array
+        previousQuestionIndexes = [];
+        availableQuestions = questions;
+      }
+      
+      var randomIndex = Math.floor(Math.random() * availableQuestions.length);
+      currentQuestionIndex = questions.indexOf(availableQuestions[randomIndex]);
+      previousQuestionIndexes.push(currentQuestionIndex);
+      
+      var question = availableQuestions[randomIndex];
+      
+      // Update the question display
+      document.getElementById('question').innerHTML = question.question;
+      
+      // Update the answers display
+      var answersHTML = '';
+      answersHTML += '<div class="answer"><input type="radio" name="answer" value="A"> ' + question.answerA + '</div>';
+      answersHTML += '<div class="answer"><input type="radio" name="answer" value="B"> ' + question.answerB + '</div>';
+      answersHTML += '<div class="answer"><input type="radio" name="answer" value="C"> ' + question.answerC + '</div>';
+      document.getElementById('answers').innerHTML = answersHTML;
+      
+      // Clear the result display
+      document.getElementById('result').innerHTML = '';
+    }
+    
+    // Function to check the selected answer
+    function checkAnswer() {
+      var selectedAnswer = document.querySelector('input[name="answer"]:checked');
+      if (selectedAnswer) {
+        var selectedValue = selectedAnswer.value;
+        var question = questions[currentQuestionIndex];
+        
+        // Check if the selected answer is correct
+        if (selectedValue === question.correctAnswer) {
+          document.getElementById('result').innerHTML = 'Correct!';
+          selectedAnswer.parentElement.classList.add('correct');
+        } else {
+          document.getElementById('result').innerHTML = 'Incorrect. The correct answer is ' + question.correctAnswer;
+          selectedAnswer.parentElement.classList.add('incorrect');
+        }
+      }
+    }
+    
+    // Function to handle the "Next" button click
+    function nextQuestion() {
+      checkAnswer();
+      pickRandomQuestion();
+    }
+    
+    // Attach event listener to the "Check Answer" button
+    document.getElementById('check-button').addEventListener('click', checkAnswer);
+    
+    // Attach event listener to the "Next" button
+    document.getElementById('next-button').addEventListener('click', nextQuestion);
+    
+    // Initialize with the first question
+    pickRandomQuestion();
+  </script>
+</body>
+</html>
