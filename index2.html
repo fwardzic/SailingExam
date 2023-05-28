@@ -57,21 +57,38 @@
 
     // Function to load the questions from a JSON file
     function loadQuestions() {
-      var xhr = new XMLHttpRequest();
-      xhr.onreadystatechange = function() {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-          var questions = JSON.parse(xhr.responseText);
-          // Process the questions data here
-          console.log(questions);
-        }
-      };
-      xhr.open("GET", "questions.json", true);
-      xhr.send();
+      fetch("https://github.com/sebarys/SailingExam/blob/main/questions.json")
+        .then(function(response) {
+          return response.json();
+        })
+        .then(function(data) {
+          var questions = data;
+          var currentQuestionIndex = 0;
+          var currentQuestionData = questions[currentQuestionIndex];
+
+          renderQuestion(currentQuestionData);
+
+          var checkAnswerBtn = document.getElementById("check-answer-btn");
+          checkAnswerBtn.addEventListener("click", function() {
+            checkAnswer(currentQuestionData);
+          });
+
+          var nextQuestionBtn = document.getElementById("next-question-btn");
+          nextQuestionBtn.addEventListener("click", function() {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < questions.length) {
+              currentQuestionData = questions[currentQuestionIndex];
+              renderQuestion(currentQuestionData);
+            } else {
+              alert("No more questions. Quiz completed!");
+            }
+          });
+        })
+        .catch(function(error) {
+          console.log("Error loading questions: ", error);
+        });
     }
 
-    window.onload = function() {
-      loadQuestions();
-    };
     // Load the questions when the page is ready
     document.addEventListener("DOMContentLoaded", function() {
       loadQuestions();
