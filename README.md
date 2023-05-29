@@ -10,15 +10,17 @@ Questions base is in JSON format - array of question objects, where question obj
   "answerA": "answer A. here",
   "answerB": "answer B. here",
   "answerC": "answer C. here",
-  "correctAnswer": "B"
+  "correctAnswer": "B",
+  "questionImage": "optional value of <img> src property"
 }
 ```
 
-`convert_to_questsion_with_answers.py` script is able to generate questions base JSON file from raw content where 5 following lines are
+`convert_to_questsion_with_answers.py` script is able to generate questions base JSON file from raw content where 5 or 6 (last with question image is optional) following lines are:
 ```
 - NUMBER. QUESTION
 - A. ANSWER_A
 - B. ANSWER_B
 - C. ANSWER_C
 - CORRECT ANSWER
+- QUESTION IMAGE SRC
 ```
