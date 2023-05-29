@@ -3,25 +3,22 @@ import json
 import sys
 
 def convert_raw_text_to_json(raw_text):
+    segments = re.split(r"\n\s*\n", raw_text.strip())
     questions = []
-    lines = raw_text.strip().split('\n')
 
-    for i in range(0, len(lines), 5):
-        question = lines[i][3:].strip()
-        answers = {
-            "A": lines[i + 1][3:].strip(),
-            "B": lines[i + 2][3:].strip(),
-            "C": lines[i + 3][3:].strip()
-        }
-        correct_answer = lines[i + 4].strip()
+    for segment in segments:
+        lines = segment.split("\n")
+        question = {}
+        question["question"] = re.sub(r'^[\d.]+', '', lines[0].strip())
+        question["answerA"] = lines[1].strip()[2:]
+        question["answerB"] = lines[2].strip()[2:]
+        question["answerC"] = lines[3].strip()[2:]
+        question["correctAnswer"] = lines[4].strip()
 
-        questions.append({
-            "question": question,
-            "answerA": answers["A"],
-            "answerB": answers["B"],
-            "answerC": answers["C"],
-            "correctAnswer": correct_answer
-        })
+        if len(lines) > 5:
+            question["questionImage"] = lines[5].strip()
+
+        questions.append(question)
 
     return questions
 
