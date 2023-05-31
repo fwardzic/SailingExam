@@ -2,23 +2,74 @@ import re
 import json
 import sys
 
+def convert_segment_to_subtexts(segment):
+    """
+    Because some questions/answers can be longer than single line,
+    we extract from single segment subtexts that are either
+    - multiline text wrapped in quotes
+    - single line text otherwise
+    """
+    lines = segment.splitlines()
+    subtexts = []
+    current_subtext = []
+    in_multiline = False
+
+    for line in lines:
+        line = line.strip()
+
+        if line.startswith('"'):
+            if line.endswith('"'):
+                subtexts.append(line.strip('"'))
+            else:
+                current_subtext.append(line.strip('"'))
+                in_multiline = True
+        elif line.endswith('"'):
+            current_subtext.append(line.strip('"'))
+            subtexts.append('\n'.join(current_subtext))
+            current_subtext = []
+            in_multiline = False
+        elif in_multiline:
+            current_subtext.append(line)
+        else:
+            subtexts.append(line)
+
+    return subtexts
+
 def convert_raw_text_to_json(raw_text):
+    """
+    Split raw_text into segments.
+    Each segment is a subtext that start and end with empty line.
+    Segment is transformed to subtexts (as questions/answers can be multiline)
+    and from those subtexts we produce singe question object.
+    """
     segments = re.split(r"\n\s*\n", raw_text.strip())
     questions = []
 
     for segment in segments:
-        lines = segment.split("\n")
-        question = {}
-        question["question"] = re.sub(r'^[\d.]+', '', lines[0].strip())
-        question["answerA"] = lines[1].strip()[2:]
-        question["answerB"] = lines[2].strip()[2:]
-        question["answerC"] = lines[3].strip()[2:]
-        question["correctAnswer"] = lines[4].strip()
+        lines = convert_segment_to_subtexts(segment)
+        current_question = {}
 
-        if len(lines) > 5:
-            question["questionImage"] = lines[5].strip()
+        for line in lines:
+            line = line.strip()
 
-        questions.append(question)
+            question_number_match = re.match(r"^(\d+\.)", line)
+            question_correct_answer_match = re.match(r"^[A-C]$", line)
+
+            if question_number_match:
+                current_question["question"] = line
+            elif line.startswith("A."):
+                current_question["answerA"] = line[2:]
+            elif line.startswith("B."):
+                current_question["answerB"] = line[2:]
+            elif line.startswith("C."):
+                current_question["answerC"] = line[2:]
+            elif question_correct_answer_match:
+                current_question["correctAnswer"] = line
+            elif line.startswith("http") or line.startswith("data:image"):
+                current_question["questionImage"] = line
+
+        questions.append(current_question)
+        current_question = {}
 
     return questions
 
