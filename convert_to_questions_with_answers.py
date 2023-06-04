@@ -58,11 +58,11 @@ def convert_raw_text_to_json(raw_text):
             if question_number_match:
                 current_question["question"] = line
             elif line.startswith("A."):
-                current_question["answerA"] = line[2:]
+                current_question["answerA"] = line
             elif line.startswith("B."):
-                current_question["answerB"] = line[2:]
+                current_question["answerB"] = line
             elif line.startswith("C."):
-                current_question["answerC"] = line[2:]
+                current_question["answerC"] = line
             elif question_correct_answer_match:
                 current_question["correctAnswer"] = line
             elif line.startswith("http") or line.startswith("data:image"):
