@@ -67,6 +67,9 @@ def convert_raw_text_to_json(raw_text):
                 current_question["correctAnswer"] = line
             elif line.startswith("http") or line.startswith("data:image"):
                 current_question["questionImage"] = line
+            elif line.startswith("HINT:"):
+                print(f'found hint {line}')
+                current_question["hint"] = line
 
         questions.append(current_question)
         current_question = {}

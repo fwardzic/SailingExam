@@ -1168,5 +1168,142 @@
     "answerB": "B. To fa\u0142 utrzymuj\u0105cy gafel pod odpowiednim k\u0105tem do masztu",
     "answerC": "C. To lina do \u015bci\u0105gania w d\u00f3\u0142 gafla przy zrzucaniu \u017cagla gaflowego",
     "correctAnswer": "B"
+  },
+  {
+    "question": "1. Miecz na jachtach mieczowych z lekkim mieczem s\u0142u\u017cy do:",
+    "answerA": "A. Zwi\u0119kszenia oporu bocznego",
+    "answerB": "B. Wspomagania sterowania",
+    "answerC": "C. Poprawy stateczno\u015bci jachtu",
+    "correctAnswer": "A",
+    "hint": "HINT: miecz musia\u0142 by by\u0107 cie\u017cki \u017ceby poprawi\u0107 stateczno\u015b\u0107 jachtu"
+  },
+  {
+    "question": "2. Jacht p\u0142ynie bajdewindem z pewn\u0105 szybko\u015bci\u0105, przy wietrze rzeczywistym o szybko\u015bci wi\u0119kszej od zera. Najwi\u0119ksz\u0105 szybko\u015b\u0107 z wymienionych poni\u017cej ma zawsze:",
+    "answerA": "A. Wiatr pozorny",
+    "answerB": "B. Wiatr rzeczywisty",
+    "answerC": "C. Wiatr ruchu w\u0142asnego",
+    "correctAnswer": "A",
+    "hint": "HINT: Wiatr rzeczywisty \u2013 ruch powietrza wzgl\u0119dem powierzchni ziemi wywo\u0142any przez r\u00f3\u017cnic\u0119 ci\u015bnie\u0144 i ukszta\u0142towanie terenu.\nWiatr w\u0142asny \u2013 wiatr powstaj\u0105cy na skutek ruchu cia\u0142a. Je\u017celi powietrze nie porusza si\u0119 wzgl\u0119dem powierzchni ziemi, a cia\u0142o si\u0119 porusza, to ruch powietrza wzgl\u0119dem cia\u0142a nazywamy wiatrem w\u0142asnym. Wieje on w kierunku przeciwnym do ruchu cia\u0142a i ma tak\u0105 sam\u0105 pr\u0119dko\u015b\u0107 co poruszaj\u0105ce si\u0119 cia\u0142o.\nWiatr pozorny \u2013 wypadkowa si\u0142 wiatru rzeczywistego i w\u0142asnego. Na og\u00f3\u0142 wieje bardziej od dziobu ni\u017c wiatr rzeczywisty. To on decyduje o ruchu jachtu. Jego si\u0142a i kierunek zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od pr\u0119dko\u015bci jachtu i kursu wzgl\u0119dem wiatru. Inaczej ruch powietrza wzgl\u0119dem jachtu.\nhttps://www.blekitnypiotrus.pl/wiatr_rzeczywisty.jpg"
+  },
+  {
+    "question": "3. Jacht p\u0142ynie pod wiatr z wyluzowanymi \u017caglami. Od czego zale\u017cy d\u0142ugo\u015b\u0107 drogi hamowania?",
+    "answerA": "A. Od rozmieszczenia za\u0142ogi na jachcie",
+    "answerB": "B. Od wzajemnego po\u0142o\u017cenia \u015brodka wyporu i \u015brodka o\u017caglowania",
+    "answerC": "C. Od masy jachtu i jego pr\u0119dko\u015bci w momencie ustawienia w linii wiatru",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "4. Przy znacznym wychyleniu p\u0142etwy sterowej w prawo (65-75 stopni), jacht p\u0142yn\u0105cy do przodu b\u0119dzie:",
+    "answerA": "A. Skr\u0119ca\u0142 w lewo i hamowa\u0142",
+    "answerB": "B. Utrzymywa\u0142 kurs i mocno hamowa\u0142",
+    "answerC": "C. Skr\u0119ca\u0142 w prawo i hamowa\u0142",
+    "correctAnswer": "C",
+    "hint": "HINT: p\u0142etwa sterowa w prawo -> rumpel w lewo, znaczne wychlenie -> p\u0142etwa cz\u0119\u015bciowo b\u0119dzie wyhamowywa\u0142a jacht"
+  },
+  {
+    "question": "5. Pod jakim warunkiem jacht \u201ewywracalny\u201d (k\u0105t krytyczny przechy\u0142u np. ok. 50 stopni) mo\u017ce by\u0107 dopuszczony do \u017ceglugi?",
+    "answerA": "A. Je\u017celi za\u0142oga ma za\u0142o\u017cone pasy lub kamizelki ratunkowe",
+    "answerB": "B. Je\u017celi jest niezatapialny t.j. posiada zbiorniki wyporno\u015bciowe o obj\u0119to\u015bci w dm3 wi\u0119kszej od masy jachtu w kg.",
+    "answerC": "C. Je\u017celi jest wyposa\u017cony w dwie pompy z\u0119zowe",
+    "correctAnswer": "B",
+    "hint": "HINT: wywracalne jachty musz\u0105 by\u0107 niezatapialne. Jacht jest niewywracalny je\u015bli ma dodatni moment prostuj\u0105cy przy k\u0105cie 90 stopni\nTeoria o niewywracalno\u015bci jacht\u00f3w balastowych to tylko teoria. Ka\u017cdy jacht si\u0119 przewraca i \u017caden slogan tego nie zmieni. Dlatego nale\u017cy uwa\u017ca\u0107 jacht za poprawnie skonstruowany, gdy spe\u0142ni nast\u0119puj\u0105ce postulaty:\n- przechylony o 90 stopni b\u0119dzie posiada\u0142 dodatni moment prostuj\u0105cy\n- moment prostuj\u0105cy b\u0119dzie wzrasta\u0142 w mo\u017cliwie du\u017cym przedziale k\u0105t\u00f3w przechy\u0142u, a mala\u0142 wolniej ni\u017c zmniejszanie si\u0119 momentu przechylaj\u0105cego (dla przechy\u0142\u00f3w od 0 do 90 stopni)\n- obszar r\u00f3wnowagi statecznej jachtu przechylonego o 180 stopni b\u0119dzie mo\u017cliwie ma\u0142y, czyli stosunkowo niedu\u017ce oddzia\u0142ywanie bdzie w stanie spowodowa\u0107 powr\u00f3t jachtu do pozycji wyj\u015bciowej\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/statecznosc-jachtu.php"
+  },
+  {
+    "question": "6. Jacht ma postawiony grot i fok. Przed zwrotem przez sztag zluzowano szot foka. Co to spowoduje?",
+    "answerA": "A. Zwi\u0119kszenie zawietrzno\u015bci jachtu, co utrudni zwrot",
+    "answerB": "B. Zwi\u0119kszenie przechy\u0142u jachtu",
+    "answerC": "C. Zwi\u0119kszenie nawietrzno\u015bci jachtu",
+    "correctAnswer": "C",
+    "hint": "HINT: napi\u0119ty fok - zawietrzno\u015b\u0107\nzluzowany fok - nawietrzno\u015b\u0107 bo \u015brodek o\u017caglowania do ty\u0142u\nJe\u017celi przesuniemy \u015brodek o\u017caglowania w stron\u0119 rufy lub \u015brodek bocznego oporu w stron\u0119 dziobu powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu w stron\u0119 wiatru \u2013 jacht stanie si\u0119 nawietrzny.\nJe\u017celi przesuniemy \u015brodek o\u017caglowania do przodu lub \u015brodek bocznego oporu do ty\u0142u, powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu od wiatru \u2013 jacht stanie si\u0119 zawietrzny.\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/zrownowazenie-zaglowe-jachtu.php"
+  },
+  {
+    "question": "7. Podniesienie miecza na kursie bajdewind spowoduje:",
+    "answerA": "A. Konieczno\u015b\u0107 balastowania na nawietrznej",
+    "answerB": "B. Zwi\u0119kszenie dryfu",
+    "answerC": "C. Zwi\u0119kszenie szybko\u015bci jachtu",
+    "correctAnswer": "B",
+    "hint": "HINT: bajdewind - du\u017ca si\u0142a przechylaj\u0105ca powoduj\u0105ca dryf, miecz si\u0119 temu przeciwstawia. Usuwamy miecz -> dryf wi\u0119kszy\nbalastujemy gdy mamy wi\u0119kszy przechy\u0142,\nmiecz zwi\u0119ksza si\u0142\u0119 oporu bocznego"
+  },
+  {
+    "question": "8. Jacht jest tak skonstruowany, \u017ce moment prostuj\u0105cy przy k\u0105cie przechy\u0142u ok. 45 stopni jest bliski zeru. Czy jest to jacht?",
+    "answerA": "A. Wywracalny",
+    "answerB": "B. Niewywracalny",
+    "answerC": "C. Niewywracalny o ile posiada komory wyporno\u015bciowe.",
+    "correctAnswer": "A",
+    "hint": "HINT: wywracalne jachty musz\u0105 by\u0107 niezatapialne. Jacht jest niewywracalny je\u015bli ma dodatni moment prostuj\u0105cy przy k\u0105cie 90 stopni\nTeoria o niewywracalno\u015bci jacht\u00f3w balastowych to tylko teoria. Ka\u017cdy jacht si\u0119 przewraca i \u017caden slogan tego nie zmieni. Dlatego nale\u017cy uwa\u017ca\u0107 jacht za poprawnie skonstruowany, gdy spe\u0142ni nast\u0119puj\u0105ce postulaty:\n- przechylony o 90 stopni b\u0119dzie posiada\u0142 dodatni moment prostuj\u0105cy\n- moment prostuj\u0105cy b\u0119dzie wzrasta\u0142 w mo\u017cliwie du\u017cym przedziale k\u0105t\u00f3w przechy\u0142u, a mala\u0142 wolniej ni\u017c zmniejszanie si\u0119 momentu przechylaj\u0105cego (dla przechy\u0142\u00f3w od 0 do 90 stopni)\n- obszar r\u00f3wnowagi statecznej jachtu przechylonego o 180 stopni b\u0119dzie mo\u017cliwie ma\u0142y, czyli stosunkowo niedu\u017ce oddzia\u0142ywanie bdzie w stanie spowodowa\u0107 powr\u00f3t jachtu do pozycji wyj\u015bciowej\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/statecznosc-jachtu.php"
+  },
+  {
+    "question": "9. Jacht idzie pod \u017caglami kursem p\u00f3\u0142wiatr, \u017cagle ustawione s\u0105 poprawnie. Czy po w\u0142\u0105czeniu silnika naprz\u00f3d, co spowoduje zwi\u0119kszenie szybko\u015bci jachtu \u017cagle b\u0119d\u0105 nadal pracowa\u0107 poprawnie?",
+    "answerA": "A. Nadal poprawnie",
+    "answerB": "B. B\u0119dzie trzeba je bardziej wybra\u0107",
+    "answerC": "C. B\u0119dzie trzeba je bardziej wyluzowa\u0107",
+    "correctAnswer": "B",
+    "hint": "HINT: zwi\u0119kszenie pr\u0119dko\u015bci spowoduje wzrost wiatru w\u0142asnego -> kierunek wiatru si\u0119 wyostrzy (jak ostrzymy trzeba wybra\u0107 \u017cagle)"
+  },
+  {
+    "question": "10. Jacht jest tak skonstruowany, \u017ce moment prostuj\u0105cy w zakresie k\u0105t\u00f3w przechy\u0142u od 0 stopni do 90 stopni jest dodatni. Czy jest to jacht ?",
+    "answerA": "A. Wywracalny",
+    "answerB": "B. Niewywracalny",
+    "answerC": "C. Niewywracalny o ile posiada komory wyporno\u015bciowe.",
+    "correctAnswer": "B",
+    "hint": "HINT: wywracalne jachty musz\u0105 by\u0107 niezatapialne. Jacht jest niewywracalny je\u015bli ma dodatni moment prostuj\u0105cy przy k\u0105cie 90 stopni\nTeoria o niewywracalno\u015bci jacht\u00f3w balastowych to tylko teoria. Ka\u017cdy jacht si\u0119 przewraca i \u017caden slogan tego nie zmieni. Dlatego nale\u017cy uwa\u017ca\u0107 jacht za poprawnie skonstruowany, gdy spe\u0142ni nast\u0119puj\u0105ce postulaty:\n- przechylony o 90 stopni b\u0119dzie posiada\u0142 dodatni moment prostuj\u0105cy\n- moment prostuj\u0105cy b\u0119dzie wzrasta\u0142 w mo\u017cliwie du\u017cym przedziale k\u0105t\u00f3w przechy\u0142u, a mala\u0142 wolniej ni\u017c zmniejszanie si\u0119 momentu przechylaj\u0105cego (dla przechy\u0142\u00f3w od 0 do 90 stopni)\n- obszar r\u00f3wnowagi statecznej jachtu przechylonego o 180 stopni b\u0119dzie mo\u017cliwie ma\u0142y, czyli stosunkowo niedu\u017ce oddzia\u0142ywanie bdzie w stanie spowodowa\u0107 powr\u00f3t jachtu do pozycji wyj\u015bciowej\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/statecznosc-jachtu.php"
+  },
+  {
+    "question": "11. Czy podniesienie miecza na kursie pe\u0142ny baksztag spowoduje zwi\u0119kszenie dryfu jachtu:",
+    "answerA": "A. Tak, bo zmniejszy si\u0119 si\u0142a bocznego oporu",
+    "answerB": "B. Nie, bo si\u0142a aerodynamiczna jest skierowana w kierunku ruchu jachtu",
+    "answerC": "C. Podniesienie miecza nie ma wp\u0142ywu na dryf jachtu niezale\u017cnie od kursu wzgl. wiatru",
+    "correctAnswer": "B",
+    "hint": "HINT: bajdewind - du\u017ca si\u0142a przechylaj\u0105ca powoduj\u0105ca dryf, miecz si\u0119 temu przeciwstawia. Usuwamy miecz -> dryf wi\u0119kszy, balastujemy gdy mamy wi\u0119kszy przechy\u0142,\nmiecz zwi\u0119ksza si\u0142\u0119 oporu bocznego\nW baksztagu du\u017co wa\u017cniejsza i wi\u0119ksza jest si\u0142a aerodynamiczna"
+  },
+  {
+    "question": "12. P\u00f3\u0142wiatr to kurs jachtu przy wietrze rzeczywistym wiej\u0105cym w stosunku do kursu jachtu pod k\u0105tem:",
+    "answerA": "A. Ok. 90 stopni",
+    "answerB": "B. Ok. 60 stopni",
+    "answerC": "C. Ok. 150 stopni",
+    "correctAnswer": "A",
+    "hint": "HINT: fordewind (niderl. voor de wind) \u2013 gdy wiatr wieje prosto od rufy\nbaksztag (niderl. bakstag) \u2013 gdy wiatr wieje pomi\u0119dzy fordewindem a p\u00f3\u0142wiatrem\np\u00f3\u0142wiatr \u2013 gdy wiatr wieje z boku\nbajdewind (niderl. bij de wind) - gdy wiatr wieje pomi\u0119dzy p\u00f3\u0142wiatrem a k\u0105tem martwym\nk\u0105t martwy - gdy wiatr wieje pod tak ostrym k\u0105tem od strony dziobu, \u017ce \u017cagle mimo maksymalnego wybrania nie pracuj\u0105, \u0142opocz\u0105"
+  },
+  {
+    "question": "13. Jacht \u017cegluje w stosunku do wiatru rzeczywistego pod k\u0105tem 60 stopni. Jak nazywamy taki kurs wzgl\u0119dem wiatru:",
+    "answerA": "A. Baksztag",
+    "answerB": "B. Bajdewind",
+    "answerC": "C. P\u00f3\u0142wiatr",
+    "correctAnswer": "B",
+    "hint": "HINT: fordewind (niderl. voor de wind) \u2013 gdy wiatr wieje prosto od rufy\nbaksztag (niderl. bakstag) \u2013 gdy wiatr wieje pomi\u0119dzy fordewindem a p\u00f3\u0142wiatrem\np\u00f3\u0142wiatr \u2013 gdy wiatr wieje z boku\nbajdewind (niderl. bij de wind) - gdy wiatr wieje pomi\u0119dzy p\u00f3\u0142wiatrem a k\u0105tem martwym\nk\u0105t martwy - gdy wiatr wieje pod tak ostrym k\u0105tem od strony dziobu, \u017ce \u017cagle mimo maksymalnego wybrania nie pracuj\u0105, \u0142opocz\u0105"
+  },
+  {
+    "question": "14. Baksztag to kurs jachtu przy wietrze rzeczywistym wiej\u0105cym w stosunku do kursu jachtu pod k\u0105tem:",
+    "answerA": "A. 90 stopni",
+    "answerB": "B. ok. 60 stopni do 70 stopni",
+    "answerC": "C. Ok. 100 stopni do 170 stopni",
+    "correctAnswer": "C",
+    "hint": "HINT: fordewind (niderl. voor de wind) \u2013 gdy wiatr wieje prosto od rufy\nbaksztag (niderl. bakstag) \u2013 gdy wiatr wieje pomi\u0119dzy fordewindem a p\u00f3\u0142wiatrem\np\u00f3\u0142wiatr \u2013 gdy wiatr wieje z boku\nbajdewind (niderl. bij de wind) - gdy wiatr wieje pomi\u0119dzy p\u00f3\u0142wiatrem a k\u0105tem martwym\nk\u0105t martwy - gdy wiatr wieje pod tak ostrym k\u0105tem od strony dziobu, \u017ce \u017cagle mimo maksymalnego wybrania nie pracuj\u0105, \u0142opocz\u0105"
+  },
+  {
+    "question": "15. Fordewind to kurs jachtu przy wietrze wiej\u0105cy w stosunku do kursu jachtu:",
+    "answerA": "A. Od dziobu pod k\u0105tem mniejszym od 90 stopni",
+    "answerB": "B. Dok\u0142adnie pod k\u0105tem 90 stopni",
+    "answerC": "C. Wiej\u0105cy dok\u0142adnie od strony rufy jachtu",
+    "correctAnswer": "C",
+    "hint": "HINT: fordewind (niderl. voor de wind) \u2013 gdy wiatr wieje prosto od rufy\nbaksztag (niderl. bakstag) \u2013 gdy wiatr wieje pomi\u0119dzy fordewindem a p\u00f3\u0142wiatrem\np\u00f3\u0142wiatr \u2013 gdy wiatr wieje z boku\nbajdewind (niderl. bij de wind) - gdy wiatr wieje pomi\u0119dzy p\u00f3\u0142wiatrem a k\u0105tem martwym\nk\u0105t martwy - gdy wiatr wieje pod tak ostrym k\u0105tem od strony dziobu, \u017ce \u017cagle mimo maksymalnego wybrania nie pracuj\u0105, \u0142opocz\u0105"
+  },
+  {
+    "question": "16. Na szkicu obok pokazano jacht i kierunek wiatru rzeczywistego (strza\u0142ka niebieska). Jakim halsem i kursem wzgl\u0119dem wiatru p\u0142ynie ten jacht?",
+    "answerA": "A. P\u00f3\u0142wiatrem lewego halsu",
+    "answerB": "B. Baksztagiem lewego halsu",
+    "answerC": "C. P\u00f3\u0142wiatrem prawego halsu",
+    "correctAnswer": "A",
+    "questionImage": "https://drive.google.com/uc?export=view&id=1P1RaFWFgZC6jokftgiqM_7oAbEuF7onf",
+    "hint": "HINT: hals bierzemy na podstawie u\u0142o\u017cenia g\u0142ownego \u017cagla, grot po prawej -> lewy hals"
+  },
+  {
+    "question": "17. Na szkicu obok pokazano jacht i kierunek wiatru (strza\u0142ka niebieska) Jakim halsem i kursem wzgl\u0119dem wiatru p\u0142ynie ten jacht?",
+    "answerA": "A. Baksztagiem lewego halsu",
+    "answerB": "B. Fordewindem lewego halsu",
+    "answerC": "C. Fordewindem prawego halsu",
+    "correctAnswer": "B",
+    "questionImage": "https://drive.google.com/uc?export=view&id=1FNfc0OLWNSd4LqYEuG-DHg6nWCigLm8c",
+    "hint": "HINT: hals bierzemy na podstawie u\u0142o\u017cenia g\u0142ownego \u017cagla, grot po prawej -> lewy hals"
   }
 ]
