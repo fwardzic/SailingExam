@@ -65,6 +65,7 @@
   {
     "question": "10. Bryty, sa to:",
     "answerA": "A. Pasy tkaniny, z kt\u00f3rej uszyty jest \u017cagiel",
+    "answerB": "B. Wzmocnienie rog\u00f3w \u017cagla",
     "answerC": "C. Szwy \u0142\u0105cz\u0105ce pasy tkaniny w \u017caglu",
     "correctAnswer": "A"
   },
@@ -551,7 +552,11 @@
     "correctAnswer": "A"
   },
   {
-    "question": "3. Liny stalowe podtrzymuj\u0105ce maszt w p\u0142aszczy\u017anie poprzecznej (np. na OMEDZE)"
+    "question": "3. Liny stalowe podtrzymuj\u0105ce maszt w p\u0142aszczy\u017anie poprzecznej (np. na OMEDZE)",
+    "answerA": "A. Wanty i topwanty",
+    "answerB": "B. Sztag i achtersztag",
+    "answerC": "C. Baksztag i topenanta",
+    "correctAnswer": "A"
   },
   {
     "question": "4. Rumpel to element urz\u0105dzenia:",
