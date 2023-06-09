@@ -1310,5 +1310,227 @@
     "correctAnswer": "B",
     "questionImage": "https://drive.google.com/uc?export=view&id=1FNfc0OLWNSd4LqYEuG-DHg6nWCigLm8c",
     "hint": "HINT: hals bierzemy na podstawie u\u0142o\u017cenia g\u0142ownego \u017cagla, grot po prawej -> lewy hals"
+  },
+  {
+    "question": "18. Jacht typu slup ( postawiony grot i fok) p\u0142ynie lewym halsem je\u017celi:",
+    "answerA": "A. Ma wiatr z lewej burty (grot wybrany po prawej burcie)",
+    "answerB": "B. Ma wiatr z ty\u0142u, a grota wybrany po lewej burcie",
+    "answerC": "C. Ma wiatr z prawej burty (grot wybrany po lewej burcie)",
+    "correctAnswer": "A",
+    "hint": "HINT: hals bierzemy na podstawie u\u0142o\u017cenia g\u0142ownego \u017cagla, grot po prawej -> lewy hals"
+  },
+  {
+    "question": "20. Czy na wszystkich kursach wzgl. wiatru wiatr pozorny jest ostrzejszy od wiatru rzeczywistego?",
+    "answerA": "A. Nie, tylko na kursie bajdewind",
+    "answerB": "B. Tak, na wszystkich kursach",
+    "answerC": "C. Tak, z wyj\u0105tkiem fordewindu, kiedy wiatr pozorny ma taki sam kierunek jak wiatr rzeczywisty",
+    "correctAnswer": "C",
+    "hint": "HINT: Wiatr rzeczywisty \u2013 ruch powietrza wzgl\u0119dem powierzchni ziemi wywo\u0142any przez r\u00f3\u017cnic\u0119 ci\u015bnie\u0144 i ukszta\u0142towanie terenu.\nWiatr w\u0142asny \u2013 wiatr powstaj\u0105cy na skutek ruchu cia\u0142a. Je\u017celi powietrze nie porusza si\u0119 wzgl\u0119dem powierzchni ziemi, a cia\u0142o si\u0119 porusza, to ruch powietrza wzgl\u0119dem cia\u0142a nazywamy wiatrem w\u0142asnym. Wieje on w kierunku przeciwnym do ruchu cia\u0142a i ma tak\u0105 sam\u0105 pr\u0119dko\u015b\u0107 co poruszaj\u0105ce si\u0119 cia\u0142o.\nWiatr pozorny \u2013 wypadkowa si\u0142 wiatru rzeczywistego i w\u0142asnego. Na og\u00f3\u0142 wieje bardziej od dziobu ni\u017c wiatr rzeczywisty. To on decyduje o ruchu jachtu. Jego si\u0142a i kierunek zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od pr\u0119dko\u015bci jachtu i kursu wzgl\u0119dem wiatru. Inaczej ruch powietrza wzgl\u0119dem jachtu.\nhttps://www.blekitnypiotrus.pl/wiatr_rzeczywisty.jpg"
+  },
+  {
+    "question": "20. Jacht stoi zacumowany do boi, jaki wiatr odczuwamy na jachcie",
+    "answerA": "A. Pozorny",
+    "answerB": "B. Rzeczywisty",
+    "answerC": "C. W\u0142asny (ruchu w\u0142asnego)",
+    "correctAnswer": "B",
+    "hint": "HINT: Wiatr rzeczywisty \u2013 ruch powietrza wzgl\u0119dem powierzchni ziemi wywo\u0142any przez r\u00f3\u017cnic\u0119 ci\u015bnie\u0144 i ukszta\u0142towanie terenu.\nWiatr w\u0142asny \u2013 wiatr powstaj\u0105cy na skutek ruchu cia\u0142a. Je\u017celi powietrze nie porusza si\u0119 wzgl\u0119dem powierzchni ziemi, a cia\u0142o si\u0119 porusza, to ruch powietrza wzgl\u0119dem cia\u0142a nazywamy wiatrem w\u0142asnym. Wieje on w kierunku przeciwnym do ruchu cia\u0142a i ma tak\u0105 sam\u0105 pr\u0119dko\u015b\u0107 co poruszaj\u0105ce si\u0119 cia\u0142o.\nWiatr pozorny \u2013 wypadkowa si\u0142 wiatru rzeczywistego i w\u0142asnego. Na og\u00f3\u0142 wieje bardziej od dziobu ni\u017c wiatr rzeczywisty. To on decyduje o ruchu jachtu. Jego si\u0142a i kierunek zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od pr\u0119dko\u015bci jachtu i kursu wzgl\u0119dem wiatru. Inaczej ruch powietrza wzgl\u0119dem jachtu.\nhttps://www.blekitnypiotrus.pl/wiatr_rzeczywisty.jpg"
+  },
+  {
+    "question": "21. Wska\u017anik wiatru jachtu zacumowanego nieruchomo wskazuje wiatr:",
+    "answerA": "A. Pozorny",
+    "answerB": "B. W\u0142asny (ruchu w\u0142asnego)",
+    "answerC": "C. Rzeczywisty",
+    "correctAnswer": "C",
+    "hint": "HINT: Wiatr rzeczywisty \u2013 ruch powietrza wzgl\u0119dem powierzchni ziemi wywo\u0142any przez r\u00f3\u017cnic\u0119 ci\u015bnie\u0144 i ukszta\u0142towanie terenu.\nWiatr w\u0142asny \u2013 wiatr powstaj\u0105cy na skutek ruchu cia\u0142a. Je\u017celi powietrze nie porusza si\u0119 wzgl\u0119dem powierzchni ziemi, a cia\u0142o si\u0119 porusza, to ruch powietrza wzgl\u0119dem cia\u0142a nazywamy wiatrem w\u0142asnym. Wieje on w kierunku przeciwnym do ruchu cia\u0142a i ma tak\u0105 sam\u0105 pr\u0119dko\u015b\u0107 co poruszaj\u0105ce si\u0119 cia\u0142o.\nWiatr pozorny \u2013 wypadkowa si\u0142 wiatru rzeczywistego i w\u0142asnego. Na og\u00f3\u0142 wieje bardziej od dziobu ni\u017c wiatr rzeczywisty. To on decyduje o ruchu jachtu. Jego si\u0142a i kierunek zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od pr\u0119dko\u015bci jachtu i kursu wzgl\u0119dem wiatru. Inaczej ruch powietrza wzgl\u0119dem jachtu.\nhttps://www.blekitnypiotrus.pl/wiatr_rzeczywisty.jpg"
+  },
+  {
+    "question": "22. Wska\u017anik wiatru jachtu p\u0142yn\u0105cego pod \u017caglami wskazuje wiatr:",
+    "answerA": "A. Rzeczywisty",
+    "answerB": "B. W\u0142asny (ruchu w\u0142asnego)",
+    "answerC": "C. Pozorny",
+    "correctAnswer": "C",
+    "hint": "HINT: Wiatr rzeczywisty \u2013 ruch powietrza wzgl\u0119dem powierzchni ziemi wywo\u0142any przez r\u00f3\u017cnic\u0119 ci\u015bnie\u0144 i ukszta\u0142towanie terenu.\nWiatr w\u0142asny \u2013 wiatr powstaj\u0105cy na skutek ruchu cia\u0142a. Je\u017celi powietrze nie porusza si\u0119 wzgl\u0119dem powierzchni ziemi, a cia\u0142o si\u0119 porusza, to ruch powietrza wzgl\u0119dem cia\u0142a nazywamy wiatrem w\u0142asnym. Wieje on w kierunku przeciwnym do ruchu cia\u0142a i ma tak\u0105 sam\u0105 pr\u0119dko\u015b\u0107 co poruszaj\u0105ce si\u0119 cia\u0142o.\nWiatr pozorny \u2013 wypadkowa si\u0142 wiatru rzeczywistego i w\u0142asnego. Na og\u00f3\u0142 wieje bardziej od dziobu ni\u017c wiatr rzeczywisty. To on decyduje o ruchu jachtu. Jego si\u0142a i kierunek zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od pr\u0119dko\u015bci jachtu i kursu wzgl\u0119dem wiatru. Inaczej ruch powietrza wzgl\u0119dem jachtu.\nhttps://www.blekitnypiotrus.pl/wiatr_rzeczywisty.jpg"
+  },
+  {
+    "question": "23. Przy ruchu jachtu do przodu wychylenie p\u0142etwy steru w stron\u0119 lewej burty spowoduje skr\u0119t\njachtu i odchylenie dziobu i rufy:",
+    "answerA": "A. Skr\u0119t w lewo, dzi\u00f3b w lewo, rufa w prawo",
+    "answerB": "B. Skr\u0119t w lewo, dzi\u00f3b w lewo , rufa w lewo",
+    "answerC": "C. Skr\u0119t w prawo, dzi\u00f3b w prawo rufa w lewo",
+    "correctAnswer": "A",
+    "hint": "HINT: Je\u015bli p\u0142etwa jest wychylona w stron\u0119 lewej burty to rumpel zosta\u0142 wychylony w stron\u0119 prawej burty. Dzi\u00f3b skr\u0119ca w stron\u0119, w kt\u00f3r\u0105 jest wychylona p\u0142etwa ruchem po \u0142uku."
+  },
+  {
+    "question": "24. Przy ruchu jachtu wstecz wychylenie p\u0142etwy steru w stron\u0119 prawej burty spowoduje skr\u0119t\njachtu i odchylenie dziobu i rufy:",
+    "answerA": "A. Dzi\u00f3b w lewo, rufa w prawo",
+    "answerB": "B. Dzi\u00f3b w lewo, rufa w lewo",
+    "answerC": "C. Dzi\u00f3b w prawo, rufa w lewo",
+    "correctAnswer": "A",
+    "hint": "HINT: Je\u015bli p\u0142etwa jest wychylona w stron\u0119 prawej burty to rumpel zosta\u0142 wychylony w stron\u0119 lewej burty. Dzi\u00f3b skr\u0119ca w stron\u0119, w kt\u00f3r\u0105 jest wychylona p\u0142etwa ruchem po \u0142uku."
+  },
+  {
+    "question": "25.  Na p\u0142etw\u0119 sterow\u0105 jachtu dzia\u0142a si\u0142a hydrodynamiczna, wielko\u015b\u0107 tej si\u0142y zale\u017cy od?",
+    "answerA": "A. K\u0105ta wychylenia p\u0142etwy sterowej i jej powierzchni",
+    "answerB": "B. K\u0105ta wychylenia p\u0142etwy sterowej, jej powierzchni i szybko\u015bci jachtu",
+    "answerC": "C. Tylko od powierzchni p\u0142etwy sterowej i szybko\u015bci jachtu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "26. Zrzucenie foka na jachcie typu slup \u017cegluj\u0105cym przy postawionym grocie i foku spowoduje:",
+    "answerA": "A. Zwi\u0119kszenie nawietrzno\u015bci jachtu",
+    "answerB": "B. Zmniejszenie nawietrzno\u015bci jachtu",
+    "answerC": "C. Tylko zmniejszenie przechy\u0142u jachtu",
+    "correctAnswer": "A",
+    "hint": "HINT:  Prawid\u0142owo skonstruowany jacht \u017caglowy powinien mie\u0107 mo\u017cliwo\u015b\u0107 takiego ustawienia \u017cagli, aby ze sterem w pozycji \u2018zero\u2019 (p\u0142etwa sterowa ustawiona w osi jachtu) p\u0142yn\u0105\u0142 kursem bez wykazywania tendencji do skr\u0119tu w kt\u00f3r\u0105kolwiek stron\u0119. To jest w\u0142a\u015bnie zr\u00f3wnowa\u017cenie \u017caglowe jachtu. Uzyskuje si\u0119 taki stan poprzez odpowiednie ustawienie \u017cagli.\nGdy nie mo\u017cna uzyska\u0107 stabilnego kursu ze sterem w pozycji \u2018zero\u2019 poprzez odpowiednie ustawienie \u017cagli i jacht wykazuje tendencje do ostrzenia b\u0105d\u017a odpadania, m\u00f3wimy, \u017ce jacht jest nawietrzny (ostrzy) lub zawietrzny (odpada).\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/zrownowazenie-zaglowe-jachtu.php"
+  },
+  {
+    "question": "27. Znaczne zarefowanie grota na jachcie zr\u00f3wnowa\u017conym \u017caglowo o osprz\u0119cie \u017caglowym typu slup przy postawionym pe\u0142nym foku spowoduje:",
+    "answerA": "A. Zwi\u0119kszenie zawietrzno\u015bci jachtu",
+    "answerB": "B. Zwi\u0119kszenie nawietrzno\u015bci jachtu",
+    "answerC": "C. Tylko zmniejszenie si\u0142 dzia\u0142aj\u0105cych na \u017cagle",
+    "correctAnswer": "A",
+    "hint": "HINT:  Prawid\u0142owo skonstruowany jacht \u017caglowy powinien mie\u0107 mo\u017cliwo\u015b\u0107 takiego ustawienia \u017cagli, aby ze sterem w pozycji \u2018zero\u2019 (p\u0142etwa sterowa ustawiona w osi jachtu) p\u0142yn\u0105\u0142 kursem bez wykazywania tendencji do skr\u0119tu w kt\u00f3r\u0105kolwiek stron\u0119. To jest w\u0142a\u015bnie zr\u00f3wnowa\u017cenie \u017caglowe jachtu. Uzyskuje si\u0119 taki stan poprzez odpowiednie ustawienie \u017cagli.\nGdy nie mo\u017cna uzyska\u0107 stabilnego kursu ze sterem w pozycji \u2018zero\u2019 poprzez odpowiednie ustawienie \u017cagli i jacht wykazuje tendencje do ostrzenia b\u0105d\u017a odpadania, m\u00f3wimy, \u017ce jacht jest nawietrzny (ostrzy) lub zawietrzny (odpada).\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/zrownowazenie-zaglowe-jachtu.php"
+  },
+  {
+    "question": "28. Nadmierne wybieranie \u017cagli ustawionych prawid\u0142owo \u2013 pod optymalnym k\u0105tem natarcia ( np. maksymalne wybranie \u017cagli przy \u017cegludze kursem p\u00f3\u0142wiatr czy baksztag) spowoduje:",
+    "answerA": "A. Zwi\u0119kszenie si\u0142y ci\u0105gu",
+    "answerB": "B. Zmniejszenie si\u0142y ci\u0105gu i na pewnych kursach zwi\u0119kszenie dryfu",
+    "answerC": "C. Takie ustawienie nie zmienia si\u0142y ci\u0105gu, ale mo\u017ce mie\u0107 wp\u0142yw na dryf",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "29. Najwi\u0119ksza si\u0142a aerodynamiczna na \u017caglu, powstaje przy k\u0105cie natarcia do wiatru pozornego r\u00f3wnym ok.",
+    "answerA": "A. 15 - 25 stopni",
+    "answerB": "B. 45 stopni",
+    "answerC": "C. 90 stopni",
+    "correctAnswer": "A",
+    "hint": "HINT: Strugi wiatru napotykaj\u0105c na \u017cagiel dziel\u0105 si\u0119 na dwie cz\u0119\u015bci: nawietrzn\u0105 i zawietrzn\u0105. Od strony nawietrznej tworzy si\u0119 nadci\u015bnienie (ci\u015bnienie wi\u0119ksze od atmosferycznego w wyniku spadku pr\u0119dko\u015bci cz\u0105steczek powietrza), a od strony zawietrznej \u2013 podci\u015bnienie (ci\u015bnienie ni\u017csze od atmosferycznego w wyniku przyspieszenia cz\u0105steczek powietrza).\nPojawienie si\u0119 podci\u015bnienia i nadci\u015bnienia wywo\u0142uje powstanie si\u0142y aerodynamicznej A skierowanej w przybli\u017ceniu prostopadle do ci\u0119ciwy \u017cagla z kierunku od nadci\u015bnienia do podci\u015bnienia (zasada wyr\u00f3wnania energii, mianowicie \u2013 ciep\u0142y termos oddaje ciep\u0142o zimniejszemu otoczeniu, powietrze z przek\u0142utego balonika uchodzi na zewn\u0105trz do otoczenia, gdzie ci\u015bnienie powietrza jest ni\u017csze ni\u017c w baloniku).\nPrzy katach natarcia od 90o do 45o si\u0142a aerodynamiczna niewiele si\u0119 zmienia, od 45o do 10o wzrasta znacznie i poni\u017cej 10o gwa\u0142townie spada.\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/praca-zagli.php"
+  },
+  {
+    "question": "30. Przy konieczno\u015bci halsowania pod wiatr przy silnym wietrze na jachcie typu slup (\u017cegluga turystyczna) najbezpieczniej/najkorzystniej jest:",
+    "answerA": "A. Zrzuci\u0107 fok i \u017ceglowa\u0107 na samym grocie",
+    "answerB": "B. Zarefowa\u0107 grot i postawi\u0107 mniejszy fok (lub go zarefowa\u0107, o ile jest to mo\u017cliwe, np. roler)",
+    "answerC": "C. Maksymalnie zarefowa\u0107 grot i pozostawi\u0107 postawiony normalny fok",
+    "correctAnswer": "B",
+    "hint": "HINT: przy silnym wietrze chcemy zmniejszy\u0107 dla bezpiecze\u0144stwa powierzchnie \u017cagli, przy wprowadzeniu dysproporcji wzgl\u0119dem pierwotnych proporcji pomi\u0119dzy grot/fok ingerujemy w \u015brodek o\u017caglowania"
+  },
+  {
+    "question": "31. Przy konieczno\u015bci \u017ceglugi z wiatrem przy bardzo silnym wietrze na jachcie typu slup NAJBEZPIECZNIEJ/NAJKORZYSTNIEJ jest:",
+    "answerA": "A. Zrzuci\u0107 grot i postawi\u0107 mniejszy fok",
+    "answerB": "B. Zarefowa\u0107 grot i pozostawi\u0107 normalny fok",
+    "answerC": "C. \u017beglowa\u0107 pod pe\u0142nymi \u017caglami, gdy\u017c wiatr pozorny przy du\u017cej szybko\u015bci b\u0119dzie s\u0142abszy od rzeczywistego",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "32. Jacht mieczowy wyposa\u017cony jest w miecz o znacznym ci\u0119\u017carze (np. pewne jachty \u201eTANGO\u201d). Czy podniesienie takiego miecza wp\u0142ynie na stateczno\u015b\u0107 poprzeczn\u0105 jachtu?",
+    "answerA": "A. Stateczno\u015b\u0107 polepszy si\u0119",
+    "answerB": "B. Stateczno\u015bc pogorszy si\u0119",
+    "answerC": "C. Nie wp\u0142ynie na stateczno\u015bc poprzeczna jachtu",
+    "correctAnswer": "B",
+    "hint": "HINT: Stateczno\u015b\u0107 jachtu jest to zdolno\u015b\u0107 powrotu jachtu do pozycji pocz\u0105tkowej i zachowania r\u00f3wnowagi. Jachty, a w szczeg\u00f3lno\u015bci jachty mieczowo \u2013 balastowe, kt\u00f3re s\u0105 szerokie i maj\u0105 p\u0142askie dna, utrzymuj\u0105 r\u00f3wnowag\u0119 w wyniku jednoczesnego dzia\u0142ania stateczno\u015bci kszta\u0142tu i ci\u0119\u017caru.\nhttps://www.obozyzeglarskie.com/baza-wiedzy/teoria-zeglowania/statecznosc-jachtu/statecznosc-jachtu-2/"
+  },
+  {
+    "question": "33. Przy odbiorze jachtu od firmy czarterowej NAJWA\u017bNIEJSZE Z PUNKTU WIDZENIA STATECZNO\u015aCI JACHTU - BEZPIECZNEJ \u017bEGLUGI b\u0119dzie uzyskanie poni\u017cszych informacji:",
+    "answerA": "A. Stateczno\u015b\u0107 jachtu ( wymagaj\u0105cy balastowania, o stateczno\u015bci dodatniej przy du\u017cych k\u0105tach przechy\u0142u itp.), zatapialno\u015b\u0107 (zatapialny \u2013 niezatapialny)",
+    "answerB": "B. Wymiary jachtu, powierzchnia o\u017caglowania",
+    "answerC": "C. Rodzaj silnika, rodzaj urz\u0105dze\u0144 sanitarnych",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "34. Wielko\u015b\u0107 si\u0142y aerodynamicznej na \u017caglu przy tej samej sile wiatru zale\u017cy od:",
+    "answerA": "A. Tylko od k\u0105ta natarcia (k\u0105t pomi\u0119dzy ci\u0119ciw\u0105 \u017cagla, a kierunkiem przep\u0142ywu wiatru)",
+    "answerB": "B. K\u0105ta natarcia, powierzchni \u017cagla i kszta\u0142tu (profilu) \u017cagla",
+    "answerC": "C. Tylko od powierzchni \u017cagla i materia\u0142u z jakiego jest wykonany",
+    "correctAnswer": "B",
+    "hint": "HINT: Strugi wiatru napotykaj\u0105c na \u017cagiel dziel\u0105 si\u0119 na dwie cz\u0119\u015bci: nawietrzn\u0105 i zawietrzn\u0105. Od strony nawietrznej tworzy si\u0119 nadci\u015bnienie (ci\u015bnienie wi\u0119ksze od atmosferycznego w wyniku spadku pr\u0119dko\u015bci cz\u0105steczek powietrza), a od strony zawietrznej \u2013 podci\u015bnienie (ci\u015bnienie ni\u017csze od atmosferycznego w wyniku przyspieszenia cz\u0105steczek powietrza).\nPojawienie si\u0119 podci\u015bnienia i nadci\u015bnienia wywo\u0142uje powstanie si\u0142y aerodynamicznej A skierowanej w przybli\u017ceniu prostopadle do ci\u0119ciwy \u017cagla z kierunku od nadci\u015bnienia do podci\u015bnienia (zasada wyr\u00f3wnania energii, mianowicie \u2013 ciep\u0142y termos oddaje ciep\u0142o zimniejszemu otoczeniu, powietrze z przek\u0142utego balonika uchodzi na zewn\u0105trz do otoczenia, gdzie ci\u015bnienie powietrza jest ni\u017csze ni\u017c w baloniku).\nPrzy katach natarcia od 90o do 45o si\u0142a aerodynamiczna niewiele si\u0119 zmienia, od 45o do 10o wzrasta znacznie i poni\u017cej 10o gwa\u0142townie spada.\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/praca-zagli.php"
+  },
+  {
+    "question": "35. Jacht przy pewnej sile wiatru p\u0142ynie kursem ostry bajdewind ze sta\u0142\u0105 szybko\u015bci\u0105, szkwa\u0142 spowodowa\u0142 wzrost wiatru rzeczywistego, czy jacht mo\u017ce w tej sytuacji:",
+    "answerA": "A. Pop\u0142yn\u0105\u0107 ostrzej do wiatru",
+    "answerB": "B. Musi odpada\u0107",
+    "answerC": "C. Musi luzowa\u0107 \u017cagle, aby utrzyma\u0107 kurs",
+    "correctAnswer": "A",
+    "hint": "HINT: Wiatr rzeczywisty \u2013 ruch powietrza wzgl\u0119dem powierzchni ziemi wywo\u0142any przez r\u00f3\u017cnic\u0119 ci\u015bnie\u0144 i ukszta\u0142towanie terenu.\nWiatr w\u0142asny \u2013 wiatr powstaj\u0105cy na skutek ruchu cia\u0142a. Je\u017celi powietrze nie porusza si\u0119 wzgl\u0119dem powierzchni ziemi, a cia\u0142o si\u0119 porusza, to ruch powietrza wzgl\u0119dem cia\u0142a nazywamy wiatrem w\u0142asnym. Wieje on w kierunku przeciwnym do ruchu cia\u0142a i ma tak\u0105 sam\u0105 pr\u0119dko\u015b\u0107 co poruszaj\u0105ce si\u0119 cia\u0142o.\nWiatr pozorny \u2013 wypadkowa si\u0142 wiatru rzeczywistego i w\u0142asnego. Na og\u00f3\u0142 wieje bardziej od dziobu ni\u017c wiatr rzeczywisty. To on decyduje o ruchu jachtu. Jego si\u0142a i kierunek zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od pr\u0119dko\u015bci jachtu i kursu wzgl\u0119dem wiatru. Inaczej ruch powietrza wzgl\u0119dem jachtu.\nhttps://www.blekitnypiotrus.pl/wiatr_rzeczywisty.jpg"
+  },
+  {
+    "question": "36. Chwilowy spadek szybko\u015bci wiatru rzeczywistego spowoduje odczuwanie wiatru pozornego jako:",
+    "answerA": "A. Ostrzejszego",
+    "answerB": "B. Pe\u0142niejszego",
+    "answerC": "C. Znacznie s\u0142abszego bez zmiany kierunku",
+    "correctAnswer": "B",
+    "hint": "HINT: Ca\u0142y czas wieje taki sam wiatr w\u0142asny kt\u00f3rego si\u0142a jest odwrotna do kierunku poruszania si\u0119\nWiatr rzeczywisty \u2013 ruch powietrza wzgl\u0119dem powierzchni ziemi wywo\u0142any przez r\u00f3\u017cnic\u0119 ci\u015bnie\u0144 i ukszta\u0142towanie terenu.\nWiatr w\u0142asny \u2013 wiatr powstaj\u0105cy na skutek ruchu cia\u0142a. Je\u017celi powietrze nie porusza si\u0119 wzgl\u0119dem powierzchni ziemi, a cia\u0142o si\u0119 porusza, to ruch powietrza wzgl\u0119dem cia\u0142a nazywamy wiatrem w\u0142asnym. Wieje on w kierunku przeciwnym do ruchu cia\u0142a i ma tak\u0105 sam\u0105 pr\u0119dko\u015b\u0107 co poruszaj\u0105ce si\u0119 cia\u0142o.\nWiatr pozorny \u2013 wypadkowa si\u0142 wiatru rzeczywistego i w\u0142asnego. Na og\u00f3\u0142 wieje bardziej od dziobu ni\u017c wiatr rzeczywisty. To on decyduje o ruchu jachtu. Jego si\u0142a i kierunek zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od pr\u0119dko\u015bci jachtu i kursu wzgl\u0119dem wiatru. Inaczej ruch powietrza wzgl\u0119dem jachtu.\nhttps://www.blekitnypiotrus.pl/wiatr_rzeczywisty.jpg"
+  },
+  {
+    "question": "37. Aby u\u0142atwi\u0107 szybkie odpadanie jachtu o osprz\u0119cie \u017caglowym typu slup id\u0105cego p\u00f3\u0142wiatrem przy postawionym foku i grocie nale\u017cy (poza sterowaniem)",
+    "answerA": "A. Luzowa\u0107 szoty grota",
+    "answerB": "B. Luzowa\u0107 szoty foka",
+    "answerC": "C. Wybiera\u0107 szoty grota",
+    "correctAnswer": "A",
+    "hint": "HINT: Przy odpadaniu/ostrzeniu zaczynamy od grota kt\u00f3ry jest wi\u0119kszym \u017caglem, przez co ma wi\u0119kszy wp\u0142yw"
+  },
+  {
+    "question": "38. Na jachcie typu slup postawiony jest grot i fok. Refowanie tylko foka przez nawijanie go na sztag (roler foka) spowoduje:",
+    "answerA": "A. Przesuni\u0119cie \u015brodka o\u017caglowania do ty\u0142u",
+    "answerB": "B. Przesuni\u0119cie \u015brodka o\u017caglowania do przodu",
+    "answerC": "C. Nie zmieni po\u0142o\u017cenia \u015brodka o\u017caglowania",
+    "correctAnswer": "A",
+    "hint": "HINT: napi\u0119ty fok - zawietrzno\u015b\u0107\nzluzowany fok - nawietrzno\u015b\u0107 bo \u015brodek o\u017caglowania do ty\u0142u\nz grotem odwrotnie\nJe\u017celi przesuniemy \u015brodek o\u017caglowania w stron\u0119 rufy lub \u015brodek bocznego oporu w stron\u0119 dziobu powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu w stron\u0119 wiatru \u2013 jacht stanie si\u0119 nawietrzny.\nJe\u017celi przesuniemy \u015brodek o\u017caglowania do przodu lub \u015brodek bocznego oporu do ty\u0142u, powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu od wiatru \u2013 jacht stanie si\u0119 zawietrzny.\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/zrownowazenie-zaglowe-jachtu.php"
+  },
+  {
+    "question": "39. Refowanie grota do bomu na jachcie typu slup spowoduje zmian\u0119 po\u0142o\u017cenia \u015brodka o\u017caglowania:",
+    "answerA": "A. Tylko obni\u017cenie po\u0142o\u017cenia \u015brodka o\u017caglowania",
+    "answerB": "B. Obni\u017cenie i przesuni\u0119cie do przodu \u015brodka o\u017caglowania",
+    "answerC": "C. Po\u0142o\u017cenie \u015brodka o\u017caglowania nie zmieni si\u0119",
+    "correctAnswer": "B",
+    "hint": "HINT: napi\u0119ty fok - zawietrzno\u015b\u0107\nzluzowany fok - nawietrzno\u015b\u0107 bo \u015brodek o\u017caglowania do ty\u0142u\nz grotem odwrotnie\nJe\u017celi przesuniemy \u015brodek o\u017caglowania w stron\u0119 rufy lub \u015brodek bocznego oporu w stron\u0119 dziobu powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu w stron\u0119 wiatru \u2013 jacht stanie si\u0119 nawietrzny.\nJe\u017celi przesuniemy \u015brodek o\u017caglowania do przodu lub \u015brodek bocznego oporu do ty\u0142u, powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu od wiatru \u2013 jacht stanie si\u0119 zawietrzny.\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/zrownowazenie-zaglowe-jachtu.php"
+  },
+  {
+    "question": "40. Jacht pod pe\u0142nymi \u017caglami jest zr\u00f3wnowa\u017cony \u017caglowo. Jak zarefowanie grota i pozostawienie pe\u0142nego foka na jachcie typu slup wp\u0142ynie na po\u0142o\u017cenie \u015brodka o\u017caglowania i zr\u00f3wnowa\u017cenie (nawietrzno\u015b\u0107/zawietrzno\u015b\u0107) jachtu?",
+    "answerA": "A. \u015arodek o\u017caglowania obni\u017cy si\u0119 i przesunie si\u0119 do przodu, jacht b\u0119dzie zawietrzny",
+    "answerB": "B. \u015arodek o\u017caglowania przesunie si\u0119 do ty\u0142u, jacht b\u0119dzie nawietrzny",
+    "answerC": "C. \u015arodek o\u017caglowania tylko obni\u017cy si\u0119",
+    "correctAnswer": "A",
+    "hint": "HINT: napi\u0119ty fok - zawietrzno\u015b\u0107\nzluzowany fok - nawietrzno\u015b\u0107 bo \u015brodek o\u017caglowania do ty\u0142u\nz grotem odwrotnie\nJe\u017celi przesuniemy \u015brodek o\u017caglowania w stron\u0119 rufy lub \u015brodek bocznego oporu w stron\u0119 dziobu powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu w stron\u0119 wiatru \u2013 jacht stanie si\u0119 nawietrzny.\nJe\u017celi przesuniemy \u015brodek o\u017caglowania do przodu lub \u015brodek bocznego oporu do ty\u0142u, powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu od wiatru \u2013 jacht stanie si\u0119 zawietrzny.\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/zrownowazenie-zaglowe-jachtu.php"
+  },
+  {
+    "question": "41. Jacht typu slup pod pe\u0142nymi \u017caglami jest zr\u00f3wnowa\u017cony \u017caglowo. R\u00f3wnoczesne znaczne zarefowanie grota przez rolowanie do masztu i foka przez nawijanie na sztag (roler foka) spowoduje:",
+    "answerA": "A. Zwi\u0119kszenie zawietrzno\u015bci",
+    "answerB": "B. Nie wp\u0142ynie na zr\u00f3wnowa\u017cenie \u017caglowe jachtu",
+    "answerC": "C. Zmniejszenie zawietrzno\u015bci",
+    "correctAnswer": "A",
+    "hint": "HINT: grot jest wi\u0119kszym \u017caglem, je\u015bli oba \u017cagle b\u0119d\u0105 refowane to \u015brodek o\u017caglowania przesunie si\u0119 do przodu - fok proporcjonalnie do grota b\u0119dzie wi\u0119kszy ni\u017c pierwotnie\nnapi\u0119ty fok - zawietrzno\u015b\u0107\nzluzowany fok - nawietrzno\u015b\u0107 bo \u015brodek o\u017caglowania do ty\u0142u\nz grotem odwrotnie\nJe\u017celi przesuniemy \u015brodek o\u017caglowania w stron\u0119 rufy lub \u015brodek bocznego oporu w stron\u0119 dziobu powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu w stron\u0119 wiatru \u2013 jacht stanie si\u0119 nawietrzny.\nJe\u017celi przesuniemy \u015brodek o\u017caglowania do przodu lub \u015brodek bocznego oporu do ty\u0142u, powstanie moment obrotowy wywo\u0142uj\u0105cy skr\u0119t jachtu od wiatru \u2013 jacht stanie si\u0119 zawietrzny.\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/zrownowazenie-zaglowe-jachtu.php"
+  },
+  {
+    "question": "42.Czy znaczna liczba os\u00f3b na pok\u0142adzie jachtu przy r\u00f3wnomiernym ich rozmieszczeniu ( bez balastowania) wp\u0142ynie na stateczno\u015b\u0107 jachtu mieczowego bez balastowego? Jaki to b\u0119dzie wp\u0142yw?",
+    "answerA": "A. Stateczno\u015b\u0107 poprawi si\u0119, bo si\u0142a ci\u0119\u017cko\u015bci b\u0119dzie wi\u0119ksza",
+    "answerB": "B. Stateczno\u015b\u0107 pogorszy si\u0119 bo \u015brodek ci\u0119\u017cko\u015bci przesunie si\u0119 do g\u00f3ry",
+    "answerC": "C. Nie wp\u0142ynie to na stateczno\u015b\u0107 jachtu",
+    "correctAnswer": "B",
+    "hint": "HINT: \u015brodek ci\u0119\u017cko\u015bci jest ni\u017cej, ale wi\u0119cej os\u00f3b -> masa na g\u00f3rze jachtu si\u0119 zwi\u0119ksza -> wyci\u0105gamy \u015brodek ci\u0119zko\u015bci troch\u0119 do g\u00f3ry\nhttps://www.blekitnypiotrus.pl/bpiotrus/zeglarz-materialy/zeglarz-jachtowy/statecznosc-jachtu.php#:~:text=%C5%9Arodek%20ci%C4%99%C5%BCko%C5%9Bci%20Sc%20znajduje%20si%C4%99,%C5%9Brodka%20wyporu%2C%20si%C5%82a%20wyporu%20Fw."
+  },
+  {
+    "question": "43. Jaki wp\u0142yw na dryf jachtu przy kursach na wiatr (bejdewind, p\u00f3\u0142wiatr) ma jego szybko\u015b\u0107 ?",
+    "answerA": "A. Przy wi\u0119kszej szybko\u015bci dryf jest mniejszy, bo si\u0142a hydrodynamiczna na mieczu czy falszkilu b\u0119dzie wi\u0119ksza",
+    "answerB": "B. Przy mniejszej szybko\u015bci dryf jest mniejszy, bo opory na mieczu czy falszkilu b\u0119d\u0105 mniejsze",
+    "answerC": "C. Nie ma wp\u0142ywu bo zale\u017cy tylko od kszta\u0142tu miecza czy falszkilu",
+    "correctAnswer": "C",
+    "hint": "HINT: bajdewind - du\u017ca si\u0142a przechylaj\u0105ca powoduj\u0105ca dryf, miecz si\u0119 temu przeciwstawia. Usuwamy miecz -> dryf wi\u0119kszy, balastujemy gdy mamy wi\u0119kszy przechy\u0142,\nmiecz zwi\u0119ksza si\u0142\u0119 oporu bocznego\nW baksztagu du\u017co wa\u017cniejsza i wi\u0119ksza jest si\u0142a aerodynamiczna"
+  },
+  {
+    "question": "44. Jakim kursem wzgl\u0119dem wiatru rzeczywistego p\u0142ynie pokazany na rysunku jacht (wiatr strza\u0142ka niebieska)",
+    "answerA": "A. Bajdewindem",
+    "answerB": "B. Baksztagiem",
+    "answerC": "C. P\u00f3\u0142wiatrem",
+    "correctAnswer": "A",
+    "questionImage": "https://drive.google.com/uc?export=view&id=1e7-jV3pm8plYkNwkThRf74MAYOoVx-8e",
+    "hint": "HINT: fordewind (niderl. voor de wind) \u2013 gdy wiatr wieje prosto od rufy\nbaksztag (niderl. bakstag) \u2013 gdy wiatr wieje pomi\u0119dzy fordewindem a p\u00f3\u0142wiatrem\np\u00f3\u0142wiatr \u2013 gdy wiatr wieje z boku\nbajdewind (niderl. bij de wind) - gdy wiatr wieje pomi\u0119dzy p\u00f3\u0142wiatrem a k\u0105tem martwym\nk\u0105t martwy - gdy wiatr wieje pod tak ostrym k\u0105tem od strony dziobu, \u017ce \u017cagle mimo maksymalnego wybrania nie pracuj\u0105, \u0142opocz\u0105"
+  },
+  {
+    "question": "45. Jakim kursem wzgl\u0119dem wiatru rzeczywistego p\u0142ynie pokazany na rysunku jacht (wiatr strza\u0142ka niebieska)",
+    "answerA": "A. Bajdewindem",
+    "answerB": "B. Baksztagiem",
+    "answerC": "C. P\u00f3\u0142wiatrem",
+    "correctAnswer": "B",
+    "questionImage": "https://drive.google.com/uc?export=view&id=1RCnk82LyFEE3lu-0yml-ynMiCHRloFk2",
+    "hint": "HINT: fordewind (niderl. voor de wind) \u2013 gdy wiatr wieje prosto od rufy\nbaksztag (niderl. bakstag) \u2013 gdy wiatr wieje pomi\u0119dzy fordewindem a p\u00f3\u0142wiatrem\np\u00f3\u0142wiatr \u2013 gdy wiatr wieje z boku\nbajdewind (niderl. bij de wind) - gdy wiatr wieje pomi\u0119dzy p\u00f3\u0142wiatrem a k\u0105tem martwym\nk\u0105t martwy - gdy wiatr wieje pod tak ostrym k\u0105tem od strony dziobu, \u017ce \u017cagle mimo maksymalnego wybrania nie pracuj\u0105, \u0142opocz\u0105"
   }
 ]
