@@ -59,6 +59,8 @@
         var hintElement = document.getElementById("hint");
         const localStorageStatsKey = "sailingExamQuizStatistics";
         var answerCheckedFirstTime = true;
+        const lastQuestionIndices = []; // Array to store the indices of the last 100 questions
+
 
         function displayQuestion() {
             var questionElement = document.getElementById("question");
@@ -121,12 +123,19 @@
         }
 
         function nextQuestion() {
-            var randomDecimal = Math.random();
-            var randomInRange = Math.floor(randomDecimal * questions.length);
-            if (currentQuestionIndex === randomInRange) {
-                currentQuestionIndex = randomInRange + 1;
-            } else {
-                currentQuestionIndex = randomInRange
+            // Store the index of the answered question in the lastQuestionIndices array
+            lastQuestionIndices.push(currentQuestionIndex);
+            // Keep the lastQuestionIndices array limited to 100 indices
+            if (lastQuestionIndices.length > 100) {
+                lastQuestionIndices.shift(); // Remove the oldest index from the beginning of the array
+            }
+            const availableIndices = questions
+                .map((_, index) => index) // Create an array of all question indices
+                .filter(index => !lastQuestionIndices.includes(index)); // Exclude the last answered question indices
+            // Check if there are available indices
+            if (availableIndices.length > 0) {
+                const randomIndex = Math.floor(Math.random() * availableIndices.length);
+                currentQuestionIndex = availableIndices[randomIndex];
             }
             answerCheckedFirstTime = true;
             displayQuestion();
