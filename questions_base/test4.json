@@ -1,0 +1,2163 @@
+[
+  {
+    "question": "1. Jaki to rodzaj miecza?",
+    "answerA": "A. Szybrowy",
+    "answerB": "B. Obrotowy",
+    "answerC": "C. Balastowy",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/bupV-HkHInAI0BySBXJEYw.png"
+  },
+  {
+    "question": "2. Na rysunku pokazano schematycznie miecz jachtu.",
+    "answerA": "A. Szybrowy",
+    "answerB": "B. Obrotowy",
+    "answerC": "C. Balastowy",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/zabzkY4f4bXMS3VvdxxUjQ.png"
+  },
+  {
+    "question": "3. Bulbkil, jest to:",
+    "answerA": "A. Kszta\u0142t dziobu jachtu",
+    "answerB": "B. Kszta\u0142t rufy jachtu",
+    "answerC": "C. Jeden z rodzaj\u00f3w falszkila z balastem",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "4. Spinaker, to \u017cagiel stosowany przy \u017cegludze:",
+    "answerA": "A. Kursami ostro na wiatr (bejdewind)",
+    "answerB": "B. W \u017cegludze sztormowej",
+    "answerC": "C. Na kursach pe\u0142nych (baksztag, fordewind)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "5. Hals, to lina napinajaca lub mocujaca:",
+    "answerA": "A. Dolny r\u00f3g \u017cagla przy liku przednim",
+    "answerB": "B. Dolny r\u00f3g \u017cagla przy liku tylnym (wolnym)",
+    "answerC": "C. G\u00f3rny r\u00f3g \u017cagla gdzie mocowany jest fa\u0142",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "6. Refszkentla, jest lina napinaj\u0105ca:",
+    "answerA": "A. R\u00f3g halsowy \u017cagla przy refowaniu",
+    "answerB": "B. R\u00f3g szotowy \u017cagla przy refowaniu",
+    "answerC": "C. R\u00f3g fa\u0142owy \u017cagla",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "7. Lazy jack, to:",
+    "answerA": "A. System linek biegn\u0105cych do kolumny masztu od bomu (cz\u0119sto po\u0142\u0105czony z pokrowcem)",
+    "answerB": "B. System linek utatwiaj\u0105cy wybieranie kotwicy",
+    "answerC": "C. System lin do cumowanie jachtu amortyzuj\u0105cy ruchy jachtu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "8. G\u0142\u00f3wny wzd\u0142u\u017cny element konstrukcyjny kad\u0142uba jachtu, to:",
+    "answerA": "A. Kingston",
+    "answerB": "B. St\u0119pka /Kil",
+    "answerC": "C. Stewa",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "9. Szkielet jachtu w p\u0142aszczy\u017anie poprzecznej wzmacniaj\u0105:",
+    "answerA": "A. Wr\u0119gi",
+    "answerB": "B. Gretingi",
+    "answerC": "C. Szpigaty",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "10. Kontrafa\u0142em nazywamy:",
+    "answerA": "A. Lin\u0119 s\u0142u\u017c\u0105c\u0105 do podnoszenia \u017cagla",
+    "answerB": "B. Lin\u0119 s\u0142u\u017c\u0105c\u0105 do opuszczania \u017cagla, dzia\u0142aj\u0105c\u0105 przeciwnie do fa\u0142u",
+    "answerC": "C. Lin\u0119 s\u0142u\u017c\u0105c\u0105 do trymowania \u017cagla",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "11. G\u00f3rny koniec masztu, to:",
+    "answerA": "A. Pik",
+    "answerB": "B. Top",
+    "answerC": "C. Pieta",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "12. Sztormreling, to:",
+    "answerA": "A. Barierka otaczaj\u0105ca pok\u0142ad",
+    "answerB": "B. Uchwyt na nadbud\u00f3wce",
+    "answerC": "C. Drabinka sznurowa do wchodzenia z wody na pok\u0142ad",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "13. Flagsztok, jest to:",
+    "answerA": "A. Drzewce, na kt\u00f3rym podnosi si\u0119 bander\u0119",
+    "answerB": "B. Drzewce, na kt\u00f3rym zak\u0142ada si\u0119 ma\u0142y \u017cagiel",
+    "answerC": "C. Drzewce, na kt\u00f3rym podwieszony jest dzwon",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "14. Brest, jest to:",
+    "answerA": "A. Lina s\u0142u\u017c\u0105ca do stawiania sztaksli",
+    "answerB": "B. Lina cumownicza biegn\u0105ca prostopadle z jachtu do nabrze\u017ca",
+    "answerC": "C. Potoczna nazwa szot\u00f3w bezana",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "15. Garda (szpona) nazywamy element konstrukcji:",
+    "answerA": "A. \u0141\u0105cz\u0105cy bom z masztem",
+    "answerB": "B. \u0141\u0105cz\u0105cy gafel z masztem",
+    "answerC": "C. \u0141\u0105cz\u0105cy bukszpryt z kad\u0142ubem",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "16. Ko\u0144ce bomu to:",
+    "answerA": "A. Hals i szkentla",
+    "answerB": "B. Nok i pieta",
+    "answerC": "C. Pik i garda",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "17. Refpatentem nazywamy element konstrukcyjny:",
+    "answerA": "A. Bomu, pozwalaj\u0105cy na nawijanie \u017cagla na bom",
+    "answerB": "B. Masztu, pozwalaj\u0105cy na zwijanie \u017cagla do masztu",
+    "answerC": "C. Bukszprytu, pozwalaj\u0105cy na przesuwanie bukszprytu do rufy",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "18. Przy o\u017caglowaniu bermudzkim kraw\u0119d\u017a \u017cagla mocowana do takielunku (masztu, sztagu) to:",
+    "answerA": "A. Lik g\u00f3rny",
+    "answerB": "B. Lik przedni",
+    "answerC": "C. Lik wolny",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "19. Najcz\u0119\u015bciej stosowane napi\u0119cie w akumulatorach jachtowych to:",
+    "answerA": "A. 230V",
+    "answerB": "B. 12V",
+    "answerC": "C. 48V",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "20. Pomieszczenie s\u0142u\u017c\u0105ce do przygotowywania posi\u0142k\u00f3w na jachcie, to:",
+    "answerA": "A. Kubryk",
+    "answerB": "B. Kambuz",
+    "answerC": "C. Kingston",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "21. Szpicgat to typ kad\u0142uba jachtu o poni\u017cszej charakterystyce:",
+    "answerA": "A. Bez paw\u0119\u017cy, dzi\u00f3b i rufa ostro zako\u0144czone.",
+    "answerB": "B. Dzi\u00f3b zako\u0144czony t\u0119po, rufa z paw\u0119\u017c\u0105",
+    "answerC": "C. Dziob z du\u017cym nawisem, rufa z bardzo",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "22. Jakiego rodzaju paliwo u\u017cywane jest w czterosuwowych silnikach przyczepnych:",
+    "answerA": "A. Benzyna zmieszana z olejem silnikowym",
+    "answerB": "B. Olej nap\u0119dowy",
+    "answerC": "C. Czysta benzyna",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "23. Kokpit na jachcie to:",
+    "answerA": "A. Przestrze\u0144 wodoszczelna zapewniaj\u0105ca p\u0142ywalno\u015b\u0107 jachtu",
+    "answerB": "B. Pomieszczenie magazynowe na dziobie lub rufie",
+    "answerC": "C. Przestrze\u0144 dla za\u0142ogi sk\u0105d mo\u017cna obs\u0142ugiwa\u0107 urz\u0105dzenia jachtu (np. szoty \u017cagli, ster itp.)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "24. Pokazana na rysunku kotwica to kotwica:",
+    "answerA": "A. Danfortha",
+    "answerB": "B. Admiralicji",
+    "answerC": "C. Delta",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/skfvj1lLmh7iXYaOkr4NEw.png"
+  },
+  {
+    "question": "25. Do regulacji napi\u0119cia olinowania sta\u0142ego jachtu u\u017cywa si\u0119:",
+    "answerA": "A. \u015aci\u0105gaczy",
+    "answerB": "B. Reflinek",
+    "answerC": "C. Topenant",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "26. Topenanta to lina s\u0142u\u017c\u0105ca do:",
+    "answerA": "A. Zapobiegania unoszeniu si\u0119 bomu przy \u017cegludze pe\u0142nym wiatrem",
+    "answerB": "B. Ustawiania wysoko\u015bci noku bomu i zapobiegaj\u0105ca opadaniu bomu przy zrzucaniu \u017cagli",
+    "answerC": "C. \u0141\u0105cz\u0105ca topy dw\u00f3ch maszt6w",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "27. Bryty, s\u0105 to:",
+    "answerA": "A. Pasy tkaniny, z kt6rej uszyty jest \u017cagiel",
+    "answerB": "B. Wzmocnienie rog\u00f3w \u017cagla",
+    "answerC": "C. Szwy \u0142\u0105cz\u0105ce pasy tkaniny w \u017caglu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "28. Dla umo\u017cliwienia k\u0142adzenia masztu jest onnosadzany w:",
+    "answerA": "A. W op\u0119tniku",
+    "answerB": "B. Obrotowo w t.zw. c\u0119gach umieszczonych na pok\u0142adzie lub nadbud\u00f3wce",
+    "answerC": "C. W jarzmie masztu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "29. Do prowadzenia i regulacji ustawienia szot6w \u017cagli (np. foka) s\u0142u\u017c\u0105:",
+    "answerA": "A. Remizki",
+    "answerB": "B. Dulki",
+    "answerC": "C. Kipy",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "30. Kabestan to urz\u0105dzenie:",
+    "answerA": "A. Umo\u017cliwiaj\u0105ce wybieranie lin (np. szot6w czy fa\u0142\u00f3w) z du\u017c\u0105 si\u0142\u0105",
+    "answerB": "B. Prowadz\u0105ce \u0142a\u0144cuch kotwiczny bez tarcia o pok\u0142ad",
+    "answerC": "C. U\u0142atwiaj\u0105ce sterowanie przy du\u017cej fali",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "31. Na rysunku obok pokazano element takielunku jachtu. Jest to:",
+    "answerA": "A. Luwers",
+    "answerB": "B. Kausza",
+    "answerC": "C. Szakla",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/3bKFTMNSYFcTQr6xrAyn.g.png"
+  },
+  {
+    "question": "32. Refbanta to:",
+    "answerA": "A. Mechanizm do rolowania \u017cagla",
+    "answerB": "B. Wzmocnienie bomu dla zwi\u0119kszenia jego sztywno\u015bci",
+    "answerC": "C. Wzmocnienie \u017cagla z remizkami lub remizkami i refsejzingami",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "33. Pokazany na szkicu \u017cagiel to:",
+    "answerA": "A. Grot",
+    "answerB": "B. Genua",
+    "answerC": "C. Bezan",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/Mv79vjxWA1wFe.AI66yadw.png"
+  },
+  {
+    "question": "34. Jak nazywaj\u0105 si\u0119 pokazane na szkicu kolorem czerwonym elementy rozpieraj\u0105ce wanty?",
+    "answerA": "A. Rakskloty",
+    "answerB": "B. Szandeki",
+    "answerC": "C. Salingi",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/i95AVMEtcbA2IXsZt8E2zg.png"
+  },
+  {
+    "question": "35. Szoty to liny s\u0142u\u017c\u0105ce do:",
+    "answerA": "A. Stawiania \u017cagli",
+    "answerB": "B. Wybierania i luzowania \u017cagli przy manewrach",
+    "answerC": "C. Podnoszenia miecza",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "36. Paw\u0119\u017c to element konstrukcyjny jachtu:",
+    "answerA": "A. Wzmacniaj\u0105cy dzi\u00f3b",
+    "answerB": "B. Rufowe zako\u0144czenie kad\u0142uba jachtu",
+    "answerC": "C. Poprzeczne wzmocnienie kad\u0142uba jachtu na \u015br\u00f3dokr\u0119ciu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "37. Szpring dziobowy to lina cumownicza biegn\u0105ca:",
+    "answerA": "A. Od dziobu na l\u0105d w stron\u0119 rufy jachtu",
+    "answerB": "B. Od rufy na l\u0105d w stron\u0119 rufy jachtu",
+    "answerC": "C. Od dziobu na l\u0105d przed dziob jachtu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "38. \u017bagiel o du\u017cej powierzchni podnoszony na sztagu i si\u0119gaj\u0105cy znacznie poza wanty to:",
+    "answerA": "A. Fok",
+    "answerB": "B. Grot",
+    "answerC": "C. Genua",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "39. Do mocowania lin olinowania ruchomego do \u017cagli lub lin olinowania sta\u0142ego do oku\u0107 pok\u0142adowych mog\u0105 by\u0107 u\u017cywane:",
+    "answerA": "A. Raksy",
+    "answerB": "B. Pe\u0142zacze",
+    "answerC": "C. Szakle",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "40. Komory wyporno\u015bciowe na jachcie s\u0142u\u017c\u0105 do:",
+    "answerA": "A. Zapewnienia p\u0142ywalno\u015bci po nape\u0142nieniu jachtu wod\u0105 po jego wywr\u00f3ceniu lub awarii kad\u0142uba",
+    "answerB": "B. Poprawy stateczno\u015bci jachtu",
+    "answerC": "C. Mog\u0105 s\u0142u\u017cy\u0107 do przechowywania sprz\u0119tu ratunkowego",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "41. Lina s\u0142u\u017c\u0105ce do podnoszenia miecza to:",
+    "answerA": "A. Fa\u0142 miecza",
+    "answerB": "B. Kontrafa\u0142 miecza",
+    "answerC": "C. Szot miecza",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "42. Kraw\u0119d\u017a \u017cagla obszyta dla wzmocnienia nazywamy:",
+    "answerA": "A. Kilem",
+    "answerB": "B. Listwa",
+    "answerC": "C. Likiem",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "43. Po zako\u0144czeniu u\u017cywania kuchenki gazowej nale\u017cy jako pierwsza czynno\u015b\u0107 wykona\u0107:",
+    "answerA": "A. Zamkn\u0105\u0107 dok\u0142adnie zaw\u00f3r butli gazowej",
+    "answerB": "B. Sprawdzi\u0107 temperatur\u0119 butli",
+    "answerC": "C. Oczy\u015bci\u0107 palniki kuchenki",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "44. Jak nazywa si\u0119 urz\u0105dzenie do podnoszenia i opuszczania silnika przyczepnego?",
+    "answerA": "A. Uchwyt rufowy",
+    "answerB": "B. Pantograf",
+    "answerC": "C. Podno\u015bnik zawiasowy",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "45. Jacht, kt6ry posiada jeden maszt i dwa \u017cagle grot i fok ma typ osprz\u0119tu \u017caglowego:",
+    "answerA": "A. Ket",
+    "answerB": "B. Kecz",
+    "answerC": "C. Slup",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "46. Knaga to element osprz\u0119tu jachtu s\u0142u\u017c\u0105cy do:",
+    "answerA": "A. Mocowania lin",
+    "answerB": "B. Wykonywania splot\u00f3w na linach",
+    "answerC": "C. Wzmocnienia pok\u0142adu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "47. Jak bezpiecznie sprawdzi\u0107 szczelno\u015b\u0107 instalacji gazowej na jachcie?",
+    "answerA": "A. Za pomoc\u0105 p\u0142omienia (zapa\u0142ki, zapalniczki)",
+    "answerB": "B. Na s\u0142uch (szum uchodz\u0105cego gazu)",
+    "answerC": "C. Za pomoc\u0105 wody ze \u015brodkiem pieni\u0105cym (myd\u0142o, p\u0142yn do zmywania)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "48. Kluza jest to:",
+    "answerA": "A. Okucie lub otw\u00f3r w nadburciu s\u0142u\u017c\u0105ce do prowadzenia cum czy szpring\u00f3w",
+    "answerB": "B. Ucho na pok\u0142adzie do mocowania blok\u00f3w",
+    "answerC": "C. Urz\u0105dzenie do mocowania lin (np. szot\u00f3w)",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "49. O sprawno\u015bci uk\u0142adu ch\u0142odzenia w silniku zaburtowym \u015bwiadczy:",
+    "answerA": "A. R\u00f3wno pracuj\u0105cy silnik",
+    "answerB": "B. Wyp\u0142ywaj\u0105ca z otworu pod silnikiem struga wody",
+    "answerC": "C. Czyste spaliny (brak dymu w spalinach)",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "50. \u017bagiel podnoszony na sztagu jachtu o osprz\u0119cie \u017caglowym typu slup to:",
+    "answerA": "A. Bezan",
+    "answerB": "B. Fok",
+    "answerC": "C. Grot",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "51. Miecz na jachcie to:",
+    "answerA": "A. Opuszczana p\u0142yta umieszczona w skrzyni lub falszkilu w \u015brodkowej cz\u0119\u015bci jachtu.",
+    "answerB": "B. Cz\u0119\u015b\u0107 urz\u0105dzenia sterowego",
+    "answerC": "C. Urz\u0105dzenie do regulacji k\u0105ta przechy\u0142u",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "52. Do olinowania ruchomego zaliczamy:",
+    "answerA": "A. Sztagi",
+    "answerB": "B. Achtersztag",
+    "answerC": "C. Fa\u0142y",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "53. Akumulatory kwasowe bezobs\u0142ugowe powinny by\u0107 umieszczone na jachcie:",
+    "answerA": "A. W pomieszczeniu wydzielonym i dobrze wentylowanym",
+    "answerB": "B. Tylko na pok\u0142adzie",
+    "answerC": "C. Nie ma znaczenia gdzie si\u0119 je umie\u015bci",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "54. Refsejzingi to linki s\u0142u\u017c\u0105ce do:",
+    "answerA": "A. Mocowania pokrowca na na \u017cagiel do bomu",
+    "answerB": "B. Linki mocuj\u0105ce \u017cagiel do bomu przy refowaniu \u017cagla",
+    "answerC": "C. Cumowania jachtu przy silnym wietrze",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "55. Na rysunku pokazano schematycznie konstrukcj\u0119 urz\u0105dzenia sterowego. Element zaznaczony kolorem czerwonym to:",
+    "answerA": "A. Rumpel",
+    "answerB": "B. Jarzmo",
+    "answerC": "C. P\u0142etwa steru",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/eR9.URrG5Z-FSnnydfGkwA.png"
+  },
+  {
+    "question": "56. Achterpik na jachcie znajduje si\u0119:",
+    "answerA": "A. To pomieszczenie rufowej cz\u0119\u015bci jachtu",
+    "answerB": "B. To pomieszczenie w dziobowej cz\u0119\u015bci jachtu",
+    "answerC": "C. To tylny koniec bomu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "57. Fok mo\u017ce by\u0107 mocowany do sztagu miedzy innymi przy pomocy:",
+    "answerA": "A. Segars\u00f3w",
+    "answerB": "B. Raks",
+    "answerC": "C. Pe\u0142zaczy",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "58. Je\u017celi cz\u0142owiek wypad\u0142 za burt\u0119 na kursie pe\u0142ny baksztag, to kt\u00f3ry z opisanych poni\u017cej manewr\u00f3w b\u0119dzie najprostszy i najszybszy?",
+    "answerA": "A. Odp\u0142yn\u0105\u0107 bez zmiany kursu kilkadziesi\u0105t metr\u00f3w, szybko wykona\u0107 zwrot przez sztag i halsuj\u0105c podchodzi\u0107 do cz\u0142owieka",
+    "answerB": "B. Natychmiast wykona\u0107 zwrot przez ruf\u0119, wyostrzy\u0107, wykona\u0107 zwrot przez sztag i halsuj\u0105c podchodzi\u0107 do cz\u0142owieka",
+    "answerC": "C. Wyostrzy\u0107, odej\u015b\u0107 nie za daleko, wykona\u0107 zwrot przez sztag i podej\u015b\u0107 bajdewindem.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "59. Jacht zacumowany dziobem do pomostu odchodzi na silniku od nabrze\u017ca na biegu wstecznym. Chcemy aby dzi\u00f3b odchyla\u0142 si\u0119 w prawo. Jak ustawi\u0107 p\u0142etw\u0119 sterow\u0105?",
+    "answerA": "A. Ustawi\u0107 pletw\u0119 steru w po\u0142o\u017ceniu 'zero",
+    "answerB": "B. Ustawi\u0107 pletw\u0119 steru w po\u0142o\u017ceniu 'lewo",
+    "answerC": "C. Ustawi\u0107 p\u0142etw\u0119 steru w po\u0142o\u017ceniu \"prawo",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "60. Przy odej\u015bciu od boi na lewy hals ustawiamy:",
+    "answerA": "A. Fok prawo na wiatr ster zero",
+    "answerB": "B. Fok lewo na wiatr, ster lewo",
+    "answerC": "C. Grot i fok w \u0142opocie, ster prawo",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "61. \u015aruba prawoskr\u0119tna umiejscowiona jest w diametralnej jachtu. W\u0142\u0105czamy silnik na bieg naprz\u00f3d. Ster zero. Jaka b\u0119dzie reakcja jachtu ?",
+    "answerA": "A. Rufa b\u0119dzie odrzucana w prawo",
+    "answerB": "B. Rufa b\u0119dzie odrzucana w lewo",
+    "answerC": "C. Jacht ruszy naprz\u00f3d bez zmiany kierunku",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "62. Jacht prawie stoi. Jest niewiele miejsca na obr\u00f3t. Chcemy wykona\u0107 jachtem na silniku ciasny skr\u0119t w prawo. Jak nale\u017cy post\u0105pi\u0107?",
+    "answerA": "A. Ster prawo na burt, kr\u00f3tko ca\u0142a naprz\u00f3d, silnik stop",
+    "answerB": "B. Ster prawo na burt, wolno naprz\u00f3d",
+    "answerC": "C. Ster prawo na burt, ca\u0142a naprz\u00f3d",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "63. Przy doj\u015bciu do nabrze\u017ca ruf\u0105 podano i zamocowano dwie cumy rufowe. Cz\u0142onek za\u0142ogi na dziobie nie zd\u0105\u017cy\u0142 za\u0142o\u017cy\u0107 cumy dziobowej na boj\u0119. Wiatr jest silny od dziobu. Jak dalej manewrowa\u0107?",
+    "answerA": "A. Stara\u0107 si\u0119 z\u0142apa\u0107 boj\u0119 bosakiem i przyci\u0105ga\u0107 jacht dla za\u0142o\u017cenia cumy",
+    "answerB": "B. Silnik naprz\u00f3d stosownie do potrzeby, powoli luzowa\u0107 cumy rufowe I za\u0142o\u017cy\u0107 cum\u0119 dziobow\u0105. silnik stop. Ustawi\u0107 jacht na cumach.",
+    "answerC": "C. Za\u0142o\u017cy\u0107 odbijacze na rufie i prosi\u0107 o pomoc personel przystani",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "64. Intensywne hamowanie \u017caglami polega na:",
+    "answerA": "A. Ca\u0142kowitym wyluzowaniu \u017cagli",
+    "answerB": "B. Maksymalnym wybraniu \u017cagli do diametralnej jachtu",
+    "answerC": "C. Wypychaniu \u017cagli na wiatr",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "65. Podchodz\u0105c do boi najskuteczniej jest przeprowadzi\u0107 manewr w spos\u00f3b nast\u0119puj\u0105cy:",
+    "answerA": "A. Zrzuci\u0107 fok przed podej\u015bciem, dochodzi\u0107 w linii wiatru, za\u0142o\u017cy\u0107 cum\u0119 na biegowo, a nast\u0119pnie zrzuci\u0107 grot.",
+    "answerB": "B. Zrzuci\u0107 grot, podchodzi\u0107 na foku z wiatrem, za\u0142o\u017cy\u0107 cum\u0119 na boj\u0119, zrzuci\u0107 fok",
+    "answerC": "C. Podchodzi\u0107 pod pe\u0142nymi \u017caglami, po za\u0142o\u017ceniu cumy na boj\u0119 zrzuci\u0107 \u017cagle.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "66. Jacht (czerwony) jest zacumowany jak na rysunku. Jak najbezpieczniej powinien odej\u015b\u0107 od pomostu pod \u017caglami (wiatr niebieska strza\u0142ka) ?",
+    "answerA": "A. Przecumowa\u0107 jacht do wolnej cz\u0119\u015bci pomostu ruf\u0105 do wiatru. Postawi\u0107 \u017cagle i odej\u015b\u0107 z wiatrem",
+    "answerB": "B. Przecumowa\u0107 jacht do wolnej cz\u0119\u015bci pomostu dziobem do wiatru. Postawi\u0107 \u017cagle i odej\u015b\u0107 lewym halsem.",
+    "answerC": "C. Nie da si\u0119 odej\u015b\u0107, konieczna jest pomoc dla wywiezienia kotwicy lub odholowania jachtu",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/-tudJKs..LkVrT7i8J-MPA.png"
+  },
+  {
+    "question": "67. K\u0105t martwy dla danego jachtu wynosi 120\u00b0. W jakim momencie podczas halsowania nale\u017cy wykona\u0107 zwrot przez sztag, aby mie\u0107 pewno\u015b\u0107, \u017ce jednym halsem dop\u0142yniemy do \u017c\u0105danego punktu ( n.p. boi)?",
+    "answerA": "A. Kiedy p\u0142yn\u0105c ostrym bajdewindem zaobserwujemy ten obiekt w kierunku ok. 60\u00b0 od kursu",
+    "answerB": "B. Kiedy p\u0142yn\u0105c ostrym bajdewindem zaobserwujemy ten obiekt w kierunku nieco wiekszym ni\u017c 120\u00b0 od kursu",
+    "answerC": "C. Kiedy p\u0142yn\u0105c ostrym bajdewindem zaobserwujemy ten obiekt w kierunku ok. 90\u00b0 od kursu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "68. Chcemy wykona\u0107 zwrot przez sztag o jak najmniejszym promieniu skr\u0119tu. Kt\u00f3ry z manewr\u00f3w opisanych poni\u017cej b\u0119dzie najefektywniejszy",
+    "answerA": "A. Luzujemy ca\u0142kowicie fok wybieramy maksymalnie grot, dajemy ster na burt\u0119",
+    "answerB": "B. Wybieramy maksymalnie fok i grot, dajemy ster na burt\u0119, kiedy oba \u017cagle wejd\u0105 w \u0142opot luzujemy szot foka.",
+    "answerC": "C. Dajemy ster na burt\u0119, w momencie kiedy jacht b\u0119dzie w linii wiatru luzujemy szot grota, nawietrzny szot foka luzujemy dopiero po odpadni\u0119ciu jachtu na nowy hals, a nast\u0119pnie wybieramy zawietrzny szot foka.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "69. Jak nale\u017cy przygotowa\u0107 cum\u0119 dziobow\u0105 przy odej\u015bciu od boi, aby manewr odej\u015bcia przeprowadzi\u0107 sprawnie i bezpiecznie?",
+    "answerA": "A. Zawi\u0105za\u0107 cum\u0119 na boi w\u0119z\u0142em cumowym \u017ceglarskim i dopiero potem odchodzi\u0107",
+    "answerB": "B. Za\u0142o\u017cy\u0107 cum\u0119 na biegowo i odej\u015b\u0107 na \u017c\u0105dany hals",
+    "answerC": "C. Za\u0142o\u017cy\u0107 mo\u017cliwie najmocniejsz\u0105 cum\u0119 z posiadanych na jachcie, w\u0119ze\u0142 nie ma znaczenia",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "70. Na jachcie z instalacj\u0105 elektryczn\u0105 12 V czu\u0107 zapach tl\u0105cej si\u0119 izolacji. Jak nale\u017cy post\u0105pi\u0107?",
+    "answerA": "A. Zlokalizowa\u0107 miejsce przegrzane i wy\u0142\u0105czy\u0107 odpowiedni odbiornik energii",
+    "answerB": "B. Natychmiast wy\u0142\u0105czy\u0107 g\u0142\u00f3wny wy\u0142\u0105cznik akumulator\u00f3w lub zdj\u0105\u0107 klemy z akumulator\u00f3w",
+    "answerC": "C. Sprawdzi\u0107 odbiorniki energii o du\u017cej mocy i ewentualnie je wy\u0142\u0105czy\u0107",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "71. W porcie jachtowym przyj\u0119ty jest system cumowania dziobem do pomostu, a ruf\u0105 do boi. Jak przeprowadzi\u0107 manewr cumowania w takim porcie manewruj\u0105c na silniku?",
+    "answerA": "A. Przygotowa\u0107 cum\u0119 dziobow\u0105 i rufow\u0105, wchodzi\u0107 powoli i podczas mijania boi za\u0142o\u017cy\u0107 cum\u0119 rufow\u0105, zatrzyma\u0107 jacht przed nabrze\u017cem i za\u0142o\u017cy\u0107 cum\u0119 dziobow\u0105",
+    "answerB": "B. Podej\u015b\u0107 do nabrze\u017ca dziobem, za\u0142o\u017cy\u0107 cum\u0119 dziobow\u0105, luzowa\u0107 cum\u0119 dziobow\u0105 i cofa\u0107 jacht na biegu wstecznym, za\u0142o\u017cy\u0107 cum\u0119 rufowa na boj\u0119, ustawi\u0107 jacht pracuj\u0105c cumami",
+    "answerC": "C. Podej\u015b\u0107 do boi dziobem, zatrzyma\u0107 jacht i za\u0142o\u017cy\u0107 cum\u0119 rufow\u0105 rozci\u0105gniet\u0105 z rufy na dzi\u00f3b, na biegu naprz\u00f3d podchodzi\u0107 dalej do nabrze\u017ca i za\u0142o\u017cy\u0107 cum\u0119 dziobow\u0105",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "72. Zamierzamy wyposa\u017cy\u0107 jacht w nowe cumy. Chcemy aby by\u0142y nieton\u0105ce. Jaki rodzaj wybra\u0107?",
+    "answerA": "A. Poliamidowe (nylonowe)",
+    "answerB": "B. Poliestrowe (np. elana)",
+    "answerC": "C.Polipropylenowe",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "73. Jacht morski balastowy(d\u0142ugo\u015b\u0107 8 m). Ile cum i jakiej d\u0142ugo\u015bci powinno by\u0107 na pok\u0142adzie zgodnie z dobr\u0105 praktyk\u0105 \u017ceglarsk\u0105?",
+    "answerA": "A. 2 cumy po ok. 8 m.",
+    "answerB": "B. 4 cumy po ok. 12 m",
+    "answerC": "C. 2 cumy po ok. 4 m",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "74. Jacht balastowo mieczowy (d\u0142ugo\u015bc 7 m) eksploatowany jest na je\u017a. Mazurskich. Jaka powinna by\u0107 orientacyjna d\u0142ugo\u015b\u0107 liny kotwicznej dla tego jachtu?",
+    "answerA": "A. 10m",
+    "answerB": "B. 25 m",
+    "answerC": "C. 100 m",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "75. Czarterujemy jacht na jeziorach Mazurskich. Jakie informacje dot. w\u0142a\u015bciwo\u015bci jachtu z punktu widzenia BEZPIECZE\u0143STWA \u017ceglugi b\u0119d\u0105 dla nas NAJWA\u017bNIEJSZE ?",
+    "answerA": "A. Jaka jest pojemno\u015b\u0107 i rodzaj akumulator\u00f3w",
+    "answerB": "B. Czy jacht jest wyposa\u017cony w toalet\u0119 chemiczn\u0105 i zbiorniki na wod\u0119",
+    "answerC": "C. Czy jacht jest niezatapialny i jak\u0105 ma stateczno\u015b\u0107 (wymaga balastowania, ma stateczno\u015b\u0107 dodatni\u0105 przy du\u017cych k\u0105tach przechy\u0142u?)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "76. Przygotowuj\u0105c mieszank\u0119 paliwa i oleju do silnika dwusuwowego nale\u017cy kierowa\u0107 si\u0119:",
+    "answerA": "A. Liczb\u0105 oktanow\u0105 u\u017cywanego paliwa",
+    "answerB": "B. Instrukcj\u0105 obs\u0142ugi danego silnika",
+    "answerC": "C. Nie ma to znaczenia, zawsze stosuje si\u0119 stosunek 1:50",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "77. Jakie niebezpiecze\u0144stwo stwarza ulatnianie si\u0119 gazu (propan-butan) z butli we wn\u0119trzu jachtu.",
+    "answerA": "A. Nie ma wp\u0142ywu na zdrowie za\u0142ogi",
+    "answerB": "B. Tylko utrat\u0119 pewnej ilo\u015bci gazu",
+    "answerC": "C. Niebezpiecze\u0144stwo wybuchu, gdy\u017c gaz z powietrzem tworzy mieszanin\u0119 wybuchow\u0105",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "78. Na ma\u0142ym jachcie mieczowym ( np. OMEGA) zerwa\u0142 si\u0119 fa\u0142 foka. Jak bezpiecznie przeprowadzi\u0107 napraw\u0119?",
+    "answerA": "A. Wci\u0105gn\u0105\u0107 na maszt cz\u0142onka za\u0142ogi przy u\u017cyciu fa\u0142u grota i wymieni\u0107 fa\u0142",
+    "answerB": "B. Po\u0142o\u017cy\u0107 maszt i wymieni\u0107 fa\u0142",
+    "answerC": "C. Przy pomo\u015bcie przechyli\u0107 jacht u\u017cywaj\u0105c fa\u0142u grota i wymieni\u0107 fa\u0142",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "79. Przy \u0142adowaniu akumulatora przeno\u015bnym prostownikiem zaciski prostownika pod\u0142\u0105czamy do akumulatora:",
+    "answerA": "A. Plus prostownika - plus akumulatora, minus prostownika - minus akumulatora",
+    "answerB": "B. Plus prostownika - minus akumulatora, minus prostownika - plus akumulatora",
+    "answerC": "C. Plus prostownika - plus akumulatora, minus prostownika do uziemienia",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "80. Jacht \u017cegluje na silniku przyczepnym, w pewnym momencie obroty silnika wzros\u0142y, ale jacht zwalnia i zatrzymuje si\u0119. Co mo\u017ce by\u0107 najbardziej prawdopodobn\u0105 przyczyn\u0105 takiej awarii?",
+    "answerA": "A. Roz\u0142\u0105czenie \u015bruby z wa\u0142kiem \u015bruby (\u015bci\u0119cie sworznia lub innego zabezpieczenia \u015bruby)",
+    "answerB": "B. Uszkodzenie jednego ze skrzyde\u0142 \u015bruby",
+    "answerC": "C. Nakr\u0119cenie wodorost\u00f3w na \u015brub\u0119",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "81. Jak powinno przebiega\u0107 prawid\u0142owe zako\u0144czenie pracy silnika przyczepnego?",
+    "answerA": "A. Zmniejszy\u0107 obroty, podnie\u015b\u0107 silnik na A pantografie i zgasi\u0107 go wy\u0142\u0105czeniem zap\u0142onu.",
+    "answerB": "B. Zmniejszy\u0107 obroty, w\u0142\u0105czy\u0107 \"Luz\", zgasi\u0107 silnik wy\u0142\u0105cznikiem zap\u0142onu, podnie\u015b\u0107 silnik na pantografie",
+    "answerC": "C. Zgasi\u0107 silnik wy\u0142\u0105cznikiem zap\u0142onu, podnie\u015b\u0107 silnik na pantografie",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "82. Po uruchomieniu dwusuwowy silnik przyczepny pracuje lecz do\u015b\u0107 silnie dymi. Co mo\u017ce by\u0107 przyczyn\u0105?",
+    "answerA": "A. Zbyt du\u017co oleju w paliwie",
+    "answerB": "B. Zanieczyszczony ga\u017anik",
+    "answerC": "C. Paliwo o zbyt niskiej liczbie oktanowej",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "83. Tankuj\u0105c zbiornik paliwa do silnika przyczepnego dla bezpiecznego przechowania zbiornika z paliwem wykonujemy n/w czynno\u015bci.",
+    "answerA": "A. Tankujemy go do pe\u0142na i zakr\u0119camy korek wlewu.",
+    "answerB": "B. Tankujemy go do pe\u0142na i zakr\u0119camy korek wlewu i zaworek odpowietrzania",
+    "answerC": "C. Tankujemy z pozostawieniem pewnej wolnej przestrzeni w zbiorniku i zamykamy korek wlewu i zaworek odpowietrzaj\u0105cy",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "84. Na jachcie mamy kwasowe akumulatory obs\u0142ugowe. Czy wymagaj\u0105 one czynno\u015bci konserwacyjnych?",
+    "answerA": "A. Tak, dope\u0142niania ubytk\u00f3w kwasu wod\u0105 destylowan\u0105",
+    "answerB": "B. Nie wymagaj\u0105 \u017cadnej obs\u0142ugi poza utrzymaniem w czysto\u015bci klem i ich ochrony przed korozj\u0105",
+    "answerC": "C. Dope\u0142niania ubytk\u00f3w kwasu 50% roztworem kwasu siarkowego",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "85. Czy przy gwa\u0142townym hamowaniu silnikiem \"ca\u0142a wstecz\" i po\u0142o\u017ceniu p\u0142etwy sterowej \"ster zero\" jacht:",
+    "answerA": "A. Utrzyma kurs",
+    "answerB": "B. B\u0119dzie skr\u0119ca\u0142 w zale\u017cno\u015bci od kierunku obrot\u00f3w \u015bruby",
+    "answerC": "C. Zawsze b\u0119dzie skr\u0119ca\u0142 w prawo",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "86. Komenda \" prawy foka szot luz\" oznacza:",
+    "answerA": "A. Natychmiastowe i ca\u0142kowite zluzowanie szota",
+    "answerB": "B. Stopniowe luzowanie szota",
+    "answerC": "C. Luzowanie do momentu wej\u015bcia \u017cagla w \u0142opot",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "87. \u017begluj\u0105c na rzece podchodzimy do pomostu wiatr, niezbyt silny. Jak nale\u017cy podchodzi\u0107?",
+    "answerA": "A. Pod pr\u0105d",
+    "answerB": "B. Z pr\u0105dem",
+    "answerC": "C. Nie ma to znaczenia",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "88. Podchodzimy do pomostu praw\u0105 burt\u0105 na silniku pod pr\u0105d. Po zahamowaniu silnikiem jacht stoi. Jak\u0105 reakcj\u0119 jachtu spowoduje wychylenie steru w takiej sytuacji?",
+    "answerA": "A. Nie b\u0119dzie \u017cadnej bo  jacht stoi",
+    "answerB": "B. Ster lewo - dzi\u00f3b b\u0119dzie odchyla\u0142 si\u0119 od pomostu, a rufa w stron\u0119 pomostu",
+    "answerC": "C. Ster prawo - rufa b\u0119dzie odchyla\u0142a si\u0119 w stron\u0119 pomostu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "89. Jakie najwa\u017cniejsze czynno\u015bci nale\u017cy wykona\u0107 przed kotwiczeniem?",
+    "answerA": "A. Przygotowa\u0107 kotwic\u0119 i lin\u0119 kotwiczn\u0105",
+    "answerB": "B. Upewni\u0107 si\u0119 jaka jest g\u0142\u0119boko\u015b\u0107 w miejscu kotwiczenia, przygotowa\u0107 odpowiedni\u0105 d\u0142ugo\u015b\u0107 liny kotwicznej i kotwic\u0119, przygotowa\u0107 \u017cagle do zrzucenia",
+    "answerC": "C. Przygotowa\u0107 \u017cagle do zrzucenia",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "90. Jacht wyposa\u017cony jest w lin\u0119 kotwiczn\u0105 i kotwic\u0119 Danfortha Kotwiczymy na jeziorze na g\u0142\u0119boko\u015bci 2 m. Jak\u0105 minimaln\u0105 d\u0142ugo\u015b\u0107 liny kotwicznej wyda\u0107 dla bezpiecznego postoju przy za\u0142o\u017ceniu, \u017ce bezpieczny promie\u0144 \u0142ukowania wynosi ok. 20 m?",
+    "answerA": "A. Oko\u0142o 6 m",
+    "answerB": "B. Oko\u0142o 15 m",
+    "answerC": "C. Oko\u0142o 30 m",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "91. Jakie czynno\u015bci powinien wykona\u0107 cz\u0142onek za\u0142ogi po komendzie \"przygotowa\u0107 grot do zrzucenia?",
+    "answerA": "A. Zaj\u0105\u0107 stanowisko pozwalaj\u0105ce uk\u0142ada\u0107 zrzucany \u017cagiel",
+    "answerB": "B. Rozbuchtowa\u0107 fa\u0142 i u\u0142o\u017cy\u0107 go tak by si\u0119 nie spl\u0105ta\u0142, by\u0107 w gotowo\u015bci do luzowania fa\u0142u",
+    "answerC": "C. Oczekiwa\u0107 na ewentualn\u0105 komend\u0119 \"grot C precz\" i wtedy podj\u0105\u0107 odpowiednie czynno\u015bci",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "92. Czarterujemy jacht, za\u0142oga liczy 5 os\u00f3b. Na jachcie przekazano nam 4 pasy/kamizelki ratunkowe i jedno kolo ratunkowe. Czy jest to wyposa\u017cenie wystarczaj\u0105ce?",
+    "answerA": "A. Tak",
+    "answerB": "B. Nie",
+    "answerC": "C. Tak, ale tylko na wodach \u015br\u00f3dl\u0105dowych",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "93. Komenda \"za\u0142o\u017cy\u0107 cum\u0119 na biegowo\" oznacza:",
+    "answerA": "A. Zamocowa\u0107 jeden koniec cumy na pok\u0142adzie, drugi koniec przeprowadzi\u0107 przez urz\u0105dzenie cumownicze na l\u0105dzie i poprowadzi\u0107 z powrotem na pok\u0142ad",
+    "answerB": "B. Zamocowa\u0107 cum\u0119 na l\u0105dzie i u\u0142o\u017cy\u0107 wzd\u0142u\u017c pok\u0142adu od dziobu do rufy",
+    "answerC": "C. Przygotowa\u0107 cum\u0119 do szybkiego za\u0142o\u017cenia na urz\u0105dzenie cumownicze na l\u0105dzie",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "94. Jacht z otaklowaniem \u017caglowym typu slup ma postawione wszystkie \u017cagle. Kurs wzgl\u0119dem wiatru baksztag. Zamierzamy p\u0142yn\u0105\u0107 dalej na silniku bez \u017cagli. Jak przeprowadzi\u0107 zrzucenie \u017cagli?",
+    "answerA": "A. W dowolnej kolejno\u015bci nie zmieniaj\u0105c kursu",
+    "answerB": "B. Nie zmieniaj\u0105c kursu najpierw grot, a nast\u0119pnie fok",
+    "answerC": "C. Fok wg. oceny sternika, grot po ustawieniu jachtu w linii wiatru",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "95. Jacht p\u0142ynie na silniku. Zamierzamy dalej p\u0142yn\u0105\u0107 pod \u017caglami. W jaki spos\u00f3b przeprowadzi\u0107 postawienie \u017cagli?",
+    "answerA": "A. Zgasi\u0107 silnik, postawi\u0107 fok, a nast\u0119pnie grot",
+    "answerB": "B. Na ma\u0142ej szybko\u015bci ustawi\u0107 jacht dziobem do wiatru, postawi\u0107 grot, a nast\u0119pnie fok, zgasi\u0107 silnik",
+    "answerC": "C. Id\u0105c na silniku dowolnym kursem wzgl\u0119dem wiatru postawi\u0107 fok, a nast\u0119pnie grot",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "96. Zarefowany grot ma zamocowany r\u00f3g halsowy i refszkentl\u0119 oraz zawi\u0105zane refsejzingi. Jak przeprowadzi\u0107 rozrefowanie?",
+    "answerA": "A. Zwolni\u0107 refszkentl\u0119, odwi\u0105za\u0107 refsejzingi, zwolni\u0107 r\u00f3g halsowy",
+    "answerB": "B. Zwolni\u0107 r\u00f3g halsowy, zwolni\u0107 refszkentl\u0119, rozwi\u0105za\u0107 refsejzingi",
+    "answerC": "C. Rozwi\u0105za\u0107 refsejzingi, zwolni\u0107 refszkentl\u0119, zwolni\u0107 r\u00f3g halsowy, wybiera\u0107 fa\u0142",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "97. Podczas holowania jachtu z brzegu( np. na kanale) lin\u0119 holownicz\u0105 dla u\u0142atwienia sterowania nale\u017cy zamocowa\u0107?",
+    "answerA": "A. Na dziobie jachtu",
+    "answerB": "B. W okolicy masztu jachtu",
+    "answerC": "C. Nie ma znaczenia gdzie jest zamocowana",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "98. Chcemy przestawi\u0107 du\u017cy i ci\u0119\u017cki jacht wzd\u0142u\u017c nabrze\u017ca w kierunku dziobu jachtu. Najlepiej w t sytuacji do przesuwania jachtu u\u017cy\u0107:",
+    "answerA": "A. Tylko cumy dziobowej",
+    "answerB": "B. Liny zamocowanej do masztu",
+    "answerC": "C. Cumy dziobowej i szpringu rufowego",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "99. Przy wej\u015bciu do portu zaobserwowano znak jak na rysunku. Co on oznacza i jak post\u0105pi\u0107?",
+    "answerA": "A. Oznacza \"Marin\u0119\" dla jacht\u00f3w, mo\u017cna wp\u0142ywa\u0107.",
+    "answerB": "B. Zakaz wej\u015bcia dla jednostek sportowych, nie wp\u0142ywa\u0107",
+    "answerC": "C. Zakaz \u017ceglugi dla skuter\u00f3w wodnych i szybkich \u0142odzi motorowych",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/ZvvMqQWoq56qEJ-2fAMeJg.png"
+  },
+  {
+    "question": "100. Na bocznej odnodze szlaku \u017ceglownego ustawiona jest tablica jak na rysunku. Czy mo\u017cna tam wp\u0142ywa\u0107?",
+    "answerA": "A. Tak, oznacza zezwolenie przej\u015bcia",
+    "answerB": "B. Nie, oznacza rezerwat przyrody - nie mo\u017cna wp\u0142ywa\u0107",
+    "answerC": "C. Nie, oznacza akwen hodowli ryb - nie mo\u017cna wp\u0142ywa\u0107",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/jH.mBGXiYvobyaHKYBWkfQ.png"
+  },
+  {
+    "question": "101. Na polskiej mapie morskiej naniesione s\u0105 oznaczenia jak na rysunku obok. Co one oznaczaj\u0105?",
+    "answerA": "A. G\u0142\u0119boko\u015bci odpowiednio 25m i 34 m",
+    "answerB": "B. G\u0142\u0119boko\u015bci odpowiednio 2,5m i 3,4 m",
+    "answerC": "C. G\u0142\u0119boko\u015bci odpowiednio 2 s\u0105\u017cnie i 5 st\u00f3p, 3 s\u0105\u017cnie 4 stopy",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/fcRlZCh9eWhhuFVBGZt9jg.png"
+  },
+  {
+    "question": "102. Na brzegu zaobserwowano tablic\u0119 jak na rysunku obok. Co ona oznacza i jak post\u0105pi\u0107?",
+    "answerA": "A. Uwaga - most o wysoko\u015bci prz\u0119s\u0142a nad wod\u0105 podanej na znaku (12 m)",
+    "answerB": "B. Zakaz ruchu statk\u00f3w o mocy silnika (KM) podanej na znaku",
+    "answerC": "C. Nakaz nie przekraczania pr\u0119dko\u015bci 12 km/h, dostosowa\u0107 szybko\u015b\u0107",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/sdg6Wq12HCOx7-9P9hrCug.png"
+  },
+  {
+    "question": "103. Zaobserwowano znak przedstawiony na rysunku, Co on oznacza?",
+    "answerA": "A. Nakaz zachowania szczeg\u00f3lnej ostro\u017cno\u015bci,",
+    "answerB": "B. Zakaz ruchu statk\u00f3w \u017caglowych",
+    "answerC": "C. Nakaz nadania sygna\u0142u d\u017awi\u0119kowego.",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/20tBgbb4iwmH2Im3ihCkMw.png"
+  },
+  {
+    "question": "104. Nabie\u017cnik jest to:",
+    "answerA": "A. Para wbitych w dno pali s\u0142u\u017c\u0105cych do cumowania",
+    "answerB": "B. Betonowy s\u0142up lub inny charakterystyczny znak stoj\u0105cy na l\u0105dzie",
+    "answerC": "C. Para staw albo innych sta\u0142ych obiekt\u00f3w wyznaczaj\u0105ca kierunek",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "105. Przedstawione na rysunku znaki oznaczaj\u0105:",
+    "answerA": "A. Przebieg szlaku wzd\u0142u\u017c lewego brzegu",
+    "answerB": "B. Przebieg szlaku wzd\u0142u\u017c prawego brzegu",
+    "answerC": "C. Miejsce niebezpieczne na lewym brzegu",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/j5GSXrU59V7zWst.caOePw.png"
+  },
+  {
+    "question": "106. Na Zatoce Gda\u0144skiej zaobserwowano jeden ze znak\u00f3w jak na rysunku. Co oznacza i jak post\u0105pi\u0107?",
+    "answerA": "A. Akwen zakazany, nie wp\u0142ywa\u0107 poza znak",
+    "answerB": "B. Rezerwat przyrodniczy, nie wolno kotwiczy\u0107",
+    "answerC": "C. O\u015b lub pocz\u0105tek toru wodnego (t.zw. znak bezpiecznej wody), Obserwowa\u0107 dalsze znaki toru wodnego i p\u0142yn\u0105\u0107 wg. nich",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/2s8fso1.OvgpSIu5Fr7qWw.png"
+  },
+  {
+    "question": "108. Wp\u0142ywaj\u0105c do portu Jastarnia na Zatoce Gda\u0144skiej kursem na p\u00f3\u0142noc zielon\u0105 p\u0142aw\u0119 pozostawiamy:",
+    "answerA": "A. Po prawej burcie",
+    "answerB": "B. Po lewej burcie",
+    "answerC": "C. Oboj\u0119tne, bo jest to p\u0142awa wyznaczaj\u0105ca \u015brodek farwateru.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "109. Cumuj\u0105c w \u015bluzie nale\u017cy:",
+    "answerA": "A. Ob\u0142o\u017cy\u0107 dok\u0142adnie cumy na urz\u0105dzeniach do cumowania tak aby powsta\u0142e zawirowania wody i pr\u0105d nie porwa\u0142 jachtu",
+    "answerB": "B. W og\u00f3le nie zak\u0142ada\u0107 cum ze wzgl\u0119du na zmiany poziomu wody lecz ca\u0142y czas odpycha\u0107 si\u0119 bosakiem i pagajami od brzeg\u00f3w komory \u015bluzy",
+    "answerC": "C. Za\u0142o\u017cy\u0107 cumy na biegowo, luzowa\u0107 lub wybiera\u0107 je w miar\u0119 podnoszenia lub obni\u017cania lustra wody",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "110. Przed mostami zwodzonymi jedno lub wi\u0119cej \u015bwiate\u0142 czerwonych umieszczonych poziomo oznacza:",
+    "answerA": "A. Zakaz przej\u015bcia,",
+    "answerB": "B. Przygotowa\u0107 si\u0119 do przej\u015bcia",
+    "answerC": "C. Otwieranie mostu okresowo wstrzymane.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "111. P\u0142yn\u0105c rzek\u0105 z pr\u0105dem zaobserwowano boj\u0119 sto\u017ckow\u0105 o trudnym do rozpoznania kolorze. Co mo\u017ce oznacza\u0107 i jak j\u0105 min\u0105\u0107?",
+    "answerA": "A. Praw\u0105 stron\u0119 szlaku \u017ceglownego, min\u0105\u0107 praw\u0105 burt\u0105",
+    "answerB": "B. Lew\u0105 stron\u0119 szlaku \u017ceglownego, min\u0105\u0107 lew\u0105 burt\u0105",
+    "answerC": "C. Lew\u0105 stron\u0119 szlaku \u017ceglownego, min\u0105\u0107 praw\u0105 burt\u0105",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "112. W przesmyku mi\u0119dzy jeziorami zaobserwowano dwie tyki ze znakami jak na rysunku. Co one oznaczaj\u0105 i jak si\u0119 zachowa\u0107?",
+    "answerA": "A. Mi\u0119dzy znakami jest przeszkoda. Omija\u0107 po stronie bia\u0142ych tr\u00f3jk\u0105t\u00f3w",
+    "answerB": "B. Zalecone przej\u015bcie pomi\u0119dzy znakami (mi\u0119dzy zielonymi tr\u00f3jk\u0105tami)",
+    "answerC": "C. Ka\u017cdy znak oznacza odosobnione  niebezpiecze\u0144stwo. Mija\u0107 dowolnie",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/naw2t3KPipIdqMXxfey9vw.png"
+  },
+  {
+    "question": "113. Na kanale zaobserwowano cztery jachty zacumowane po dwa burta w burt\u0119, a na brzegu znaki jak na rysunku. Czy mo\u017cemy za zgod\u0105 jednego z tych jacht\u00f3w zacumowa\u0107 do jego burty?",
+    "answerA": "A. Tak, jest to dozwolone",
+    "answerB": "B. Nie, dozwolone jest cumowanie tylko czterech jacht\u00f3w",
+    "answerC": "C. Nie, te jachty zacumowa\u0142y nieprawid\u0142owo, niedozwolone jest cumowanie burta w burt\u0119",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/1IM6OMBsLcGZ2bb0To.1JQ.png"
+  },
+  {
+    "question": "114. Jednym z element\u00f3w regulacji rzeki jest ostroga; jest ona budowl\u0105:",
+    "answerA": "A. Usytuowan\u0105 poprzecznie do przep\u0142ywu rzeki",
+    "answerB": "B. Usytuowan\u0105 r\u00f3wnolegle do przep\u0142ywu rzeki",
+    "answerC": "C. Po\u0142o\u017con\u0105 w \u015brodku koryta rzeki.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "115. Na kanale zaobserwowano ustawione znaki jak na rysunku. Co one oznaczaj\u0105 ?",
+    "answerA": "A. Dozwolony post\u00f3j - punkt zdawania \u015bciek\u00f3w",
+    "answerB": "B. Dozwolony post\u00f3j w stron\u0119 wskazan\u0105 bia\u0142ym tr\u00f3jk\u0105tem - punkt tankowania wody pitnej",
+    "answerC": "C. Dozwolony post\u00f3j tylko dla statk\u00f3w wioz\u0105cych \u0142adunki ciek\u0142e.",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/f3p6ZFcK4BZypK9rfJAlSA.png"
+  },
+  {
+    "question": "116. \u017begluj\u0105c praw\u0105 stron\u0105 toru wodnego zauwa\u017cono blisko brzegu znak jak na rysunku. Co on oznacza i jak si\u0119 zachowa\u0107?",
+    "answerA": "A. Miejsce dogodne do zacumowania. Mo\u017cna podej\u015b\u0107 blisko lub cumowa\u0107",
+    "answerB": "B. Ostrze\u017cenie o du\u017cym ruchu. \u017beglowa\u0107 ostro\u017cnie",
+    "answerC": "C. Miejsce niebezpieczne przy prawym brzegu. Omin\u0105\u0107 w bezpiecznej odleg\u0142o\u015bci",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/FW6xZpUjTdKsXVLU8Zv.Hg.png"
+  },
+  {
+    "question": "117. \u017begluj\u0105c po jeziorze zaobserwowano statek kt\u00f3ry podni\u00f3s\u0142 sygna\u0142 jak na rysunku (bia\u0142a kula). Co on oznacza i jak si\u0119 zachowa\u0107?",
+    "answerA": "A. Statek stoi na kotwicy. Mija\u0107 nie za blisko",
+    "answerB": "B. Na akwenie od bywaj\u0105 si\u0119 zawody sportowe (np. regaty) Nie wp\u0142ywa\u0107 oddali\u0107 si\u0119 od tego akwenu.",
+    "answerC": "C. Statek dryfuje. Mija\u0107 po stronie nawietrznej",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/e5KUEcqH2eb6g9QJtdfjTw.png"
+  },
+  {
+    "question": "118. Jacht zbli\u017ca si\u0119 do mostu zwodzonego. Na mo\u015bcie zaobserwowano sygna\u0142 jak na rysunku. Jak nale\u017cy si\u0119 zachowa\u0107?",
+    "answerA": "A. Most uszkodzony, zakaz przej\u015bcia",
+    "answerB": "B. Otwarcie mostu nast\u0105pi za dwie godziny",
+    "answerC": "C. Nie nale\u017cy przep\u0142ywa\u0107 pod mostem, ale nale\u017cy przygotowa\u0107 si\u0119 do tego",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/aNdiSSgJtfmYdMuTjrhH5g.png"
+  },
+  {
+    "question": "119. Jacht o wysoko\u015bci masztu 8m, szeroko\u015bci 4m i zanurzeniu 1 m, zaobserwowa\u0142 przy wej\u015bciu do kana\u0142u tablice jak na rysunku. Jak nale\u017cy post\u0105pi\u0107?",
+    "answerA": "A. Nie da si\u0119 przej\u015b\u0107, nale\u017cy zawr\u00f3ci\u0107",
+    "answerB": "B. Mo\u017cna przej\u015b\u0107 po po\u0142o\u017ceniu masztu",
+    "answerC": "C. Mo\u017cna przej\u015b\u0107 nie ma przeszk\u00f3d",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/Qpq7Vca65EUX7w.ZoY1jzg.png"
+  },
+  {
+    "question": "120. Na brzegu zaobserwowano znak jak na rysunku. Jak nale\u017cy si\u0119 zachowa\u0107?",
+    "answerA": "A. Uwaga, mog\u0105 przep\u0142ywa\u0107 szybkie \u0142odzie motorowe i skutery wodne.",
+    "answerB": "B. Zmniejszy\u0107 szybko\u015b\u0107, aby nie wytwarza\u0107 fali",
+    "answerC": "C. Nier\u00f3wna linia brzegowa, sp\u0142ycenia, zachowa\u0107 ostro\u017cno\u015b\u0107",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/Nvqr0S9VEZ57MvEordSg4Q.png"
+  },
+  {
+    "question": "121. Czy pod sta\u0142ymi mostami mo\u017cna przep\u0142ywa\u0107 w dowolnym miejscu?",
+    "answerA": "A. Nie, mo\u017cna przep\u0142ywa\u0107 tylko po zaobserwowaniu sygna\u0142u wolnego przej\u015bcia",
+    "answerB": "B. Tak, po upewnieniu si\u0119 czy wysoko\u015b\u0107 mostu jest wystarczaj\u0105ca i pod oznakowanym prz\u0119s\u0142em.",
+    "answerC": "C. Tak, w dowolnym miejscu je\u017celi wysoko\u015b\u0107 mostu jest wystarczaj\u0105ca",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "122. P\u0142yn\u0105c kana\u0142em zaobserwowano znak jak na rysunku. Je\u017celi na tr\u00f3jk\u0105cie z prawej strony znaku znajduje si\u0119 liczba to co ona oznacza?",
+    "answerA": "A. Liczb\u0119 jednostek kt\u00f3re mog\u0105 tu cumowa\u0107",
+    "answerB": "B. Odleg\u0142o\u015b\u0107 w m okre\u015blaj\u0105ca d\u0142ugo\u015b\u0107 odcinka do cumowania",
+    "answerC": "C. G\u0142\u0119boko\u015b\u0107 przy nabrze\u017cu przeznaczonym do cumowania",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/TO3L54pdU9Veksaa5uwrLw.png"
+  },
+  {
+    "question": "123. Jacht na jeziorze \u015aniardwy p\u0142ynie na po\u0142udnie w kierunku miejscowo\u015bci Pisz. Na kursie zaobserwowano sto\u017ckow\u0105 p\u0142aw\u0119 (1) a kilkadziesi\u0105t metr\u00f3w dalej p\u0142aw\u0119 jak na rysunku (2). Jak mija\u0107 te znaki?",
+    "answerA": "A. P\u0142aw\u0119 zielon\u0105 (1) lew\u0105 burt\u0105, p\u0142aw\u0119 (2) te\u017c lew\u0105 burt\u0105",
+    "answerB": "B. P\u0142aw\u0119 zielon\u0105 (1) praw\u0105 burt\u0105, p\u0142aw\u0119 (2) lew\u0105 burt\u0105",
+    "answerC": "C. P\u0142aw\u0119 zielon\u0105 (1) praw\u0105 burt\u0105, p\u0142aw\u0119 (2) te\u017c praw\u0105 burt\u0105",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/AnteryXQO106aq87CCFKuw.png"
+  },
+  {
+    "question": "124. P\u0142yn\u0105c wzd\u0142u\u017c brzegu jeziora zaobserwowano na brzegu znak jak na rysunku. Co on oznacza ?",
+    "answerA": "A. Punkt nadawania ostrze\u017ce\u0144 meteorologicznych",
+    "answerB": "B. Wej\u015bcie do kana\u0142u - po lewej stronie znaku",
+    "answerC": "C. Wej\u015bcie do kana\u0142u - po prawej stronie znaku",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/LMZAjis72QgGEwYIeXbLkA.png"
+  },
+  {
+    "question": "125. Na wej\u015bciu do kana\u0142u zaobserwowano znak jak na rysunku. Co on oznacza?",
+    "answerA": "A. Zakaz przej\u015bcia",
+    "answerB": "B. Nakaz zrzucenia \u017cagli",
+    "answerC": "C. Zakaz cumowania po prawej stronie",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/lbWDJYK7vHT06EfEZEdjAw.png"
+  },
+  {
+    "question": "126. Na odnodze kana\u0142u \u017ceglownego zaobserwowano znak jak na rysunku. Co oznacza i jak si\u0119 zachowa\u0107?",
+    "answerA": "A. \u015aluza, p\u0142yn\u0105\u0107 i obserwowa\u0107 sygna\u0142y",
+    "answerB": "B. Jaz, niebezpiecze\u0144stwo, mo\u017ce by\u0107 silny pr\u0105d, upewni\u0107 si\u0119 czy mo\u017cna przep\u0142ywa\u0107.",
+    "answerC": "C. Przysta\u0144 mo\u017cna zacumowa\u0107 przy nabrze\u017cu",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/.vfzWdxcpDH7j3L2GRTBzQ.png"
+  },
+  {
+    "question": "127. Budowla hydotechniczna pozwalaj\u0105ca na przechodzenie jednostek z akwenu o wy\u017cszym poziomie wody do akwenu o ni\u017cszym poziomie lub odwrotnie to:",
+    "answerA": "A. \u015aluza komorowa",
+    "answerB": "B. Jaz",
+    "answerC": "C. Zapora",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "128. Gdzie mo\u017cna znale\u017a\u0107 informacje o kierunkach oznakowania nawigacyjnego na \u015br\u00f3dl\u0105dowych drogach wodnych?",
+    "answerA": "A. Na mapach turystycznych",
+    "answerB": "B. W za\u0142\u0105czniku nr 9 do przepis\u00f3w \u017ceglugowych na \u015br\u00f3dl\u0105dowych drogach wodnych (Rozporzadzenie Ministra Infrastruktury z 28.04.2003 r)",
+    "answerC": "C. W Rozporz\u0105dzeniu Ministra Sportu i C Turystyki w sprawie uprawiania turystyki wodnej",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "129. Jacht o d\u0142ugo\u015bci 8 m i wysoko\u015bci masztu 14 m wp\u0142ywa do kana\u0142u. Na brzegu ustawione s\u0105 znaki jak na rysunku Co nale\u017cy zrobi\u0107 ?",
+    "answerA": "A. Nie ma przeszk\u00f3d, p\u0142yn\u0105\u0107 dalej",
+    "answerB": "B. Po\u0142o\u017cy\u0107 maszt i p\u0142yn\u0105\u0107 dalej",
+    "answerC": "C. Nie da si\u0119 przej\u015b\u0107 jacht jest za d\u0142ugi",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/-rRQCj4UW0yBHTo1WoLAZw.png"
+  },
+  {
+    "question": "130. W systemie kardynalnym p\u0142awy ustawia si\u0119 w stosunku do niebezpiecze\u0144stwa:",
+    "answerA": "A. Zawsze 4 p\u0142awy: na N, na S, na W i na E od niebezpiecze\u0144stwa",
+    "answerB": "B. W zale\u017cno\u015bci od po\u0142o\u017cenia i wielko\u015bci niebezpiecze\u0144stwa jedn\u0105 lub wi\u0119cej p\u0142aw odpowiednio na N, S, W czy E od niebezpiecze\u0144stwa",
+    "answerC": "C. Tylko dwie p\u0142awy na N i S lub E i W od niebezpiecze\u0144stwa",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "131. Jacht po wyp\u0142yni\u0119ciu z przesmyku mi\u0119dzy jeziorami Zaobserwowa\u0142 p\u0142aw\u0119 Jak na rysunku. Co ona oznacza?",
+    "answerA": "A. P\u0142ycizn\u0119, kt\u00f3r\u0105 mo\u017cna mija\u0107 z obu stron",
+    "answerB": "B. Rozwidlenie szlaku",
+    "answerC": "C. Akwen hodowli ryb, nie wp\u0142ywa\u0107",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/7g33Xm9DoI8RJ4bWc9pLJg.png"
+  },
+  {
+    "question": "132. Jacht p\u0142yn\u0105c kana\u0142em na pewnym odcinku zauwa\u017cy\u0142 znak jak na rysunku. Co on oznacza?",
+    "answerA": "A. Dozwolone cumowanie",
+    "answerB": "B. Zakaz cumowania",
+    "answerC": "C. Parking tylko dla \u0142odzi motorowych",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/8hKPEHQmFCo5Wm-hBDcLxw.png"
+  },
+  {
+    "question": "133. W pobli\u017cu brzegu zaobserwowano kilka boi jak na rysunku. Co one oznaczaj\u0105 I Jak si\u0119 zachowa\u0107?",
+    "answerA": "A. Akwen dozwolony do \u017ceglugi tylko z ma\u0142\u0105 pr\u0119dko\u015bci\u0105",
+    "answerB": "B. Akwen zamkni\u0119ty. Nie wp\u0142ywa\u0107",
+    "answerC": "C. Niedozwolona \u017cegluga pod \u017caglami, mo\u017cna p\u0142yn\u0105\u0107 na wios\u0142ach.",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/CkRxI57PeXwIXSFnxvo04A.png"
+  },
+  {
+    "question": "134. Zbli\u017caj\u0105c si\u0119 do mostu na kanale zaobserwowano taki znak Co on oznacza?",
+    "answerA": "A. Zakaz przej\u015bcia jacht\u00f3w o d\u0142ugo\u015bci powy\u017cej 7,5 m",
+    "answerB": "B. Wysoko\u015b\u0107 przej\u015bcia nad lini\u0105 wody 7,5 m",
+    "answerC": "C. Zakaz cumowania jacht\u00f3w o d\u0142ugo\u015bci 7,5 m",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/.VPuxQWvTasLgIxAt3.ffg.png"
+  },
+  {
+    "question": "135. P\u0142yn\u0105c kana\u0142em zaobserwowano taki znak. Jak post\u0119powa\u0107?",
+    "answerA": "A. Obserwowa\u0107 czy nie przep\u0142ywa prom i ewentualnie ust\u0105pi\u0107 z drogi",
+    "answerB": "B. Znak oznacza przysta\u0144 - mo\u017cna ewentualnie cumowa\u0107",
+    "answerC": "C. Male statki maj\u0105 pierwsze\u0144stwo przej\u015bcia",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/MPVCnNfWrws3mSiBxgc9dw.png"
+  },
+  {
+    "question": "136. P\u0142yn\u0105c kana\u0142em zaobserwowano taki znak Co oznacza?",
+    "answerA": "A. Uwaga przeszkoda podwodna",
+    "answerB": "B. Nakaz dawania sygna\u0142u d\u017awi\u0119kowego",
+    "answerC": "C. Zakaz zatrzymywania si\u0119",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/VbBrf72i1y21t.iHxsDIPw.png"
+  },
+  {
+    "question": "137. Przy wyj\u015bciu z kana\u0142u zaobserwowano taki znak. Co oznacza",
+    "answerA": "A. Nakaz \u017ceglugi na silniku",
+    "answerB": "B. Zakaz \u017ceglugi na silniku",
+    "answerC": "C. Dozwolone p\u0142ywanie na silniku ma\u0142ej mocy",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/P7rU7kRp2S1jKqH7vwFyfA.png"
+  },
+  {
+    "question": "138. Wchodz\u0105c do \u015bluzy najwa\u017cniejsze Jest przygotowanie:",
+    "answerA": "A. Kotwicy do rzucenia",
+    "answerB": "B. Dw\u00f3ch d\u0142ugich cum",
+    "answerC": "C. Ko\u0142a ratunkowego z rzutka",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "139. Na kursie jachtu zaobserwowano jeden z pokazanych znak\u00f3w. Jak go mo\u017cna min\u0105\u0107?",
+    "answerA": "A. Tylko lew\u0105 burt\u0105",
+    "answerB": "B. Tylko praw\u0105 burt\u0105",
+    "answerC": "C. W dowolny spos\u00f3b praw\u0105 lub lew\u0105 burt\u0105",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/A9flrHvzEyuU8eSdpuljvQ.png"
+  },
+  {
+    "question": "140. \u017beglujemy na Zalewie Szczeci\u0144skim. W locji znale\u017ali\u015bmy informacj\u0119, \u017ce do portu Stepnica nale\u017cy wchodzi\u0107 w nabie\u017cniku - stawa dolna z rombem, stawa g\u00f3rna z tr\u00f3jk\u0105tem. Zaobserwowano nabie\u017cnik jak na rysunku. Jak zmieni\u0107 kurs aby wej\u015b\u0107 w lini\u0119 nabie\u017cnika?",
+    "answerA": "A. W prawo",
+    "answerB": "B. Nie nale\u017cy zmienia\u0107 kursu",
+    "answerC": "C. W lewo",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/1sijwnOdKGKoI7r10Ub14w.png"
+  },
+  {
+    "question": "141. Co oznacza taki znak na kanale ?",
+    "answerA": "A. Zakaz cumowania",
+    "answerB": "B. Dozwolone cumowanie",
+    "answerC": "C. Punkt poboru wody",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/NXg7tt0a.F5vA48dHnoVsA.png"
+  },
+  {
+    "question": "142. Co oznacza ten znak ?",
+    "answerA": "A. Nakaz \u017ceglugi tylko z jednym \u017caglem",
+    "answerB": "B. Pierwsze\u0144stwo przej\u015bcia dla jacht\u00f3w \u017caglowych",
+    "answerC": "C. Zakaz \u017ceglugi pod \u017caglami",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/cleJD7YEwthbx0TsHcoQEw.png"
+  },
+  {
+    "question": "143. Co oznacza ten znak i jak si\u0119 zachowa\u0107 ?",
+    "answerA": "A. Przysta\u0144 statk\u00f3w pasa\u017cerskich, mija\u0107 daleko",
+    "answerB": "B. Prom na uwi\u0119zi. Mija\u0107 za ruf\u0105 nie za blisko",
+    "answerC": "C. Dozwolone cumowanie dla jacht\u00f3w",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/a5xDZNPyhQAVr67kjbBo-Q.png"
+  },
+  {
+    "question": "144. Znak zezwalaj\u0105cy na wej\u015bcie do \u015bluzy to:",
+    "answerA": "A. Jedno zielone \u015bwiat\u0142o",
+    "answerB": "B. Dwa \u015bwiat\u0142a czerwone",
+    "answerC": "C. \u015awiat\u0142o czerwone i zielone obok siebie",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "145. Na mo\u015bcie sta\u0142ym zaobserwowano znak jak na rysunku. Jak przechodzi\u0107 pod mostem?",
+    "answerA": "A. Przechodzi\u0107 pod mostem trzymaj\u0105c si\u0119 prawej strony",
+    "answerB": "B. Przechodzi\u0107 w dowolny spos\u00f3b bo to przej\u015bcie jednokierunkowe",
+    "answerC": "C. Oczekiwa\u0107 na sygna\u0142 zezwalaj\u0105cy na przej\u015bcie",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/zhA-gyD1JC90gZr0TSxWXw.png"
+  },
+  {
+    "question": "146. P\u0142yn\u0105c rzek\u0105 wzd\u0142u\u017c lewego brzegu widzisz jeden ze znak\u00f3w pokazanych na rysunku, wtedy powiniene\u015b:",
+    "answerA": "A. Zatrzyma\u0107 si\u0119 przy brzegu i z\u0142o\u017cy\u0107 maszt, w pobli\u017cu most",
+    "answerB": "B. Spodziewa\u0107 si\u0119 przej\u015bcia szlaku \u017ceglownego na prawy brzeg, odpowiednio zmieni\u0107 kurs",
+    "answerC": "C. \u017be szlak \u017ceglowny przebiega przy lewym brzegu.",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/O4VvKl9iQGAn8rfkFcdJAw.png"
+  },
+  {
+    "question": "147. Co oznacza pokazana tablica ?",
+    "answerA": "A. Zakaz \u017ceglugi na silniku",
+    "answerB": "B. Dozwolone p\u0142ywanie na silniku",
+    "answerC": "C. Nakaz \u017ceglugi na silniku",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/JJ1vJZ2cMaQohU-wutZMaA.png"
+  },
+  {
+    "question": "148. Jakie minimum pomocy nawigacyjnych nale\u017cy mie\u0107 na jachcie \u017cegluj\u0105cym na Zatoce Gda\u0144skiej ?",
+    "answerA": "A. Map\u0119, locj\u0119 akwenu i kompas",
+    "answerB": "B. Sekstant i Rocznik Astronomiczny",
+    "answerC": "C. Spis radiostacji i Locj\u0119 Ba\u0142tyku",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "149. Gdy ma\u0142y statek id\u0105cy pod \u017caglami prawym halsem idzie kursem przecinaj\u0105cym si\u0119 z kursem ma\u0142ego statku id\u0105cego pod \u017caglami lewym halsem tak, \u017ce istnieje ryzyko zderzenia to powinien:",
+    "answerA": "A. Zachowa\u0107 kurs i szybko\u015b\u0107",
+    "answerB": "B. Ust\u0105pi\u0107 z drogi",
+    "answerC": "C. Zmniejszy\u0107 szybko\u015b\u0107",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "150. Jacht \u017caglowy idzie do wej\u015bcia do kana\u0142u odleg\u0142ego ok. 300 m. Statek pasa\u017cerski wychodz\u0105cy z kana\u0142u na wprost jachtu da\u0142 sygna\u0142 d\u017awi\u0119kowy dwa kr\u00f3tkie. Co powinien zrobi\u0107 jacht?",
+    "answerA": "A. Kontynuowa\u0107 sw\u00f3j kurs",
+    "answerB": "B. Zmieni\u0107 sw\u00f3j kurs w prawo",
+    "answerC": "C. Zatrzyma\u0107 si\u0119 i rzuci\u0107 kotwic\u0119",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "151. Jacht \u017caglowy id\u0105cy pod \u017caglami i na silniku jest traktowany jako:",
+    "answerA": "A. Jacht motorowy",
+    "answerB": "B. Jacht \u017caglowy",
+    "answerC": "C. Jacht \u017caglowo - motorowy",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "152. Jacht pod \u017caglami na zatoce Gda\u0144skiej p\u0142ynie kursem przecinaj\u0105cym si\u0119 z kursem niewielkiego statku o nap\u0119dzie mechanicznym, tak, \u017ce powoduje to ryzyko zderzenia. Statek ten niesie sygna\u0142 dwa czarne sto\u017cki wierzcho\u0142kami do siebie. Jakie dzia\u0142anie powinien podj\u0105\u0107 jacht?",
+    "answerA": "A. Utrzyma\u0107 kurs i szybko\u015b\u0107",
+    "answerB": "B. Przej\u015b\u0107 mu blisko za ruf\u0105",
+    "answerC": "C. Omin\u0105\u0107 go z daleka",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "153. Statek \u017caglowy o d\u0142ugo\u015bci 8 m, id\u0105cy pod \u017caglami na wodach \u015br\u00f3dl\u0105dowych powinien ust\u0105pi\u0107:",
+    "answerA": "A. Statkowi pasa\u017cerskiemu o nap. mech.",
+    "answerB": "B. Motor\u00f3wce o d\u0142ugo\u015bci ok. 10 m",
+    "answerC": "C. \u0141odzi wios\u0142owej w ruchu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "154. Jacht \u017caglowy o d\u0142ugo\u015bci mniejszej ni\u017c 7 m w my\u015bl obowi\u0105zuj\u0105cych przepis\u00f3w jest uwa\u017cany za:",
+    "answerA": "A. Statek \u017caglowy",
+    "answerB": "B. Ma\u0142y statek \u017caglowy",
+    "answerC": "C. Statek bez nap\u0119du",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "155. Wody \u015br\u00f3dl\u0105dowe. Statek pasa\u017cerski o d\u0142ugo\u015bci mniejszej ni\u017c 20 m z podniesionym znakiem jak na rysunku jest uwa\u017cany w my\u015bl przepis\u00f3w za:",
+    "answerA": "A. Statek",
+    "answerB": "B. Ma\u0142y statek",
+    "answerC": "C. Statek motorowy",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/tXJOmeFnCG7jFE.ONj4LOg.png"
+  },
+  {
+    "question": "156. Osoba prowadz\u0105ca jacht \u017caglowy o d\u0142ugo\u015bci 8 m po \u015br\u00f3dl\u0105dowych drogach wodnych powinna posiada\u0107:",
+    "answerA": "A. Ksi\u0105\u017ceczk\u0119 \u017ceglarska",
+    "answerB": "B. Patent co najmniej \u017ceglarza jachtowego",
+    "answerC": "C. Za\u015bwiadczenie o uko\u0144czeniu kursu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "157. Na wodach Zatoki Gda\u0144skiej na kursie zaobserwowano statek kt\u00f3ry podni\u00f3s\u0142 sygna\u0142 jak na rysunku. Co nale\u017cy zrobi\u0107?",
+    "answerA": "A. Nie zbli\u017ca\u0107 si\u0119 bli\u017cej ni\u017c 2 Mm",
+    "answerB": "B. Min\u0105\u0107 go daleko przed dziobem",
+    "answerC": "C. Min\u0105\u0107 go z dowolnej strony w bezpiecznej odleg\u0142o\u015bci.",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/XDLF2tRSGbsY.CE6R7Vw2w.png"
+  },
+  {
+    "question": "158. Kt\u00f3re z odpad\u00f3w s\u0105 najbardziej szkodliwe dla",
+    "answerA": "A. Odpady organiczne (resztki \u017cywno\u015bci itp.) \u015brodowiska?",
+    "answerB": "B. Opakowania z tworzyw sztucznych",
+    "answerC": "C. Opakowania z tworzyw sztucznych",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "159. Poza torem wodnym na otwartych wodach Zatoki Gda\u0144skiej jacht pod \u017caglami idzie kursem przecinaj\u0105cym si\u0119 z kursem ma\u0142ego statku pasa\u017cerskiego, tak, \u017ce powoduje to ryzyko zderzenia. Jaki manewr powinien podj\u0105\u0107 ?",
+    "answerA": "A. Przej\u015b\u0107 mu za ruf\u0105",
+    "answerB": "B. Zmniejszy\u0107 szybko\u015b\u0107 i przepu\u015bci\u0107 go przed dziobem",
+    "answerC": "C. Utrzyma\u0107 kurs i pr\u0119dko\u015b\u0107",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "160. Na podej\u015bciu do portu Gda\u0144sk jacht zaobserwowa\u0142 statek, kt\u00f3ry podni\u00f3s\u0142 sygna\u0142y jak na rysunku. Jak go wymin\u0105\u0107?",
+    "answerA": "A. Z dowolnej strony",
+    "answerB": "B. Od strony wystawionych kul",
+    "answerC": "C. Od strony wystawionych romb\u00f3w",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/wfbeXxAoFTtvOMKwj5JLhQ.png"
+  },
+  {
+    "question": "161. Wody \u015br\u00f3dl\u0105dowe. Statek pasa\u017cerski nada\u0142 seri\u0119 podw\u00f3jnych kr\u00f3tkich d\u017awi\u0119k\u00f3w. Co to oznacza?",
+    "answerA": "A. Nie mog\u0119 manewrowa\u0107",
+    "answerB": "B. Niebezpiecze\u0144stwo zderzenia",
+    "answerC": "C. Cz\u0142owiek za burt\u0105",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "162. Pi\u0119tnastoletnia osoba posiadaj\u0105ca stopie\u0144 \u017ceglarza jachtowego jest uprawniona do prowadzenia jacht\u00f3w na wodach \u015br\u00f3dl\u0105dowych o powierzchni o\u017caglowania:",
+    "answerA": "A. Do 10 m2 \u017cagla,",
+    "answerB": "B. Dowolnej,",
+    "answerC": "C. Do 20 m2 \u017cagla, pod nadzorem.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "163. Wody \u015br\u00f3dl\u0105dowe. Ma\u0142y statek p\u0142yn\u0105cy pod \u017caglami powinien ust\u0105pi\u0107:",
+    "answerA": "A. Statkowi pasa\u017cerskiemu o nap\u0119dzie mechanicznym,",
+    "answerB": "B. Ma\u0142emu statkowi o nap\u0119dzie mechanicznym,",
+    "answerC": "C. Wodolotowi p\u0142yn\u0105cemu z du\u017ca pr\u0119dko\u015bci\u0105.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "164. Jacht \u017caglowy p\u0142yn\u0105cy na \u017caglach i na silniku w dzie\u0144 powinien nosi\u0107:",
+    "answerA": "A. Czarn\u0105 kul\u0119",
+    "answerB": "B. Czarny sto\u017cek skierowany wierzcho\u0142kiem w d\u00f3\u0142,",
+    "answerC": "C. Czerwona kul\u0119.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "165. Wody \u015br\u00f3dl\u0105dowe. W czasie manewru wyprzedzania jachtu \u017caglowego, jacht kt\u00f3ry wyprzedza powinien z zasady wyprzedza\u0107:",
+    "answerA": "A. Jacht wyprzedzany po jego stronie zawietrznej w bezpiecznej odleg\u0142o\u015bci",
+    "answerB": "B. W spos\u00f3b uzgodniony z prowadz\u0105cym jacht wyprzedzany,",
+    "answerC": "C. Jacht wyprzedzany po jego stronie nawietrznej w bezpiecznej odleg\u0142o\u015bci",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "166. Wody \u015br\u00f3dl\u0105dowe. Na burcie stoj\u0105cego statku wywieszono sygna\u0142 jak na rysunku. Z kt\u00f3rej strony nale\u017cy min\u0105\u0107 ten statek?",
+    "answerA": "A. Nie wolno mija\u0107 takiego statku,",
+    "answerB": "B. Mo\u017cna min\u0105\u0107 z obu stron, ostro\u017cnie, nie wytwarzaj\u0105c fali",
+    "answerC": "C. Tylko od strony flagi czerwono-bia\u0142ej",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/gIiDqFLEK1xv04-axWlAag.png"
+  },
+  {
+    "question": "167. Prowadz\u0105cy jacht w celu unikni\u0119cia bezpo\u015brednio gro\u017c\u0105cego niebezpiecze\u0144stwa zderzenia (szczeg\u00f3lnie kiedy niezb\u0119dna jest szybka reakcja):",
+    "answerA": "A. Mo\u017ce odst\u0105pi\u0107 od przestrzegania przepis\u00f3w po uzgodnieniu z drug\u0105 jednostk\u0105",
+    "answerB": "B. Nigdy nie mo\u017ce narusza\u0107 przepis\u00f3w",
+    "answerC": "C. Mo\u017ce odst\u0105pi\u0107 od przestrzegania obowi\u0105zuj\u0105cych przepis\u00f3w \u017ceglugowych.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "168. Jacht \u017caglowy wyprzedzaj\u0105cy inny jacht \u017caglowy",
+    "answerA": "A. ma prawo drogi wzgl\u0119dem jachtu, kt\u00f3ry wyprzedza",
+    "answerB": "B. mo\u017ce go omin\u0105\u0107 tylko po uzyskaniu jego zgody",
+    "answerC": "C. ust\u0119puje jachtowi wyprzedzanemu omijaj\u0105c go w bezpiecznej odleg\u0142o\u015bci",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "169. Statek \u017caglowy p\u0142yn\u0105cy prawym halsem po otwartych wodach morskich ust\u0119puje:",
+    "answerA": "A. Statkowi handlowemu o nap\u0119dzie mechanicznym,",
+    "answerB": "B. Statkowi rybackiemu zaj\u0119temu po\u0142owem,",
+    "answerC": "C. Statkowi \u017caglowemu p\u0142yn\u0105cemu lewym halsem.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "170. Na kursie jachtu jest jednostka, kt\u00f3ra podnios\u0142a sygna\u0142 jak na rysunku. Jak j\u0105 wymin\u0105\u0107?",
+    "answerA": "A. Nie zbli\u017ca\u0107 si\u0119 bli\u017cej ni\u017c 2 Mm",
+    "answerB": "B. Min\u0105\u0107 go daleko przed dziobem",
+    "answerC": "C. Min\u0105\u0107 go z dowolnej strony w bezpiecznej odleg\u0142o\u015bci.",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/Yv8ic97RYczOXTMpkZppYQ.png"
+  },
+  {
+    "question": "171. \u017beglarz jachtowy uprawniony jest do:",
+    "answerA": "A. Prowadzenia po wodach morskich jachtu o d\u0142ugo\u015bci do 12 m w odleg\u0142o\u015bci do 2 Mm od linii brzegowej w porze dziennej",
+    "answerB": "B. Prowadzenia jacht\u00f3w o d\u0142ugo\u015bci do 10 m w odleg\u0142o\u015bci do 10 Mm od linii brzegowej,",
+    "answerC": "C. Prowadzenia jacht\u00f3w o d\u0142ugo\u015bci do 24 m po wodach morskich w porze dziennej.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "172. Jeden d\u0142ugi d\u017awi\u0119k nadany przez statek na drodze \u015br\u00f3dl\u0105dowej oznacza:",
+    "answerA": "A. Uwaga",
+    "answerB": "B. Skr\u0119cam w prawo",
+    "answerC": "C. Skr\u0119cam w lewo",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "173. Statek ma wywieszony sygna\u0142 jak na rysunku. Co oznacza i jak post\u0119powa\u0107?",
+    "answerA": "A. Wzywam pomocy, podej\u015b\u0107 i nawi\u0105za\u0107 \u0142\u0105czno\u015b\u0107",
+    "answerB": "B. Mam nurka pod wod\u0105, mija\u0107 ostro\u017cnie",
+    "answerC": "C. Stoj\u0119 na mieli\u017anie, mija\u0107 daleko",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/JGBKFJ6wBMnu19dESUsOGA.png"
+  },
+  {
+    "question": "174. Statek zbli\u017caj\u0105cy si\u0119 do jachtu nada\u0142 sygna\u0142 jeden kr\u00f3tki, jeden d\u0142ugi i dwa kr\u00f3tkie d\u017awi\u0119ki oraz wywiesi\u0142 sygna\u0142 jak na rysunku. Co to oznacza i jak post\u0119powa\u0107?",
+    "answerA": "A. Zatrzymajcie natychmiast sw\u00f3j statek, zatrzyma\u0107 si\u0119",
+    "answerB": "B. Mam zamiar wyprzedzi\u0107 was po waszej lewej burcie, utrzyma\u0107 kurs",
+    "answerC": "C. Mam zamiar zawr\u00f3ci\u0107 w lewo, obserwowa\u0107 ruchy statku",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/W2WLspwG628Uff1v.crFIA.png"
+  },
+  {
+    "question": "175. Sygna\u0142 \u015bwietlny lub d\u017awi\u0119kowy sk\u0142adaj\u0105cy si\u0119 z grupy trzech kr\u00f3tkich, trzech d\u0142ugich i trzech kr\u00f3tkich \u015bwiate\u0142 i/lub d\u017awi\u0119k\u00f3w oznacza:",
+    "answerA": "A. Jeden z sygna\u0142\u00f3w manewrowych,",
+    "answerB": "B. Sygna\u0142 na postoju we mgle,",
+    "answerC": "C. Jeden z sygna\u0142\u00f3w wzywania pomocy.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "176. Kt\u00f3ry z poni\u017cszych sygna\u0142\u00f3w NIE JEST sygna\u0142em wzywania pomocy na wodach \u015br\u00f3dl\u0105dowych:",
+    "answerA": "A. Zataczanie kr\u0119g\u00f3w flag\u0105 lub innym podobnym przedmiotem,",
+    "answerB": "B. \u017b\u00f3\u0142ty romb widoczny ze wszystkich stron,",
+    "answerC": "C. Flaga i umieszczona nad ni\u0105 lub pod ni\u0105 C kula.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "177. Na podej\u015bciu do portu podczas ciszy nast\u0105pi\u0142a awaria silnika. Jest do\u015b\u0107 du\u017cy ruch. Jaki sygna\u0142 powinien podnie\u015b\u0107 jacht.",
+    "answerA": "A. Jedn\u0105 czarn\u0105 kul\u0119",
+    "answerB": "B. Dwie czarne kule",
+    "answerC": "C. Czarny sto\u017cek",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "178. Na jachcie p\u0142yn\u0105cym na silniku z opuszczonymi \u017caglami bander\u0119 nosimy:",
+    "answerA": "A. Na topie tylnego masztu,",
+    "answerB": "B. Pod prawym salingiem,",
+    "answerC": "C. Na flagsztoku na rufie.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "179. Gdzie nosi si\u0119 bander\u0119 na jachtach dwumasztowych o o\u017caglowaniu gaflowym?",
+    "answerA": "A. Na topie tylnego masztu,",
+    "answerB": "B. Na flagsztoku na rufie,",
+    "answerC": "C. Pod pikiem gafla tylnego \u017cagla.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "180. O jakiej porze podnosi si\u0119 bander\u0119 na jachcie stoj\u0105cym w porcie?",
+    "answerA": "A. O wschodzie s\u0142o\u0144ca,",
+    "answerB": "B. O godzinie 0800,",
+    "answerC": "C. Jak kapitan wejdzie na pok\u0142ad.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "181. Co m\u00f3wi\u0105 zasady bezpiecze\u0144stwa i etykiety na temat trzymania r\u0105k i n\u00f3g poza burt\u0105 jachtu?",
+    "answerA": "A. Nie okre\u015blaj\u0105 \u017cadnych zasad,",
+    "answerB": "B. Zdecydowanie zabraniaj\u0105,",
+    "answerC": "C. Zezwalaj\u0105, ale tylko podczas \u017ceglugi.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "182. Co m\u00f3wi etykieta jachtowa o noszeniu odbijaczy poza burt\u0105 podczas \u017ceglugi?",
+    "answerA": "A. Wyra\u017anie neguje tego typu praktyk\u0119, odbijacze wyk\u0142ada si\u0119 bezpo\u015brednio przed cumowaniem",
+    "answerB": "B. Nie wspomina nic o tym,",
+    "answerC": "C. Jest to dopuszczalne na wodach \u015br\u00f3dl\u0105dowych.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "183. Przed wej\u015bciem na obcy jacht nale\u017cy:",
+    "answerA": "A. Zapyta\u0107 o pozwolenie wej\u015bcia i nie przeszkadza\u0107 w czasie posi\u0142ku,",
+    "answerB": "B. Zagwizda\u0107 trzy razy,",
+    "answerC": "C. Nic nie trzeba robi\u0107, mo\u017cna wej\u015b\u0107, bo stanowimy bra\u0107 \u017ceglarsk\u0105.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "184. Dwa jachty zacumowane s\u0105 burta w burt\u0119. Schodz\u0105c z jachtu zewn\u0119trznego nale\u017cy:",
+    "answerA": "A. Przechodzi\u0107 cicho po jego cz\u0119\u015bci dziobowej",
+    "answerB": "B. Przechodzi\u0107 przez jego cz\u0119\u015b\u0107 rufow\u0105",
+    "answerC": "C. Nie ma to znaczenia, bo mamy zgod\u0119 na takie cumowanie",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "185. Czy wchodz\u0105c do portu pa\u0144stwa innej bandery ni\u017c nasza nale\u017cy?",
+    "answerA": "A. Podnie\u015b\u0107 bander\u0119 tego pa\u0144stwa na topie grotmasztu",
+    "answerB": "B. Podnie\u015b\u0107 bander\u0119 tego pa\u0144stwa pod prawym salingiem",
+    "answerC": "C. Podnie\u015b\u0107 tylko bander\u0119 naszego pa\u0144stwa dla identyfikacji",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "186. Na jachcie w porcie podniesiona by\u0142a du\u017ca gala flagowa z okazji uroczysto\u015bci. Jak post\u0119pujemy po odej\u015bciu i \u017cegludze pod \u017caglami?",
+    "answerA": "A. Pozostawiamy gal\u0119 flagow\u0105",
+    "answerB": "B. Zamieniamy j\u0105 na ma\u0142\u0105 gal\u0119 flagow\u0105",
+    "answerC": "C. Zdejmujemy gal\u0119, pod \u017caglami nie nosi si\u0119 gali",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "187. Jak wygl\u0105da du\u017ca gala flagowa?",
+    "answerA": "A. To flagi kodu mi\u0119dzynarodowego podniesione wzd\u0142u\u017c want w dowolnej kolejno\u015bci",
+    "answerB": "B. To flagi kodu mi\u0119dzynarodowego podniesione pod salingami maszt\u00f3w",
+    "answerC": "C. To flagi kodu mi\u0119dzynarodowego podniesione od dziobu przez topy maszt\u00f3w do rufy (w Polsce przyj\u0119ty uk\u0142ad flaga kodu i odpowiedzi, AB1, CD2 itd.)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "188. Jacht idzie pod \u017caglami w morzu, nadesz\u0142a mg\u0142a. Jaki sygna\u0142 nale\u017cy nadawa\u0107?",
+    "answerA": "A. Jeden d\u017awi\u0119k d\u0142ugi co 2 minuty",
+    "answerB": "B. Dwa d\u017awi\u0119ki d\u0142ugie co 2 minuty",
+    "answerC": "C. Jeden d\u017awi\u0119k d\u0142ugi i dwa kr\u00f3tkie co 2 minuty",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "189. Id\u0105c we mgle us\u0142yszano na jachcie dwa d\u017awi\u0119ki d\u0142ugie przed dziobem. Jak nale\u017cy post\u0105pi\u0107?",
+    "answerA": "A. Zmniejszy\u0107 szybko\u015b\u0107, zmieni\u0107 kurs w prawo, by\u0107 w gotowo\u015bci do manewr\u00f3w",
+    "answerB": "B. Nie zmienia\u0107 kursu, nas\u0142uchiwa\u0107 w kt\u00f3r\u0105 stron\u0119 przemieszcza si\u0119 statek nadaj\u0105cy sygna\u0142",
+    "answerC": "C. Najlepiej zatrzyma\u0107 si\u0119 i poczeka\u0107, a\u017c statek nadaj\u0105cy sygna\u0142 oddali si\u0119",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "190. Czy do wody na jeziorach i morskich wodach przybrze\u017cnych mo\u017cna wyrzuca\u0107 \u015bmieci",
+    "answerA": "A. Tak, z wyj\u0105tkiem odpad\u00f3w z tworzyw sztucznych",
+    "answerB": "B. Tak ale tylko daleko od brzegu",
+    "answerC": "C. Nie wolno wyrzuca\u0107 \u017cadnych",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "191. Na jachcie jest WC. Czy mo\u017cna go u\u017cywa\u0107 w portach i podczas \u017ceglugi?",
+    "answerA": "A. Tak, je\u017celi WC jachtu po\u0142\u0105czony jest ze zbiornikiem lub WC \"chemiczny\" (zamkni\u0119ty odp\u0142yw za burt\u0119)",
+    "answerB": "B. Tak, ale tylko co najmniej 1000 m od brzegu",
+    "answerC": "C. Tak, byle poza portami",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "192. Podczas \u017ceglugi zobaczyli\u015bmy na wodzie du\u017c\u0105 plam\u0119 oleju. Co nale\u017cy zrobi\u0107?",
+    "answerA": "A. Szybko oddali\u0107 si\u0119 od tego miejsca.",
+    "answerB": "B. Pr\u00f3bowa\u0107 j\u0105 zlikwidowa\u0107 u\u017cywaj\u0105c detergent\u00f3w",
+    "answerC": "C. Powiadomi\u0107 w\u0142a\u015bciwe s\u0142u\u017cby (na \u015br\u00f3dl\u0105dziu c stra\u017c po\u017carna, na morzu s\u0142u\u017cb\u0119 ruchu/kapitanat",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "193. Czy przy zmywaniu naczy\u0144 na jachcie wskazane jest u\u017cycie detergent\u00f3w?",
+    "answerA": "A. Tak, jak najwi\u0119cej bo dobrze emulguj\u0105 t\u0142uszcze",
+    "answerB": "B. Jak najmniej, bo s\u0105 szkodliwe dla \u015brodowiska",
+    "answerC": "C. Nie ma to znaczenia, bo s\u0105 oboj\u0119tne dla \u015brodowiska",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "194. Do jakiego znaku \u017ceglugowego p\u0142ywaj\u0105cego lub brzegowego mo\u017ce zacumowa\u0107 statek \u017caglowy:",
+    "answerA": "A. Znaku zezwolenia na post\u00f3j,",
+    "answerB": "B. Znaku zezwolenia na ruch statk\u00f3w \u017caglowych,",
+    "answerC": "C. zabrania si\u0119 cumowania do znak\u00f3w \u017ceglugowych.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "195. Wody \u015br\u00f3dl\u0105dowe. \u015awiat\u0142o zielone nad bia\u0142ym pokazane na statku oznacza:",
+    "answerA": "A. Statek stoj\u0105cy na kotwicy,",
+    "answerB": "B. Prom na uwi\u0119zi w ruchu,",
+    "answerC": "C. Statek, kt\u00f3ry utraci\u0142 zdolno\u015b\u0107 do manewrowania.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "196. Podniesienie miecza na kursie bajdewind spowoduje:",
+    "answerA": "A. Konieczno\u015b\u0107 balastowania na nawietrznej",
+    "answerB": "B. Zwi\u0119kszenie dryfu",
+    "answerC": "C. Zwi\u0119kszenie szybko\u015bci jachtu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "197. Jacht p\u0142ynie bajdewindem z pewn\u0105 szybko\u015bci\u0105, przy wietrze rzeczywistym o szybko\u015bci wi\u0119kszej od zera. Najwi\u0119ksz\u0105 szybko\u015b\u0107 z wymienionych poni\u017cej ma zawsze:",
+    "answerA": "A. Wiatr pozorny",
+    "answerB": "B. Wiatr rzeczywisty",
+    "answerC": "C. Wiatr ruchu w\u0142asnego",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "198. Jacht p\u0142ynie pod wiatr z wyluzowanymi \u017caglami. Od czego zale\u017cy d\u0142ugo\u015b\u0107 drogi hamowania?",
+    "answerA": "A. Od rozmieszczenia za\u0142ogi na jachcie",
+    "answerB": "B. Od wzajemnego po\u0142o\u017cenia \u015brodka wyporu i \u015brodka o\u017caglowania",
+    "answerC": "C. Od masy jachtu i jego pr\u0119dko\u015bci w momencie ustawienia w linii wiatru",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "199. Na p\u0142etw\u0119 sterow\u0105 jachtu dzia\u0142a si\u0142a hydrodynamiczna, wielko\u015b\u0107 tej si\u0142y zale\u017cy od?",
+    "answerA": "A. K\u0105ta wychylenia p\u0142etwy sterowej i jej powierzchni",
+    "answerB": "B. K\u0105ta wychylenia p\u0142etwy sterowej, jej powierzchni i szybko\u015bci jachtu",
+    "answerC": "C. Tylko od powierzchni p\u0142etwy sterowej i szybko\u015bci jachtu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "200. Pod jakim warunkiem jacht \"wywracalny (k\u0105t krytyczny przechy\u0142u np. ok. 500) mo\u017ce by\u0107 dopuszczony do \u017ceglugi?",
+    "answerA": "A. Je\u017celi za\u0142oga ma za\u0142o\u017cone pasy lub kamizelki ratunkowe",
+    "answerB": "B. Je\u017celi jest niezatapialny tj. posiada zbiorniki wyporno\u015bciowe o obj\u0119to\u015bci w dm3 wi\u0119kszej od masy jachtu w kg.",
+    "answerC": "C. Je\u017celi jest wyposa\u017cony w dwie pompy z\u0119zowe",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "201. Jacht ma postawiony grot i fok. Przed zwrotem przez sztag zluzowano szot foka. Co to spowoduje?",
+    "answerA": "A. Zwi\u0119kszenie zawietrzno\u015bci jachtu, co utrudni zwrot",
+    "answerB": "B. Zwi\u0119kszenie przechy\u0142u jachtu",
+    "answerC": "C. Zwi\u0119kszenie nawietrzno\u015bci jachtu",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "202. Jacht idzie pod \u017caglami kursem p\u00f3\u0142wiatr, \u017cagle ustawione s\u0105 poprawnie. Czy po w\u0142\u0105czeniu silnika naprz\u00f3d, co spowoduje zwi\u0119kszenie szybko\u015bci jachtu \u017cagle b\u0119d\u0105 nadal pracowa\u0107 poprawnie?",
+    "answerA": "A. Nadal poprawnie",
+    "answerB": "B. B\u0119dzie trzeba je bardziej wybra\u0107",
+    "answerC": "C. B\u0119dzie trzeba je bardziej wyluzowa\u0107",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "203. P\u00f3\u0142wiatr to kurs jachtu przy wietrze rzeczywistym wiej\u0105cym w stosunku do kursu jachtu pod k\u0105tem:",
+    "answerA": "A. Ok. 90\u00b0",
+    "answerB": "B. Ok 60\u00b0",
+    "answerC": "C. Ok 150\u00b0",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "204. Jakim kursem wzgl\u0119dem wiatru rzeczywistego p\u0142ynie pokazany na rysunku jacht (wiatr rzeczywisty strza\u0142ka niebieska)",
+    "answerA": "A. Bajdewindem",
+    "answerB": "B. Baksztagiem",
+    "answerC": "C. P\u00f3\u0142wiatrem",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/9cAig5KWFwVyGIEkrTswzg.png"
+  },
+  {
+    "question": "205. Jacht stoi zacumowany do boi, jaki wiatr odczuwamy na jachcie",
+    "answerA": "A. Pozorny",
+    "answerB": "B. Rzeczywisty",
+    "answerC": "C. W\u0142asny (ruchu w\u0142asnego)",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "206. Nadmierne wybieranie \u017cagli ustawionych prawid\u0142owo - pod optymalnym k\u0105tem natarcia (np. wybranie \u017cagli przy \u017cegludze kursem p\u00f3\u0142wiatr lub baksztag) spowoduje:",
+    "answerA": "A. Zwi\u0119kszenie si\u0142y ci\u0105gu",
+    "answerB": "B. Zmniejszenie si\u0142y ci\u0105gu i na pewnych kursach zwi\u0119kszenie dryfu",
+    "answerC": "C. Takie ustawienie nie zmienia si\u0142y ci\u0105gu, ale mo\u017ce mie\u0107 wp\u0142yw na dryf",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "207. Przy konieczno\u015bci \u017ceglugi z wiatrem przy bardzo silnym wietrze na jachcie typu slup NAJBEZPIECZNIEJ/NAJKORZYSTNIEJ jest:",
+    "answerA": "A. Zrzuci\u0107 grot i postawi\u0107 mniejszy fok",
+    "answerB": "B. Zarefowa\u0107 grot i pozostawi\u0107 normalny fok",
+    "answerC": "C. \u017beglowa\u0107 pod pe\u0142nymi \u017caglami, gdy\u017c wiatr pozorny przy du\u017cej szybko\u015bci b\u0119dzie s\u0142abszy od rzeczywistego",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "208. Jacht mieczowy wyposa\u017cony jest w miecz o znacznym ci\u0119\u017carze (np. pewne jachty 'TANGO\") Czy podniesienie takiego miecza wp\u0142ynie na stateczno\u015b\u0107 poprzeczn\u0105 jachtu?",
+    "answerA": "A. Stateczno\u015b\u0107 polepszy si\u0119",
+    "answerB": "B. Stateczno\u015b\u0107 pogorszy si\u0119",
+    "answerC": "C. Nie wp\u0142ynie na stateczno\u015b\u0107 poprzeczna jachtu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "209. Wielko\u015b\u0107 si\u0142y aerodynamicznej na \u017caglu przy tej samej sile wiatru zale\u017cy od:",
+    "answerA": "A. Tylko od k\u0105ta natarcia (k\u0105t pomi\u0119dzy ci\u0119ciw\u0105 \u017cagla, a kierunkiem przep\u0142ywu wiatru)",
+    "answerB": "B. K\u0105ta natarcia, powierzchni \u017cagla i kszta\u0142tu (profilu) \u017cagla",
+    "answerC": "C. Tylko od powierzchni \u017cagla i materia\u0142u z jakiego jest wykonany",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "210. Jacht przy pewnej sile wiatru p\u0142ynie kursem ostry bajdewind ze sta\u0142\u0105 szybko\u015bci\u0105, szkwa\u0142 spowodowa\u0142 wzrost wiatru rzeczywistego, czy jacht mo\u017ce w tej sytuacji:",
+    "answerA": "A. Pop\u0142yn\u0105\u0107 ostrzej do wiatru",
+    "answerB": "B. Musi odpada\u0107",
+    "answerC": "C. Musi luzowa\u0107 \u017cagle, aby utrzyma\u0107 kurs",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "211. Aby u\u0142atwi\u0107 szybkie odpadanie jachtu o osprz\u0119cie \u017caglowym typu slup id\u0105cego p\u00f3\u0142wiatrem przy postawionym foku i grocie nale\u017cy (poza sterowaniem)",
+    "answerA": "A. Luzowa\u0107 szoty grota",
+    "answerB": "B. Luzowa\u0107 szoty foka",
+    "answerC": "C. Wybiera\u0107 szoty grota",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "212. Refowanie grota do bomu na jachcie typu slup spowoduje zmian\u0119 po\u0142o\u017cenia \u015brodka o\u017caglowania:",
+    "answerA": "A. Tylko obni\u017cenie po\u0142o\u017cenia \u015brodka o\u017caglowania",
+    "answerB": "B. Obni\u017cenie i przesuni\u0119cie do przodu \u015brodka o\u017caglowania",
+    "answerC": "C. Po\u0142o\u017cenie \u015brodka o\u017caglowania nie zmieni  si\u0119",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "213. Na kursie baksztag si\u0142a powoduj\u0105ca dryf:",
+    "answerA": "A. Jest taka sama jak dla pozosta\u0142ych kurs\u00f3w wzgl\u0119dem wiatru",
+    "answerB": "B. Jest najwi\u0119ksza.",
+    "answerC": "C. Jest najmniejsza.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "214. Przesuni\u0119cie \u015brodka bocznego oporu jachtu mieczowego mo\u017cna uzyska\u0107 przez:",
+    "answerA": "A. Odpowiednie balastowanie wzd\u0142u\u017cne (wi\u0119ksze obci\u0105\u017canie dziobu lub rufy) i/lub ustawienie miecza",
+    "answerB": "B. Odpowiednie ustawianie \u017cagli i/lub ich refowanie",
+    "answerC": "C. Zmian\u0119 kursu jachtu wzgl\u0119dem wiatru",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "215. Ci\u015bnienie powietrza przep\u0142ywajacego po obu stronach \u017cagla:",
+    "answerA": "A. Spada po stronie zawietrznej",
+    "answerB": "B. Ro\u015bnie po stronie zawietrznej",
+    "answerC": "C. Spada po stronie nawietrznej",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "216. Jacht zmienia kurs wzgl\u0119dem wiatru z kursu bajdewind do kursu baksztag odpowiednio ustawiaj\u0105c \u017cagle:",
+    "answerA": "A. Si\u0142a przechylaj\u0105ca nie ulega zmianie",
+    "answerB": "B. Si\u0142a przechylaj\u0105ca ro\u015bnie",
+    "answerC": "C. Si\u0142a przechylaj\u0105ca maleje.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "217. Jacht typu slup jest zr\u00f3wnowa\u017cony \u017caglowo i p\u0142ynie sta\u0142ym kursem. Zerwa\u0142 si\u0119 szot grota i grot pracuje. Jak\u0105 tendencj\u0119 wyka\u017ce jacht?",
+    "answerA": "A. Wyostrzy",
+    "answerB": "B. Odpadnie",
+    "answerC": "C. Utrzyma kurs.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "218. Jacht p\u0142ynie kursem pe\u0142nym (np. baksztagiem). Czy po wyostrzeniu (np. do bajdewindu) odczuwalny wiatr pozorny ulegnie zmianie?",
+    "answerA": "A. Nie ulegnie zmianie.",
+    "answerB": "B. Jego szybko\u015b\u0107 zmaleje.",
+    "answerC": "C. Jego szybko\u015b\u0107 wzro\u015bnie.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "219. Prawid\u0142owo wykonany zwrot przez sztag to:",
+    "answerA": "A. Przej\u015bcie dziobem linii wiatru od kursu baksztag jednego halsu do kursu baksztag przeciwnego halsu.",
+    "answerB": "B. Przej\u015bcie dziobem linii wiatru od p\u00f3\u0142wiatru jednego halsu do p\u00f3\u0142wiatru przeciwnego halsu.",
+    "answerC": "C. Przej\u015bcie dziobem linii wiatru od kursu bajdewind jednego halsu do kursu bajdewind przeciwnego halsu.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "220. Dla jakiego kursu wzgl\u0119dem wiatru kierunek wiatru rzeczywistego i pozornego jest taki sam?",
+    "answerA": "A. Fordewindu",
+    "answerB": "B. Baksztagu",
+    "answerC": "C. P\u00f3\u0142wiatru",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "221. Jacht p\u0142ynie wstecz na silniku. Wychylono p\u0142etw\u0119 sterowa w lewo. Jak zachowa si\u0119 jacht?",
+    "answerA": "A. Rufa b\u0119dzie skr\u0119ca\u0107 w kierunku wychylenia steru",
+    "answerB": "B. Rufa b\u0119dzie skr\u0119ca\u0107 przeciwnie do kierunku wychylenia steru",
+    "answerC": "C. B\u0119dzie p\u0142yn\u0105\u0142 prosto wstecz",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "222. Si\u0142a ci\u0105gu dzia\u0142aj\u0105ca na \u017cagiel to:",
+    "answerA": "A. Sk\u0142adowa si\u0142y aerodynamicznej dzia\u0142aj\u0105cej na \u017cagiel skierowana do ty\u0142u r\u00f3wnolegle do osi wzd\u0142u\u017cnej jachtu.",
+    "answerB": "B. Sk\u0142adowa si\u0142y aerodynamicznej dzia\u0142aj\u0105cej na \u017cagiel skierowana prostopadle do osi wzd\u0142u\u017cnej jachtu.",
+    "answerC": "C. Sk\u0142adowa si\u0142y aerodynamicznej dzia\u0142aj\u0105cej na \u017cagiel skierowanado przodu r\u00f3wnolegledo osi wzd\u0142u\u017cnej jachtu.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "223. Si\u0142a dzia\u0142aj\u0105ca na \u017cagiel, powoduj\u0105ca dryf jachtu to:",
+    "answerA": "A. Sk\u0142adowa si\u0142y aerodynamicznej dzia\u0142aj\u0105cej na \u017cagiel skierowana do przodu r\u00f3wnolegle do osi wzd\u0142u\u017cnej jachtu.",
+    "answerB": "B. Sk\u0142adowa si\u0142y aerodynamicznej dzia\u0142aj\u0105cej na \u017cagiel skierowana do ty\u0142u r\u00f3wnolegle do osi wzd\u0142u\u017cnej jachtu.",
+    "answerC": "C. Sk\u0142adowa si\u0142y aerodynamicznej dzia\u0142aj\u0105cej na \u017cagiel skierowanaprostopadledo osi wzd\u0142u\u017cnej jachtu.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "224. Na rysunku pokazano schematycznie kad\u0142ub jachtu w przechyle oraz po\u0142o\u017cenie \u015brodka ci\u0119\u017cko\u015bci (SC) i \u015brodka wyporu (SW), oraz si\u0142y dzia\u0142aj\u0105ce w tych punktach. Po zwi\u0119kszeniu przechy\u0142u taki jacht:",
+    "answerA": "A. Przewr\u00f3ci si\u0119",
+    "answerB": "B. Nie przewr\u00f3ci si\u0119",
+    "answerC": "C. Nadal pozostanie w r\u00f3wnowadze przy nowym k\u0105cie przechy\u0142u",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/Sf3cS6gbLdzNL4c7S8L0BA.png"
+  },
+  {
+    "question": "225. W jakim celu stosuje si\u0119 na jachtach zbiorniki lub inne elementy wyporno\u015bciowe?",
+    "answerA": "A. Tylko dla wzmocnienia konstrukcji jachtu",
+    "answerB": "B. Dla zapewnienia p\u0142ywalno\u015bci po nape\u0142nieniu kad\u0142uba wod\u0105 na skutek przewr\u00f3cenia lub awarii kad\u0142uba",
+    "answerC": "C. Dla polepszenia stateczno\u015bci jachtu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "226. Jacht p\u0142yn\u0105cy kursem bajdewind mo\u017ce najostrzej p\u0142yn\u0105\u0107 w stosunku do wiatru rzeczywistego pod k\u0105tem 40\u00b0. Jaki b\u0119dzie k\u0105t martwy dla takiego jachtu?",
+    "answerA": "A. 40\u00b0",
+    "answerB": "B. 120\u00b0",
+    "answerC": "C. 80\u00b0",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "227. Wyporno\u015b\u0107 zbiornik\u00f3w i/lub element\u00f3w wyporno\u015bciowych jachtu \"wywracalnego\" w litrach powinna by\u0107 w stosunku do masy jachtu w kg:",
+    "answerA": "A. Wi\u0119ksza",
+    "answerB": "B. Mniejsza",
+    "answerC": "C. R\u00f3wna",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "228. O stateczno\u015bci poprzecznej jachtu decyduje wzajemne po\u0142o\u017cenie:",
+    "answerA": "A. \u015arodka ci\u0119\u017cko\u015bci jachtu i \u015brodka oporu bocznego",
+    "answerB": "B. \u015arodka o\u017caglowania i \u015brodka wyporu cz\u0119\u015bci zanurzonej kad\u0142uba",
+    "answerC": "C. \u015arodka ci\u0119\u017cko\u015bci jachtu i \u015brodka wyporu cz\u0119\u015bci zanurzonej kad\u0142uba",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "229. Jaki wp\u0142yw na wielko\u015b\u0107 momentu przechylaj\u0105cego ma obni\u017cenie \u015brodka o\u017caglowania jachtu ( np. przez refowanie \u017cagli)?",
+    "answerA": "A. Zwi\u0119ksza moment przechylaj\u0105cy",
+    "answerB": "B. Zmniejsza moment poprzechylaj\u0105cy",
+    "answerC": "C. Nie ma wp\u0142ywu na moment przechylaj\u0105cy",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "230. Na jakich kursach wzgl\u0119dem wiatru najbardziej jest przydatny obci\u0105gacz bomu?",
+    "answerA": "A. Na bajdewindzie",
+    "answerB": "B. Tylko na p\u00f3\u0142wietrze",
+    "answerC": "C. Na fordewindzie i baksztagu",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "231. Wzrostu si\u0142y wiatru podczas \u017ceglugi wzd\u0142u\u017c nawietrznego brzegu mo\u017cna si\u0119 spodziewa\u0107 w miejscach:",
+    "answerA": "A. Gdzie brzeg jest wysoki lub zalesiony",
+    "answerB": "B. W miejscach obni\u017cenia (przerwach) wysokiej linii brzegowej",
+    "answerC": "C. Ukszta\u0142towanie terenu nie ma wp\u0142ywu na szybko\u015b\u0107 wiatru",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "232. Kr\u00f3tkotrwa\u0142e i gwa\u0142towne opady wyst\u0119puj\u0105 zazwyczaj:",
+    "answerA": "A. Przy przechodzeniu frontu ch\u0142odnego",
+    "answerB": "B. Przy przechodzeniu frontu ciep\u0142ego",
+    "answerC": "C. Na obszarach o podwy\u017cszonym ci\u015bnieniu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "233. Front zokludowany powstaje na skutek :",
+    "answerA": "A. Nasuni\u0119cie si\u0119 frontu ciep\u0142ego na front ch\u0142odny ze wzgl\u0119du na jego szybsze przemieszczanie si\u0119",
+    "answerB": "B. Nasuni\u0119cie si\u0119 frontu ch\u0142odnego na front ciep\u0142y ze wzgl\u0119du na jego szybsze przemieszczanie si\u0119",
+    "answerC": "C. Wzrostu ci\u015bnienia na obszarze ni\u017cowym",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "234. Stosunkowo d\u0142ugie i umiarkowane opady wyst\u0119puj\u0105 zazwyczaj:",
+    "answerA": "A. Przy przechodzeniu frontu ch\u0142odnego",
+    "answerB": "B. Przy przechodzeniu frontu ciep\u0142ego",
+    "answerC": "C. Na obszarach wy\u017cowych",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "235. Halo wok\u00f3\u0142 s\u0142o\u0144ca zwiastuje:",
+    "answerA": "A. Jest spowodowane chmurami cirrostratus, a zatem zwiastuje zbli\u017canie si\u0119 frontu ciep\u0142ego i pogorszenie si\u0119 pogody,",
+    "answerB": "B. Jest spowodowane zmniejszon\u0105 wilgotno\u015bci\u0105 powietrza, a zatem wskazuje polepszenie pogody",
+    "answerC": "C. Jest spowodowane zwi\u0119kszon\u0105 wilgotno\u015bci\u0105 powietrza, a zatem wskazuje na mo\u017cliwo\u015b\u0107 wyst\u0105pienia mgie\u0142",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "236. W jakim uk\u0142adzie barycznym mog\u0105 wyst\u0119powa\u0107 obszary o silniejszym wietrze?",
+    "answerA": "A. Tylko w wy\u017cu barycznym",
+    "answerB": "B. Tylko w ni\u017cu barycznym",
+    "answerC": "C. Zar\u00f3wno w wy\u017cu jak i ni\u017cu bo zale\u017cy to od gradientu ci\u015bnienia",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "237. Pogoda wyst\u0119puj\u0105ca w wy\u017cu barycznym to :",
+    "answerA": "A. Pogoda zmienna",
+    "answerB": "B. Pogoda pochmurna -  deszczowa",
+    "answerC": "C. Pogoda z ma\u0142ym zachmurzeniem - bez opad\u00f3w",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "238. Izobary kre\u015blone na mapach pogody s\u0105 to :",
+    "answerA": "A. Linie \u0142\u0105cz\u0105ce punkty o jednakowej temperaturze",
+    "answerB": "B. Linie \u0142\u0105cz\u0105ce punkty o jednakowej wilgotno\u015bci powietrza",
+    "answerC": "C. Linie \u0142\u0105cz\u0105ce punkty o jednakowej warto\u015bci ci\u015bnienia",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "239. Podczas bryzy nocnej wiatr wieje :",
+    "answerA": "A. Od l\u0105du do wody",
+    "answerB": "B. Od wody do l\u0105du",
+    "answerC": "C. Zmienia kierunek na r\u00f3wnoleg\u0142y do linii brzegowej",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "240. Lampa ostrzegawcza funkcjonuj\u0105ca w ramach Systemu Sygnalizacji Ostrzegawczej na szlaku Wielkich Jezior Mazurskich nadaje sygna\u0142y \u015bwietlne z cz\u0119stotliwo\u015bci\u0105 40 b\u0142ysk\u00f3w na minut\u0119. Oznacza to:",
+    "answerA": "A. Uwaga. Spodziewane burze i wiatr, bez A wskazania dok\u0142adnego czasu i miejsca nadej\u015bcia zjawiska meteorologicznego.",
+    "answerB": "B. Niebezpiecze\u0144stwo. Wyst\u0119powanie burzy oraz silnego wiatru w bliskim obszarze",
+    "answerC": "C. Brak spodziewanych niebezpiecznych  zjawisk meteorologicznych",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "241. Na rysunku pokazano diagram kierunku i pr\u0119dko\u015bci wiatru dla jednej doby ( godziny od 08.00 do 08.00). Prognoza ICM. Jak zmieni si\u0119 kierunek wiatru w ci\u0105gu tej doby?",
+    "answerA": "A. na pocz\u0105tku okresu SE 3\u00b0B na ko\u0144cu S-SW 2\u00b0B",
+    "answerB": "B. na pocz\u0105tku okresu SW 2\u00b0B na ko\u0144cu S-SW 3\u00b0B",
+    "answerC": "C. na pocz\u0105tku okresu NW 3\u00b0B na ko\u0144cu SE 2\u00b0B",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/.eGTEccZETwcS4Btzt.lYQ.png"
+  },
+  {
+    "question": "242. Na polskiej mapie synoptycznej poszczeg\u00f3lne skr\u00f3ty \" N, W, \" oznaczaj\u0105 kolejno :",
+    "answerA": "A. Wiatr p\u00f3\u0142nocny (North), wiatr zachodni (West)",
+    "answerB": "B. Centrum ni\u017cu, centrum wy\u017cu",
+    "answerC": "C. Chmury niskie, chmury wysokie",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/JXOSQKfRW2h4Eoz5fiWQTA.png"
+  },
+  {
+    "question": "243. Pojawiaj\u0105ce si\u0119 rano i nieznacznie rozbudowuj\u0105ce si\u0119 drobne chmury Cumulus pokazane na rysunku zwiastuj\u0105:",
+    "answerA": "A. \u0142adniejsz\u0105, s\u0142oneczn\u0105 pogod\u0119,",
+    "answerB": "B. nadej\u015bcie d\u0142ugotrwa\u0142ych opad\u00f3w deszczu,",
+    "answerC": "C. nadej\u015bcie burz i silnych wiatr\u00f3w",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/vjjOPyxdl5I.4itUIdnurg.png"
+  },
+  {
+    "question": "244. Gdzie w uk\u0142adzie ni\u017cowym wyst\u0119puje najwi\u0119ksze i najmniejsze ci\u015bnienie atmosferyczne?",
+    "answerA": "A. Najmniejsze w \u015brodku, a najwi\u0119ksze na zewn\u0105trz",
+    "answerB": "B. Najwi\u0119ksze w \u015brodku a najmniejsze na zewn\u0105trz",
+    "answerC": "C. Najwi\u0119ksze w cz\u0119\u015bci p\u00f3\u0142nocnej, a najmniejsze w po\u0142udniowej",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "245. Silne szkwa\u0142y mog\u0105 towarzyszy\u0107 chmurom:",
+    "answerA": "A. Nimbostratus",
+    "answerB": "B. Cumulonimbus",
+    "answerC": "C. Stratus",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "246. Bryza dzienna to wiatr wiej\u0105cy:",
+    "answerA": "A. W nocy od strony morza w kierunku l\u0105du",
+    "answerB": "B. W dzie\u0144 od strony morza w kierunku l\u0105du",
+    "answerC": "C. W dzie\u0144 od strony l\u0105du w kierunku morza",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "247. Symbol na mapie synoptycznej jak na rysunku, oznacza:",
+    "answerA": "A. Front ch\u0142odny",
+    "answerB": "B. Front ciep\u0142y",
+    "answerC": "C. Front zokludowany",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/n989OKYYShtV.lWfg0YANw.png"
+  },
+  {
+    "question": "248. Front atmosferyczny jest to :",
+    "answerA": "A. Linia \u0142\u0105cz\u0105ca o\u015brodki wysokiego ci\u015bnienia na danym obszarze",
+    "answerB": "B. Zasi\u0119g wyst\u0119powania opad\u00f3w na danym obszarze",
+    "answerC": "C. Powierzchnia (warstwa) rozgraniczaj\u0105ca dwie masy powietrza o odmiennych w\u0142a\u015bciwo\u015bciach (szczeg\u00f3lnie o r\u00f3\u017cnej temperaturze)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "249. Na rysunku pokazano fragment mapy synoptycznej. Jakiego wiatru mo\u017cemy spodziewa\u0107 si\u0119 w Polsce?",
+    "answerA": "A. P\u00f3\u0142nocno-wschodnie",
+    "answerB": "B. Zachodniego",
+    "answerC": "C. Po\u0142udniowo-wschodniego",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/Xho0yzLunkta1trk.uouOA.png"
+  },
+  {
+    "question": "250. Wiatr okre\u015blony w komunikacie meteorologicznym jako 1 - 2 w skali Beauforta to:",
+    "answerA": "A. Wiatr s\u0142aby",
+    "answerB": "B. Wiatr umiarkowany",
+    "answerC": "C. Wiatr bardzo silny",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "251. Kolejne pojawianie si\u0119 chmur pokazanych na rysunku Cirrus i Cirrostratus przy spadku ci\u015bnienia zwiastuje:",
+    "answerA": "A. Dalsze utrzymywanie si\u0119 dobrej pogody",
+    "answerB": "B. S\u0142abni\u0119cie wiatru i wzrost temperatury",
+    "answerC": "C. Zbli\u017canie si\u0119 frontu ciep\u0142ego",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/0bSNkLWfSc6Qntgd.4VNGA.png"
+  },
+  {
+    "question": "252. Wiatr przyziemny w wy\u017cu wieje (p\u00f3\u0142kula p\u00f3\u0142nocna):",
+    "answerA": "A. Prostopadle do izobar od centrum wy\u017cu",
+    "answerB": "B. Do centrum wy\u017cu z zewn\u0105trz",
+    "answerC": "C. Od \u015brodka wy\u017cu odchylony zgodnie z ruchem wskaz\u00f3wek zegara, k\u0105t 20\u00b0-40\u00b0 do izobary",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "253. Z kt\u00f3rych chmur mo\u017cna spodziewa\u0107 si\u0119 opad\u00f3w deszczu ?",
+    "answerA": "A. Nimbostratus, Cumulonimbus",
+    "answerB": "B. Cirrus i cirrostratus",
+    "answerC": "C. Stratocumulus, Cirrocumulus",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "254. Je\u017celi w prognozie radiowej s\u0142yszymy \"ni\u017c znad Danii pog\u0142\u0119bia si\u0119 i przesuwa szybko na po\u0142udniowy wsch\u00f3d\", to w ci\u0105gu najbli\u017cszej doby na Zalewie Zegrzy\u0144skim spodziewamy si\u0119 :",
+    "answerA": "A. S\u0142abn\u0105cych wiatr\u00f3w z kierunk\u00f3w wschodnich",
+    "answerB": "B. Rosn\u0105cej si\u0142y wiatru z kierunk\u00f3w zachodnich",
+    "answerC": "C. S\u0142abych wiatr\u00f3w p\u00f3\u0142nocnych",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "255. Zag\u0119szczenie izobar na mapie pogody informuje:",
+    "answerA": "A. O s\u0142abni\u0119ciu wiatru",
+    "answerB": "B. Zmianie zachmurzenia",
+    "answerC": "C. Wyst\u0105pieniu silnego wiatru",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "256. Kto og\u0142asza alarm \"Cz\u0142owiek za burt\u0105",
+    "answerA": "A. Kapitan, po wywo\u0142aniu go na pok\u0142ad;",
+    "answerB": "B. Kapitan, po wywo\u0142aniu za\u0142ogi na pok\u0142ad;",
+    "answerC": "C. Osoba, kt\u00f3ra pierwsza zauwa\u017cy\u0142a wypadni\u0119cie cz\u0142owieka",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "257. Jakiego koloru rakiet nale\u017cy u\u017cy\u0107 celem wezwania pomocy ?",
+    "answerA": "A. Zielonych,",
+    "answerB": "B. Czerwonych,",
+    "answerC": "C. Bia\u0142ych",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "258. Hipotermia jest to stan organizmu z obni\u017con\u0105 temperatur\u0105 wewn\u0119trzn\u0105 spowodowany czynnikami zewn\u0119trznymi jak np. woda, wiatr itp. Jak post\u0119powa\u0107 z tak\u0105 osob\u0105?",
+    "answerA": "A. Zabezpieczy\u0107 przed dalsz\u0105 utrat\u0105 ciep\u0142a np. folia NRC, koc, \u015bpiw\u00f3r. Poszkodowanemu mo\u017cna poda\u0107 alkohol. Jak najszybciej zapewni\u0107 opiek\u0119 lekarsk\u0105",
+    "answerB": "B. Zabezpieczy\u0107 przed dalsz\u0105 utrat\u0105 ciep\u0142a np. folia NRC, koc, \u015bpiw\u00f3r. Poszkodowanemu poda\u0107 ciep\u0142e os\u0142odzone p\u0142yny. Jak najszybciej zapewni\u0107 opiek\u0119 lekarsk\u0105",
+    "answerC": "C. Zabezpieczy\u0107 przed dalsz\u0105 utrat\u0105 ciep\u0142a np. folia NRC, koc, \u015bpiw\u00f3r. Nie podawa\u0107 nic do picia. Jak najszybciej zapewni\u0107 opiek\u0119 lekarsk\u0105",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "259. Cz\u0142owiekowi, kt\u00f3ry wypad\u0142 za burt\u0119, ko\u0142o ratunkowe nale\u017cy rzuca\u0107 blisko niego:",
+    "answerA": "A. Od jego nawietrznej,",
+    "answerB": "B. Od jego zawietrznej,",
+    "answerC": "C. Od tej strony, w kt\u00f3r\u0105 ma zwr\u00f3con\u0105 twarz",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "260. W trakcie \u017ceglugi bezpieczniej jest porusza\u0107 si\u0119 po pok\u0142adzie po burcie:",
+    "answerA": "A. Zawietrznej,",
+    "answerB": "B. Nawietrznej,",
+    "answerC": "C. Nie ma to znaczenia",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "261. W pobli\u017cu jachtu na Zatoce Gda\u0144skiej zaobserwowano pomara\u0144czowy dym. Co to oznacza?",
+    "answerA": "A. Wzywanie pomocy",
+    "answerB": "B. Wzywanie pilota",
+    "answerC": "C. Ostrze\u017cenie \"manewruj\u0119 z trudem",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "262. Po wywrotce jachtu nale\u017cy przede wszystkim:",
+    "answerA": "A. Najpierw zebra\u0107 sprz\u0119t, kt\u00f3ry wypad\u0142 z jachtu, a potem opu\u015bci\u0107 \u017cagle",
+    "answerB": "B. Natychmiast wzywa\u0107 pomoc",
+    "answerC": "C. Sprawdzi\u0107 czy ca\u0142a za\u0142oga jest na powierzchni wody, za\u0142o\u017cy\u0107 pasy ratunkowe, zabezpieczy\u0107 jacht przed wywr\u00f3ceniem do g\u00f3ry dnem",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "263. Jak wzywa\u0107 pomocy w nocy (wody \u015br\u00f3dl\u0105dowe -do dyspozycji jest tylko latarka)?",
+    "answerA": "A. Nadawa\u0107 d\u0142ugie b\u0142yski",
+    "answerB": "B. Zatacza\u0107 zapalon\u0105 latark\u0105 kr\u0119gi",
+    "answerC": "C. Porusza\u0107 latark\u0105 poziomo",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "264. Po wy\u0142owieniu cz\u0142owieka, kt\u00f3ry wypad\u0142 za burt\u0119 stwierdzono, \u017ce nie oddycha. Co robi\u0107?",
+    "answerA": "A. Natychmiast rozpocz\u0105\u0107 akcj\u0119 resuscytacyjn\u0105 i wezwa\u0107 pomoc.",
+    "answerB": "B. Wezwa\u0107 pomoc, jak najszybciej p\u0142yn\u0105\u0107 do brzegu i czeka\u0107 na pomoc lekarsk\u0105.",
+    "answerC": "C. U\u0142o\u017cy\u0107 cz\u0142owieka w pozycji bezpiecznej i zabezpieczy\u0107 przed utrat\u0105 ciep\u0142a",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "265. Przy z\u0142amaniu ko\u0144czyny nale\u017cy :",
+    "answerA": "A. Wezwa\u0107 pogotowie ratunkowe",
+    "answerB": "B. U\u0142o\u017cy\u0107 poszkodowanego w t.zw. pozycji bezpiecznej",
+    "answerC": "C. Usztywni\u0107 2 przyleg\u0142e stawy, mo\u017cliwie szybko zapewni\u0107 poszkodowanemu pomoc lekarsk\u0105",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "266. Na jachcie zerwa\u0142a si\u0119 top-wanta nawietrzna, maszt nie z\u0142ama\u0142 si\u0119. Jakie dzia\u0142anie podj\u0105\u0107?",
+    "answerA": "A. Jak najszybciej wykona\u0107 zwrot przez sztag i dokona\u0107 oceny sytuacji",
+    "answerB": "B. Wyostrzy\u0107 do linii wiatru, zrzuci\u0107 \u017cagle i dokona\u0107 prowizorycznej naprawy",
+    "answerC": "C. Odpa\u015b\u0107 do baksztagu i dokona\u0107 prowizorycznej naprawy",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "267. Cz\u0142owieka z wody podejmujemy:",
+    "answerA": "A. W miejscu gdzie jest naj\u0142atwiej przy zachowaniu stateczno\u015bci jednostki",
+    "answerB": "B. Zawsze z burty nawietrznej",
+    "answerC": "C. Przy dziobie jachtu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "268. W jakie osobiste \u015brodki ratunkowe ma by\u0107 wyposa\u017cony jacht \u017cegluj\u0105cy na wodach \u015br\u00f3dl\u0105dowych?",
+    "answerA": "A. W pasy/ kamizelki ratunkowe w ilo\u015bci takiej jak ilo\u015b\u0107 os\u00f3b na pok\u0142adzie",
+    "answerB": "B. Pasy/kamizelki ratunkowe i pasy bezpiecze\u0144stwa dla wszystkich os\u00f3b na pok\u0142adzie",
+    "answerC": "C. tyle ile jest os\u00f3b na pok\u0142adzie plus jedna lub ko\u0142o ratunkowe",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "269. Pierwsza pomoc przy krwawi\u0105cych ranach otwartych ko\u0144czyn:",
+    "answerA": "A. Przemywamy ran\u0119 czyst\u0105 wod\u0105 np. mineraln\u0105, zak\u0142adamy opatrunek, przekazujemy poszkodowanego do lekarza",
+    "answerB": "B. Usuwamy obce cia\u0142a z rany nast\u0119pnie przemywamy ja czyst\u0105 wod\u0105 np. mineraln\u0105, zak\u0142adamy opatrunek uciskowy, przekazujemy poszkodowanego do lekarza",
+    "answerC": "C. Pozostawiamy ran\u0119 otwart\u0105 i jak najszybciej przekazujemy poszkodowanego do lekarza",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "270. Gwa\u0142towne uderzenie bardzo silnego wiatru zasta\u0142o jacht mieczowy w pobli\u017cu brzegu nawietrznego (wody \u015br\u00f3dl\u0105dowe), \u017cagle zrzucono w por\u0119 jacht si\u0119 nie przewr\u00f3ci\u0142. Wiatr nadal bardzo silny. Brzeg bezpieczny. Jak post\u0119powa\u0107 dalej ?",
+    "answerA": "A. Podnie\u015b\u0107 miecz, za\u0142oga na pok\u0142adzie w pasach/kamizelkach ratunkowych, sztrandowa\u0107 z wiatrem",
+    "answerB": "B. Przygotowa\u0107 kotwic\u0119, miecza nie podnosi\u0107 aby wolniej dryfowa\u0107, blisko brzegu rzuci\u0107 kotwic\u0119.",
+    "answerC": "C. Natychmiast rzuci\u0107 kotwic\u0119, za\u0142oga pozostaje pod pok\u0142adem.",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "271. Na Zalewie Szczeci\u0144skim w dzie\u0144 na skutek p\u0119kni\u0119cia kad\u0142uba jacht nabiera wody (jacht wyposa\u017cony zgodnie z przepisami). Jak najlepiej i najskuteczniej wezwa\u0107 pomocy?",
+    "answerA": "A. Przy pomocy radiotelefonu UKF (procedura MAY DAY)",
+    "answerB": "B. Przy pomocy rakiet czerwonych",
+    "answerC": "C. Podnosz\u0105c pod salingiem sygna\u0142: kula nad flag\u0105",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "272. Na jeziorach Mazurskich w dzie\u0144 na jachcie z\u0142ama\u0142 si\u0119 maszt, jacht jest bez silnika, brak telefonu. Jak najlepiej wzywa\u0107 pomocy?",
+    "answerA": "A. Podnosz\u0105c i opuszczaj\u0105c r\u0119ce i/lub zataczaj\u0105c ko\u0142a dobrze widocznym przedmiotem",
+    "answerB": "B. Krzycz\u0105c g\u0142o\u015bno ratunku - pomocy",
+    "answerC": "C. Nadaj\u0105c latark\u0105 sygna\u0142 SOS",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "273. Czy na jachcie \u017cegluj\u0105cym na Jeziorach Mazurskich kapitan ma prawo zarz\u0105dzi\u0107, aby za\u0142oga za\u0142o\u017cy\u0142a pasy/kamizelki ratunkowe?",
+    "answerA": "A. Tak",
+    "answerB": "B. Nie, to indywidualna decyzja cz\u0142onka za\u0142ogi",
+    "answerC": "C. Przepisy tego nie okre\u015blaj\u0105",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "274. Czy na Zatoce Gda\u0144skiej i Zalewie Szczeci\u0144skim dzia\u0142a s\u0142u\u017cba ratownictwa morskiego SAR?",
+    "answerA": "A. Tak, z centrum koordynacyjnym w Gdyni i Stacjami ratownictwa w portach.",
+    "answerB": "B. Nie, SAR dzia\u0142a tylko na pe\u0142nym morzu",
+    "answerC": "C. Nie, dzia\u0142a tam tylko WOPR",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "275. Prowadz\u0105cy jacht poleci\u0142 za\u0142odze za\u0142o\u017cy\u0107 pasy /kamizelki ratunkowe. Jak powinna post\u0119powa\u0107 za\u0142oga?",
+    "answerA": "A. Za\u0142o\u017cy\u0107 pasy pod pok\u0142adem",
+    "answerB": "B. Wyj\u015b\u0107 z pasami na pok\u0142ad i tam je za\u0142o\u017cy\u0107",
+    "answerC": "C. Trzyma\u0107 je przy sobie, a zak\u0142ada\u0107 dopiero w wodzie",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "276. Pierwszej pomocy przy oparzeniach udzielamy nast\u0119puj\u0105co:",
+    "answerA": "A. Szybkie och\u0142odzenie oparzonego miejsca przez polewanie zimn\u0105 woda i na\u0142o\u017cenie ja\u0142owego opatrunku.",
+    "answerB": "B. Na\u0142o\u017cenie t\u0142ustego kremu lub oliwy i ja\u0142owego opatrunku",
+    "answerC": "C. Przemycie alkoholem i na\u0142o\u017cenie opatrunku",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "277. Przed rozpocz\u0119ciem sztucznego oddychania u osoby nieprzytomnej nale\u017cy:",
+    "answerA": "A. Udro\u017cni\u0107 drogi oddechowe i prowadzi\u0107 akcj\u0119 sztucznego oddychania",
+    "answerB": "B. Zabezpieczy\u0107 poszkodowan\u0105 osob\u0119 przed utrat\u0105 ciep\u0142a i prowadzi\u0107 akcj\u0119",
+    "answerC": "C. Po\u0142o\u017cy\u0107 osob\u0119 poszkodowan\u0105 na mi\u0119kkim pod\u0142o\u017cu i natychmiast rozpocz\u0105\u0107 akcj\u0119",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "278. Z prawej burty jachtu zaobserwowano jednostk\u0119 nadaj\u0105c\u0105 sygna\u0142 jak na rysunku. Jak nale\u017cy post\u0105pi\u0107?",
+    "answerA": "A. Zmieni\u0107 kurs i podej\u015b\u0107 do tej jednostki, nawi\u0105za\u0107 z ni\u0105 \u0142\u0105czno\u015b\u0107",
+    "answerB": "B. Nie zbli\u017ca\u0107 si\u0119, jednostka wykonuje prace podwodne",
+    "answerC": "C. Zatrzyma\u0107 si\u0119 i czeka\u0107 na dalsze sygna\u0142y tej jednostki",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/vIayyJSrCkak2K1GlWmQ8w.png"
+  },
+  {
+    "question": "279. Wybierz w\u0142a\u015bciwy spos\u00f3b post\u0119powania osoby, kt\u00f3ra wypad\u0142a za burt\u0119:",
+    "answerA": "A. Zachowa\u0107 spok\u00f3j, wzywa\u0107 pomocy, p\u0142yn\u0105\u0107 do brzegu,",
+    "answerB": "B. P\u0142yn\u0105\u0107 za jachtem lub do brzegu mo\u017cliwie jak najszybciej",
+    "answerC": "C. Zachowa\u0107 spok\u00f3j, oszcz\u0119dza\u0107 energi\u0119 i si\u0142y, podp\u0142yn\u0105\u0107 do rzuconego ju\u017c ko\u0142a i spokojnie czeka\u0107.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "280. Prowadz\u0105c sztuczne oddychanie i po\u015bredni masa\u017c serca wykonujemy:",
+    "answerA": "A. 15 uci\u015bni\u0119\u0107 mostka i 2 wdmuchni\u0119cia powietrza,",
+    "answerB": "B. 5 uci\u015bni\u0119\u0107 mostka i 1 wdmuchni\u0119cie powietrza,",
+    "answerC": "C. 30 uci\u015bni\u0119\u0107 mostka i 2 wdmuchni\u0119cia powietrza",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "281. Po ca\u0142odziennej \u017cegludze w lecie za\u0142oganta boli g\u0142owa, ma zaburzenia \u015bwiadomo\u015bci, ciep\u0142\u0105 zaczerwienion\u0105 sk\u00f3r\u0119 i nudno\u015bci. Czego to mog\u0105 by\u0107 objawy i jak post\u0119powa\u0107 ?",
+    "answerA": "A. Wyzi\u0119bienia cia\u0142a, poda\u0107 ciep\u0142y nap\u00f3j",
+    "answerB": "B. Pora\u017cenia s\u0142onecznego, zastosowa\u0107 zimne ok\u0142ady, poda\u0107 wod\u0119 mineraln\u0105, potrzebna pomoc lekarska",
+    "answerC": "C. Choroby morskiej, poda\u0107 aviomarin",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "282. Jacht na Zatoce Gda\u0144skiej dryfuje przy bardzo silnym wietrze do brzegu, nadano sygna\u0142y wzywania pomocy. Na brzegu wystrzelono zielon\u0105 rakiet\u0119, a stoj\u0105cy na brzegu macha bia\u0142\u0105 chor\u0105giewk\u0105. Co to oznacza i jak post\u0119powa\u0107 ?",
+    "answerA": "A. Ostrze\u017cenie o niebezpiecznym miejscu, stara\u0107 si\u0119 sztrandowa\u0107 w innym miejscu",
+    "answerB": "B. Informacja o dobrym miejscu do sztrandowania, stara\u0107 si\u0119 sztrandowa\u0107 w tym miejscu",
+    "answerC": "C. Informacja, \u017ce wkr\u00f3tce nadejdzie jednostka ratownicza",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "283. Jakie s\u0105 PODSTAWOWE/NAJWA\u017bNIEJSZE obowi\u0105zki prowadz\u0105cego jacht przed wyj\u015bciem w rejs?",
+    "answerA": "A. Zapoznanie za\u0142ogi ze sprz\u0119tem ratunkowym na jachcie, jego rozmieszczeniu i obs\u0142udze (np. pasy/ kamizelki ratunkowe i bezpiecze\u0144stwa, ga\u015bnice, itp.) i post\u0119powaniem w niebezpiecze\u0144stwie",
+    "answerB": "B. Zapoznanie za\u0142ogi z przepisami prawa drogi i oznakowaniem nawigacyjnym danego akwenu",
+    "answerC": "C. Zapoznanie za\u0142ogi z zasadami etykiety jachtowej`",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "284. W celu ugaszenia ga\u015bnic\u0105 po\u017caru w komorze silnika nale\u017cy:",
+    "answerA": "A. Lekko uchyli\u0107 pokryw\u0119 komory i natychmiast u\u017cy\u0107 ga\u015bnicy",
+    "answerB": "B. Otworzy\u0107 szeroko pokryw\u0119 komory, sprawdzi\u0107 co si\u0119 pali i dopiero u\u017cy\u0107 ga\u015bnicy",
+    "answerC": "C. Otworzy\u0107 szeroko pokryw\u0119 komory i gasi\u0107 ogie\u0144 wod\u0105 podawan\u0105 z za burty",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "285. Po podj\u0119ciu nieprzytomnego cz\u0142owieka z wody nale\u017cy w PIERWSZEJ KOLEJNO\u015aCI sprawdzi\u0107:",
+    "answerA": "A. Oddech i t\u0119tno",
+    "answerB": "B. Czy nie jest zraniony",
+    "answerC": "C. Reakcj\u0119 \u017arenic na \u015bwiat\u0142o",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "286. Niezatapialny jacht w lecie przewr\u00f3ci\u0142 si\u0119 na du\u017cym jeziorze w odleg\u0142o\u015bci ok. 1 km od zawietrznego brzegu. Wzywano pomoc ale na razie bez skutku. Jakie powinno by\u0107 dalsze post\u0119powanie?",
+    "answerA": "A. Za\u0142oga w pasach/kamizelkach ratunkowych powinna w grupie p\u0142yn\u0105\u0107 do l\u0105du",
+    "answerB": "B. Za\u0142oga ciep\u0142o ubrana w pasach/kamizelkach ratunkowych powinna siedzie\u0107 na jachcie mo\u017cliwie nie w wodzie. Nadal wzywa\u0107 pomocy.",
+    "answerC": "C. Osoba najlepiej p\u0142ywaj\u0105ca powinna p\u0142yn\u0105\u0107 do l\u0105du po pomoc.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "287. Zaobserwowano, \u017ce znajduj\u0105cy si\u0119 w pobli\u017cu jacht ma podniesiony sygna\u0142 jak na rysunku. Co nale\u017cy zrobi\u0107 ?",
+    "answerA": "A. Taki sygna\u0142 nic nie oznacza, kontynuowa\u0107 swoje p\u0142ywanie.",
+    "answerB": "B. Jacht stoi na mieli\u017anie, nie podchodzi\u0107 w pobli\u017ce",
+    "answerC": "C. Jacht wzywa pomocy, podej\u015b\u0107 i podj\u0105\u0107 odpowiednie dzia\u0142ania",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/FVtD5BfS0k0IX9IDuQDbmQ.png"
+  },
+  {
+    "question": "288. Jak zachowa\u0107 si\u0119 przy wywracaniu si\u0119 jachtu (wywrotka ju\u017c nieunikniona)?",
+    "answerA": "A. Dzia\u0142a\u0107 tak aby nie wpa\u015b\u0107 pod \u017cagiel",
+    "answerB": "B. Wyskoczy\u0107 od strony burty zawietrznej jak najdalej od jachtu",
+    "answerC": "C. Wyskoczy\u0107 za ruf\u0119",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "289. Na jachcie czu\u0107 zapach tl\u0105cej si\u0119 izolacji. Co zrobi\u0107 w pierwszej kolejno\u015bci?",
+    "answerA": "A. Jak najszybciej zlokalizowa\u0107 miejsce uszkodzenia",
+    "answerB": "B. Przygotowa\u0107 ga\u015bnic\u0119 i czeka\u0107 gdzie pojawi si\u0119 dym",
+    "answerC": "C. Wy\u0142\u0105czy\u0107 g\u0142\u00f3wny wy\u0142\u0105cznik akumulator\u00f3w lub zdj\u0105\u0107 klemy z akumulatora",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "290. Po wywrotce jachtu Omega wieczorem (jesie\u0144 -temp. wody ok. 10\u00b0C, wiatr s\u0142abn\u0105cy, do brzegu zawietrznego odl. ok. 3 km, do nawietrznego ok. 300 m) sternik oceni\u0142, \u017ce nale\u017cy p\u0142yn\u0105\u0107 na prowizorycznej tratwie do brzegu nawietrznego. Czy decyzja by\u0142a s\u0142uszna?",
+    "answerA": "A. Tak, bo do tego brzegu jest bli\u017cej, a istnieje niebezpiecze\u0144stwo wych\u0142odzenia",
+    "answerB": "B. Nie, nigdy nie powinno si\u0119 opuszcza\u0107 jachtu",
+    "answerC": "C. Tak, ale dopiero je\u017celi pr\u00f3by wzywania pomocy nie da\u0142y rezultatu (w rozs\u0105dnym czasie)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "291. Co mo\u017ce by\u0107 pomocne przy pr\u00f3bie postawienia niewielkiego jachtu mieczowego po wywrotce, je\u017celi dotychczasowe pr\u00f3by postawienia nie da\u0142y rezultatu?",
+    "answerA": "A. Podniesienie miecza i steru",
+    "answerB": "B. Zrzucenie \u017cagli i po\u0142o\u017cenie masztu",
+    "answerC": "C. Ustawienie jachtu rufa do wiatru",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "292. Jaki jest numer ratunkowy telefonu WOPR (ratownictwo na jeziorach)",
+    "answerA": "A. 600 100 100",
+    "answerB": "B. 601 100 100",
+    "answerC": "C. 601 101 101",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "293. Cz\u0142onek za\u0142ogi przewr\u00f3ci\u0142 si\u0119 na pok\u0142adzie, ma silny b\u00f3l klatki piersiowej szczeg\u00f3lnie przy wdechu. Jak udzieli\u0107 mu pierwszej pomocy?",
+    "answerA": "A. Umie\u015bci\u0107 go w pozycji p\u00f3\u0142siedz\u0105cej w miejscu najmniej nara\u017conym na ko\u0142ysanie, za\u0142o\u017cy\u0107 okr\u0119\u017cna opask\u0119 z szerokiego banda\u017ca na klatk\u0119 piersiow\u0105, poda\u0107 \u015brodki przeciwb\u00f3lowe",
+    "answerB": "B. U\u0142o\u017cy\u0107 go w pozycji bezpiecznej, w miejscu dobrze wentylowanym",
+    "answerC": "C. Podawa\u0107 ciep\u0142e p\u0142yny i \u015brodki przeciwkaszlowe",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "294. Przy pracach konserwacyjnych cz\u0142onek za\u0142ogi oparzy\u0142 si\u0119 kwasem z akumulatora. Jak udzieli\u0107 pierwszej pomocy?",
+    "answerA": "A. Na\u0142o\u017cy\u0107 na miejsce oparzone sterylny opatrunek",
+    "answerB": "B. Starannie i d\u0142ugo p\u0142uka\u0107 miejsce oparzone wod\u0105, a nast\u0119pnie roztworem sody oczyszczonej lub myd\u0142a. Na\u0142o\u017cy\u0107 sterylny opatrunek.",
+    "answerC": "C. Na\u0142o\u017cy\u0107 na miejsce oparzone ok\u0142ad alkaliczny np.z myd\u0142a",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "295. Cz\u0142onek za\u0142ogi dozna\u0142 urazu stawu skokowego b\u00f3l i zasinienie) jak nale\u017cy post\u0119powa\u0107?",
+    "answerA": "A. Na\u0142o\u017cy\u0107 ciasny banda\u017c, trzyma\u0107 nog\u0119 w cieple",
+    "answerB": "B. Unieruchomi\u0107 ca\u0142\u0105 ko\u0144czyn\u0119, wzywa\u0107 natychmiast pomoc lekarsk\u0105",
+    "answerC": "C. Zastosowa\u0107 zimne ok\u0142ady przez 15 - 30 minut, unieruchomi\u0107 staw, poda\u0107 \u015brodki przeciwb\u00f3lowe, przekaza\u0107 poszkodowanego pod opiek\u0119 lekarsk\u0105",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "296. Na ma\u0142ym jachcie wywracalnym (np. OMEGA) jest 5 os\u00f3b. Jedna wypad\u0142a za burt\u0119. Jak do niej podej\u015b\u0107 i jak j\u0105 najbezpieczniej wyci\u0105gn\u0105\u0107 na jacht?",
+    "answerA": "A. Podej\u015b\u0107 bajdewindem burt\u0105 nawietrzn\u0105, przeprowadzi\u0107 osob\u0119 w wodzie na ruf\u0119 i tam j\u0105 wyci\u0105gn\u0105\u0107 na pok\u0142ad.",
+    "answerB": "B. Podej\u015b\u0107 bajdewindem burt\u0105 nawietrzn\u0105, przeprowadzi\u0107 osob\u0119 w wodzie na dziob i tam j\u0105 wyci\u0105gn\u0105\u0107 na pok\u0142ad.",
+    "answerC": "C. Podej\u015b\u0107 bajdewindem burt\u0105 nawietrzn\u0105, dwie osoby balastuj\u0105, a dwie wyci\u0105gaj\u0105 cz\u0142owieka na pok\u0142ad na \u015br\u00f3dokr\u0119ciu.",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "297. Na jachcie jest silnik przyczepny na pantografie rufowym po stronie lewej burty. Wypad\u0142 cz\u0142owiek za burt\u0119, uruchomiono silnik. Jak podchodzi\u0107 do cz\u0142owieka najszybciej i najbezpieczniej?",
+    "answerA": "A. Na silniku w bajdewindzie lub pod wiatr lew\u0105 burt\u0105",
+    "answerB": "B. Na silniku w bajdewindzie lub pod wiatr praw\u0105 burt\u0105",
+    "answerC": "C. Najpierw zrzuci\u0107 \u017cagle i dopiero potem podchodzi\u0107 w dowolny spos\u00f3b",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "298. Jacht \u017cegluje bajdewindem lewego halsu, zauwa\u017cono, \u017ce zerwa\u0142a si\u0119 prawa topwanta (rozkr\u0119ci\u0142 si\u0119 \u015bci\u0105gacz) Co nale\u017cy zrobi\u0107?",
+    "answerA": "A. Zmieni\u0107 kurs do linii wiatru, zrzuci\u0107 \u017cagle, uruchomi\u0107 silnik, p\u0142yn\u0105\u0107 do portu",
+    "answerB": "B. Zluzowa\u0107 nieco \u017cagle nie zmieniaj\u0105c kursu, po\u0142\u0105czy\u0107 i skr\u0119ci\u0107 \u015bci\u0105gacz i zabezpieczy\u0107 go",
+    "answerC": "C. Wykona\u0107 zwrot przez sztag, zrzuci\u0107 \u017cagle, jak najszybciej za\u0142o\u017cy\u0107 awaryjn\u0105 want\u0119",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "299. Na jeziorach Mazurskich na maszcie sygna\u0142owym przy wej\u015bciu do kana\u0142u Jegli\u0144skiego zaobserwowano \u017c\u00f3\u0142te \u015bwiat\u0142o pulsuj\u0105ce (b\u0142ysk cz\u0119\u015bciej ni\u017c co 1 sekund\u0119). Co to mo\u017ce oznacza\u0107 ?",
+    "answerA": "A. Zakaz wej\u015bcia do kana\u0142u",
+    "answerB": "B. Oznaczenie wej\u015bcia do kana\u0142u",
+    "answerC": "C. Ostrze\u017cenie bezpo\u015brednim niebezpiecze\u0144stwie wyst\u0105pienia burz i bardzo silnego wiatru",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "300. Czy p\u0142ywaj\u0105c jachtem na jeziorach Mazurskich mo\u017cna korzysta\u0107 z telefonicznych ostrze\u017ce\u0144 meteorologicznych?",
+    "answerA": "A. Tak, telefonuj\u0105c na nr informacyjny Rejonu Dr\u00f3g Wodnych",
+    "answerB": "B. Tak, zamawiaj\u0105c us\u0142ug\u0119 ostrze\u017ce\u0144 w Mazurskim W.O.P.R wysy\u0142anych jako SMS",
+    "answerC": "C. Nie, takich mo\u017cliwo\u015bci nie ma",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "301. Zauwa\u017cyli\u015bmy wywr\u00f3cony jacht i za\u0142og\u0119 tego jachtu w wodzie. Jak post\u0119pujemy?",
+    "answerA": "A. P\u0142yniemy jak najszybciej do najbli\u017cszej przystani celem wezwania pomocy",
+    "answerB": "B. W bezpiecznej odleg\u0142o\u015bci od przewr\u00f3conego jachtu zrzucamy \u017cagle i z pr\u0119dko\u015bci\u0105 minimaln\u0105 podp\u0142ywamy do przewr\u00f3conego jachtu i ratujemy ludzi, a potem sprz\u0119t",
+    "answerC": "C. W bezpiecznej odleg\u0142o\u015bci od przewr\u00f3conego jachtu, s\u0142ownie instruujemy jak maj\u0105 post\u0119powa\u0107",
+    "correctAnswer": "B"
+  }
+]

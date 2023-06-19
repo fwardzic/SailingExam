@@ -1,0 +1,639 @@
+[
+  {
+    "question": "1. \u017bagiel mocowany do masztu i bomu na jachcie typu slup to:",
+    "answerA": "A. Fok",
+    "answerB": "B. Genua",
+    "answerC": "C. Grot",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "2. Miecz na jachcie to:",
+    "answerA": "A. Opuszczana p\u0142yta umieszczona w skrzyni lub falszkilu w \u015brodkowej cz\u0119\u015bci jachtu.",
+    "answerB": "B. Cz\u0119\u015b\u0107 urz\u0105dzenia sterowego",
+    "answerC": "C. Urz\u0105dzenie do regulacji k\u0105ta przechy\u0142u",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "3. Liny stalowe podtrzymuj\u0105ce maszt w p\u0142aszczy\u017anie poprzecznej (np. na OMEDZE)",
+    "answerA": "A. Wanty i topwanty",
+    "answerB": "B. Sztag i achtersztag",
+    "answerC": "C. Baksztag i topenanta",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "4. Rumpel to element urz\u0105dzenia:",
+    "answerA": "A. Sterowego",
+    "answerB": "B. Kotwicznego",
+    "answerC": "C. Urz\u0105dze\u0144 do cumowania",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "5. Forpik to:",
+    "answerA": "A. Tylny koniec bomu",
+    "answerB": "B. G\u00f3rny koniec gafla",
+    "answerC": "C. Pomieszczenie na dziobie jachtu",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "6. Fok mo\u017ce by\u0107 mocowany do sztagu miedzy innymi przy pomocy:",
+    "answerA": "A. Segars\u00f3w",
+    "answerB": "B. Raks",
+    "answerC": "C. Pe\u0142zaczy",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "7. Linki s\u0142u\u017c\u0105ce do podwi\u0105zywania \u017cagla przy jego refowaniu to:",
+    "answerA": "A. Dirki",
+    "answerB": "B. Refsejzingi",
+    "answerC": "C. Fa\u0142y",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "8. Po uruchomieniu silnika przyczepnego NAJISTOTNIEJSZ\u0104 czynno\u015bci\u0105",
+    "answerA": "A. Sprawdzenie stanu paliwa w zbiorniku",
+    "answerB": "B. Obserwacja koloru spalin",
+    "answerC": "C. Sprawdzenie wyp\u0142ywu wody ch\u0142odz\u0105cej",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "9. Akumulatory kwasowe bezobs\u0142ugowe powinny by\u0107 umieszczone na jachcie:",
+    "answerA": "A. W pomieszczeniu wydzielonym i dobrze wentylowanym",
+    "answerB": "B. Tylko na pok\u0142adzie",
+    "answerC": "C. Nie ma znaczenia gdzie si\u0119 je umie\u015bci",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "10. Lina s\u0142u\u017c\u0105ce do podnoszenia miecza to:",
+    "answerA": "A. Fa\u0142 miecza",
+    "answerB": "B. Kontrafa\u0142 miecza",
+    "answerC": "C. Szot miecza",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "11. Kraw\u0119d\u017a \u017cagla obszyta dla wzmocnienia nazywamy:",
+    "answerA": "A. Kilem",
+    "answerB": "B. Listw\u0105",
+    "answerC": "C. Likiem",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "12. Po zako\u0144czeniu u\u017cywania kuchenki gazowej nale\u017cy jako pierwsz\u0105 czynno\u015b\u0107 wykona\u0107:",
+    "answerA": "A. Zamkn\u0105\u0107 dok\u0142adnie zaw\u00f3r butli gazowej",
+    "answerB": "B. Sprawdzi\u0107 temperatur\u0119 butli",
+    "answerC": "C. Oczy\u015bci\u0107 palniki kuchenki",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "13. Jak nazywa si\u0119 urz\u0105dzenie do podnoszenia i opuszczania silnika przyczepnego:",
+    "answerA": "A. Uchwyt rufowy",
+    "answerB": "B. Pantograf",
+    "answerC": "C. Podno\u015bnik zawiasowy",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "14. Jacht, kt\u00f3ry posiada jeden maszt i dwa \u017cagle grot i fok ma typ osprz\u0119tu \u017caglowego:",
+    "answerA": "A. Ket",
+    "answerB": "B. Kecz",
+    "answerC": "C. Slup",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "15. Do olinowania ruchomego zaliczamy:",
+    "answerA": "A. Sztagi",
+    "answerB": "B. Achtersztag",
+    "answerC": "C. Fa\u0142y",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "16. Knaga to element osprz\u0119tu jachtu s\u0142u\u017c\u0105cy do:",
+    "answerA": "A. Mocowania lin",
+    "answerB": "B. Wykonywania splot\u00f3w na linach",
+    "answerC": "C. Wzmocnienia pok\u0142adu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "17. Jak bezpiecznie sprawdzi\u0107 szczelno\u015b\u0107 instalacji gazowej na jachcie:",
+    "answerA": "A. Za pomoc\u0105 p\u0142omienia (zapa\u0142ki, zapalniczki)",
+    "answerB": "B. Na s\u0142uch (szum uchodz\u0105cego gazu)",
+    "answerC": "C. Za pomoc\u0105 wody ze \u015brodkiem pieni\u0105cym (myd\u0142o, p\u0142yn do zmywania)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "18. Kluza jest to:",
+    "answerA": "A. Okucie lub otw\u00f3r w nadburciu s\u0142u\u017c\u0105ce do prowadzenia cum czy szpring\u00f3w",
+    "answerB": "B. Ucho na pok\u0142adzie do mocowania blok\u00f3w",
+    "answerC": "C. Urz\u0105dzenie do mocowania lin (np. szot\u00f3w)",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "19. Szpring dziobowy to lina cumownicza biegn\u0105ca:",
+    "answerA": "A. Od dziobu na l\u0105d w stron\u0119 rufy jachtu",
+    "answerB": "B. Od rufy na l\u0105d w stron\u0119 rufy jachtu",
+    "answerC": "C. Od dziobu na l\u0105d przed dzi\u00f3b jachtu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "20. Szoty to liny s\u0142u\u017c\u0105ce do:",
+    "answerA": "A. Stawiania \u017cagli",
+    "answerB": "B. Wybierania i luzowania \u017cagli przy manewrach",
+    "answerC": "C. Podnoszenia miecza",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "21. \u017bagiel podnoszony na sztagu jachtu o osprz\u0119cie \u017caglowym typu slup to:",
+    "answerA": "A. Bezan",
+    "answerB": "B. Fok",
+    "answerC": "C. Grot",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "22. Paw\u0119\u017c to element konstrukcyjny jachtu:",
+    "answerA": "A. Wzmacniaj\u0105cy dzi\u00f3b",
+    "answerB": "B. Rufowe zako\u0144czenie kad\u0142uba jachtu",
+    "answerC": "C. Poprzeczne wzmocnienie kad\u0142uba jachtu na \u015br\u00f3dokr\u0119ciu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "23. Komory wyporno\u015bciowe na jachcie s\u0142u\u017c\u0105 do:",
+    "answerA": "A. Zapewnienia p\u0142ywalno\u015bci po nape\u0142nieniu jachtu wod\u0105 po jego wywr\u00f3ceniu lub awarii kad\u0142uba",
+    "answerB": "B. Poprawy stateczno\u015bci jachtu",
+    "answerC": "C. Mog\u0105 s\u0142u\u017cy\u0107 do przechowywania sprz\u0119tu ratunkowego",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "24. Liny podtrzymuj\u0105ce maszt w p\u0142aszczy\u017anie pod\u0142u\u017cnej to:",
+    "answerA": "A. Sztagi i achtersztagi",
+    "answerB": "B. Wanty i top wanty",
+    "answerC": "C. Fa\u0142y i kontrafa\u0142y",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "25. Jacht z jednym masztem i \u017caglem (np. OPTYMIST). Jaki to typ osprz\u0119tu \u017caglowego:",
+    "answerA": "A. Slup",
+    "answerB": "B. Szkuner",
+    "answerC": "C. Ket",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "26. Na jachcie dwumasztowym o przednim maszcie wy\u017cszym, a tylnym ni\u017cszym (np. DZ) stawia si\u0119 3 \u017cagle. Jaki to typ osprz\u0119tu \u017caglowego:",
+    "answerA": "A. Szkuner",
+    "answerB": "B. Slup",
+    "answerC": "C. Kecz",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "27. \u017bagiel o du\u017cej powierzchni podnoszony na sztagu i si\u0119gaj\u0105cy znacznie poza wanty to:",
+    "answerA": "A. Fok",
+    "answerB": "B. Grot",
+    "answerC": "C. Genua",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "28. Raksy to:",
+    "answerA": "A. Okucia (haczyki lub.tp) do mocowania \u017cagla do sztagu",
+    "answerB": "B. Okucia pok\u0142adowe do mocowania szot\u00f3w",
+    "answerC": "C. Okucia masztowe do mocowania lin olinowania sta\u0142ego",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "29. Do mocowania lin olinowania ruchomego do \u017cagli lub lin olinowania sta\u0142ego do oku\u0107 pok\u0142adowych mog\u0105 by\u0107 u\u017cywane:",
+    "answerA": "A. Raksy",
+    "answerB": "B. Pe\u0142zacze",
+    "answerC": "C. Szakle",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "30. Otw\u00f3r w \u017caglu z obszyciem i/lub okuciem dla wzmocnienia (np. do mocowania refsejzing\u00f3w, szot\u00f3w itp.) nazywamy:",
+    "answerA": "A. Kausz\u0105",
+    "answerB": "B. Remizk\u0105",
+    "answerC": "C. Bant\u0105",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "31. G\u0142\u00f3wna cz\u0119\u015b\u0107 urz\u0105dzenia sterowego powoduj\u0105ca zmian\u0119 kursu jachtu to:",
+    "answerA": "A. Trzon steru",
+    "answerB": "B. P\u0142etwa sterowa",
+    "answerC": "C. Rumpel",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "32. Refbanta to:",
+    "answerA": "A. Mechanizm do rolowania \u017cagla",
+    "answerB": "B. Wzmocnienie bomu dla zwi\u0119kszenia jego sztywno\u015bci",
+    "answerC": "C. Wzmocnienie \u017cagla z remizkami lub remizkami i refsejzingami",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "33. Pokazany na szkicu \u017cagiel to:",
+    "answerA": "A. Grot",
+    "answerB": "B. Genua",
+    "answerC": "C. Bezan",
+    "correctAnswer": "C",
+    "questionImage": "https://o.quizlet.com/Gui5yp9WqHG5TEJ6JaDprw.jpg"
+  },
+  {
+    "question": "34. Pokazany na szkicu \u017cagiel to:",
+    "answerA": "A. Grot",
+    "answerB": "B. Fok",
+    "answerC": "C. Bezan",
+    "correctAnswer": "B",
+    "questionImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%C5%BBagiel_fok.svg/1843px-%C5%BBagiel_fok.svg.png"
+  },
+  {
+    "question": "35. Pokazany na szkicu jacht ma osprz\u0119t \u017caglowy typu:",
+    "answerA": "A. Kecz",
+    "answerB": "B. Slup",
+    "answerC": "C. Szkuner",
+    "correctAnswer": "B",
+    "questionImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rigging-sloop-berm.svg/300px-Rigging-sloop-berm.svg.png"
+  },
+  {
+    "question": "36. Jak nazywaj\u0105 si\u0119 pokazane na szkicu czerwon\u0105 strza\u0142k\u0105 elementy rozpieraj\u0105ce wanty:",
+    "answerA": "A. Rakskloty",
+    "answerB": "B. Szandeki",
+    "answerC": "C. Salingi",
+    "correctAnswer": "C",
+    "questionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyAwoue4eWO6OR-JVL91U-yN_8Wlzu0B0CaA&usqp=CAU"
+  },
+  {
+    "question": "37. Refsejzingi to linki s\u0142u\u017c\u0105ce do:",
+    "answerA": "A. Mocowania pokrowca na \u017cagiel do bomu",
+    "answerB": "B. Linki mocuj\u0105ce \u017cagiel do bomu przy refowaniu \u017cagla",
+    "answerC": "C. Cumowanie jachtu przy silnym wietrze",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "38. Dla umo\u017cliwienia k\u0142adzenia masztu jest on osadzany w:",
+    "answerA": "A. W op\u0119tniku",
+    "answerB": "B. Obrotowo w tzw. c\u0119gach umieszczonych na pok\u0142adzie lub nadbud\u00f3wce",
+    "answerC": "C. W jarzmie masztu",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "39. Kabestan to urz\u0105dzenie:",
+    "answerA": "A. Umo\u017cliwiaj\u0105ce wybieranie lin (np. szot\u00f3w czy fa\u0142\u00f3w) z du\u017c\u0105 si\u0142\u0105",
+    "answerB": "B. Prowadz\u0105ce \u0142a\u0144cuch kotwiczny bez tarcia o pok\u0142ad",
+    "answerC": "C. U\u0142atwiaj\u0105ce sterowanie przy du\u017cej fali",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "40. Do prowadzenia i regulacji ustawienia szot\u00f3w \u017cagli (np. foka) s\u0142u\u017c\u0105:",
+    "answerA": "A. Remizki",
+    "answerB": "B. Dulki",
+    "answerC": "C. Kipy",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "41. Kokpit na jachcie to:",
+    "answerA": "A. Przestrze\u0144 wodoszczelna zapewniaj\u0105ca p\u0142ywalno\u015b\u0107 jachtu",
+    "answerB": "B. Pomieszczenie magazynowe na dziobie lub rufie",
+    "answerC": "C. Przestrze\u0144 dla za\u0142ogi sk\u0105d mo\u017cn obs\u0142ugiwa\u0107 urz\u0105dzenia jachtu (np. szoty \u017cagli, ster, itp.)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "42. Na rysunku obok pokazano element takielunku jachtu. Jest to:",
+    "answerA": "A. Luwers",
+    "answerB": "B. Kausza",
+    "answerC": "C. Szakla",
+    "correctAnswer": "C",
+    "questionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXCe0SLz1hzBejghNqLSDT_cvgAeo9bTGuw&usqp=CAU"
+  },
+  {
+    "question": "43. Na rysunku pokazano schematycznie konstrukcj\u0119 urz\u0105dzenia sterowego. Element zaznaczony kolorem czerwonym to:",
+    "answerA": "A. Rumpel",
+    "answerB": "B. Jarzmo",
+    "answerC": "C. P\u0142etwa steru",
+    "correctAnswer": "C",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/eR9.URrG5Z-FSnnydfGkwA.png"
+  },
+  {
+    "question": "44. Na rysunku pokazano schematycznie konstrukcj\u0119 urz\u0105dzenia sterowego. Element zaznaczony numerkiem 1 to:",
+    "answerA": "A. Rumpel",
+    "answerB": "B. Dr\u0105\u017cek sterowy",
+    "answerC": "C. Trzon",
+    "correctAnswer": "A",
+    "questionImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rudder.svg/250px-Rudder.svg.png"
+  },
+  {
+    "question": "45. Na rysunku pokazano schematycznie olinowanie masztu. Jak nazywa si\u0119 lina oznaczona kolorem czerwonym:",
+    "answerA": "A. Sztag",
+    "answerB": "B. Achtersztag",
+    "answerC": "C. Topwanta",
+    "correctAnswer": "B",
+    "questionImage": "https://quizizz.com/_media/quizzes/d53761df-1274-4888-8df9-42f33fe11e6b_200_200"
+  },
+  {
+    "question": "46. Na rysunku pokazano schematycznie olinowanie masztu. Jak nazywa si\u0119 lina oznaczona kolorem czerwonym:",
+    "answerA": "A. Sztag",
+    "answerB": "B. Achtersztag",
+    "answerC": "C. Wanta",
+    "correctAnswer": "A",
+    "questionImage": "https://drive.google.com/file/d/1N9kqrylqnUrOIzf1JQESleiWsLPQfq3E/view?usp=drive_link"
+  },
+  {
+    "question": "47. Pokazana na rysunku kotwica to kotwica:",
+    "answerA": "A. Danfortha",
+    "answerB": "B. Admiralicji",
+    "answerC": "C. Delta",
+    "correctAnswer": "B",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=200,onerror=redirect,w=240/https://o.quizlet.com/skfvj1lLmh7iXYaOkr4NEw.png"
+  },
+  {
+    "question": "48. Pokazana na rysunku kotwica to kotwica:",
+    "answerA": "A. Admiralicji",
+    "answerB": "B. Delta",
+    "answerC": "C. Danfortha",
+    "correctAnswer": "C",
+    "questionImage": "https://www.hals.sklep.pl/11666-medium_default/kotwica-danfortha-8-kg.jpg"
+  },
+  {
+    "question": "49. Do regulacji napi\u0119cia olinowania sta\u0142ego jachtu u\u017cywa si\u0119:",
+    "answerA": "A. \u015aci\u0105gaczy",
+    "answerB": "B. Reflinek",
+    "answerC": "C. Topenant",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "50. Topenanta to lina s\u0142u\u017c\u0105ca do:",
+    "answerA": "A. Zapobiegania unoszeniu si\u0119bomu przy \u017cegludze pe\u0142nym wiatrem",
+    "answerB": "B. Ustawiania wysoko\u015bci noku bomu i zapobiegaj\u0105ca opadaniu bomu przy zrzucaniu \u017cagli",
+    "answerC": "C. \u0141\u0105cz\u0105ca topy dw\u00f3ch maszt\u00f3w",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "51. Kt\u00f3ry z wymienionych element\u00f3w nie jest cz\u0119\u015bci\u0105 \u017cagla:",
+    "answerA": "A. Kipa",
+    "answerB": "B. Liklina",
+    "answerC": "C. Bryt",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "52. P\u00f3\u0142kluza jest to:",
+    "answerA": "A. Ma\u0142y magazynek na jachcie",
+    "answerB": "B. Otw\u00f3r umo\u017cliwiaj\u0105cy odp\u0142yw wody",
+    "answerC": "C. Okucie otwarte od g\u00f3ry, w kt\u00f3rym pracuj\u0105 cumy i szpringi",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "53. Przy o\u017caglowaniu bermudzkim kraw\u0119d\u017a \u017cagla mocowana do takielunku (masztu, sztagu) to:",
+    "answerA": "A. Lik g\u00f3rny",
+    "answerB": "B. Lik przedni",
+    "answerC": "C. Lik wolny",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "54. Najcz\u0119\u015bciej stosowane napi\u0119cie w akumulatorach jachtowych to:",
+    "answerA": "A. 230V",
+    "answerB": "B. 12V",
+    "answerC": "C. 48V",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "55. Silnik przyczepny jachtu nale\u017cy uruchomi\u0107 ze \u015brub\u0105 nap\u0119dow\u0105:",
+    "answerA": "A. Uniesion\u0105 nad lustro wody",
+    "answerB": "B. Zanurzon\u0105 w wodzie",
+    "answerC": "C. Zablokowan\u0105 w\u0142\u0105czonym biegiem",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "56. Pokazany na rysunku element olinowania to:",
+    "answerA": "A. Szakla",
+    "answerB": "B. Kausza",
+    "answerC": "C. Luwers",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "57. Pomieszczenie s\u0142u\u017c\u0105ce do przygotowywania posi\u0142k\u00f3w na jachcie to:",
+    "answerA": "A. Kubryk",
+    "answerB": "B. Kambuz",
+    "answerC": "C. Kingston",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "58. Szpicgat to typ kad\u0142uba jachtu o poni\u017cszej charakterystyce:",
+    "answerA": "A. Bez paw\u0119\u017cy, dzi\u00f3b i rufa ostro zako\u0144czone",
+    "answerB": "B. Dzi\u00f3b zako\u0144czony t\u0119po, rufa z paw\u0119\u017c\u0105",
+    "answerC": "C. Dzi\u00f3b z du\u017cym nawisem, rufa z bardzo szerok\u0105 paw\u0119\u017c\u0105",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "59. Jakiego rodzaju paliwo u\u017cywane jest w czterosuwowych silnikach przyczepnych:",
+    "answerA": "A. Benzyna zmieszana z olejem silnikowym",
+    "answerB": "B. Olej nap\u0119dowy",
+    "answerC": "C. Czysta benzyna",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "60. Brest, jest to:",
+    "answerA": "A. Lina s\u0142u\u017c\u0105ca do stawiania sztaksli",
+    "answerB": "B. Lina cumownicza biegn\u0105ca prostopadle z jachtu do nabrze\u017ca",
+    "answerC": "C. Potoczna nazwa szot\u00f3w bezana",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "61. Gard\u0105 (szpon\u0105) nazywamy element konstrukcji:",
+    "answerA": "A. \u0141\u0105cz\u0105cy bom z masztem",
+    "answerB": "B. \u0141\u0105cz\u0105cy gafel z masztem",
+    "answerC": "C. \u0141\u0105cz\u0105cy bukszpryt z kad\u0142ubem",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "62. Nok, jest to element (jeden z ko\u0144c\u00f3w):",
+    "answerA": "A. Bomu",
+    "answerB": "B. Gafla",
+    "answerC": "C. Masztu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "63. Refpatentem nazywamy element konstrukcyjny:",
+    "answerA": "A. Bomu, pozwalaj\u0105cy na nawijanie \u017cagla na bom",
+    "answerB": "B. Masztu, pozwalaj\u0105cy na zwijanie \u017cagla do masztu",
+    "answerC": "C. Bukszprytu, pozwalaj\u0105cy na przesuwanie bukszprytu do rufy",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "64. Pik, jest to element (jeden z ko\u0144c\u00f3w):",
+    "answerA": "A. Bomu",
+    "answerB": "B. Gafla",
+    "answerC": "C. Reji",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "65. Achterpik na jachcie znajduje si\u0119:",
+    "answerA": "A. To pomieszczenie rufowej cz\u0119\u015bci jachtu",
+    "answerB": "B. To pomieszczenie w dziobowej cz\u0119\u015bci jachtu",
+    "answerC": "C. To tylny koniec bomu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "66. Sztormreling to:",
+    "answerA": "A. Barierka otaczaj\u0105ca pok\u0142ad",
+    "answerB": "B. Uchwyt na nadbud\u00f3wce",
+    "answerC": "C. Drabinka sznurowa do wchodzenia z wody na pok\u0142ad",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "67. Flagsztok jest to:",
+    "answerA": "A. Drzewce, na kt\u00f3rym podnosi si\u0119 bander\u0119",
+    "answerB": "B. Drzewce, na kt\u00f3rym zak\u0142ada si\u0119 ma\u0142y \u017cagiel",
+    "answerC": "C. Drzewce, na kt\u00f3rym podwieszony jest dzwon",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "68. Bulbkil jes to:",
+    "answerA": "A. Kszta\u0142t dziobu jachtu",
+    "answerB": "B. Kszta\u0142t rufy jachtu",
+    "answerC": "C. Jeden z rodzaj\u00f3w falszkila z balastem",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "69. Lik przedni to:",
+    "answerA": "A. Nazwa kraw\u0119dzi \u017cagla mocowanej do masztu lub sztagu",
+    "answerB": "B. Dziobowa cz\u0119\u015b\u0107 pok\u0142adu",
+    "answerC": "C. Wzmocnienie w przedniej cz\u0119\u015bci jachtu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "50. G\u00f3rny koniec masztu to:",
+    "answerA": "A. Pik",
+    "answerB": "B. Top",
+    "answerC": "C. Pi\u0119ta",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "71. Wzmocnione kraw\u0119dzie \u017cagla to:",
+    "answerA": "A. Bryty",
+    "answerB": "B. Liki",
+    "answerC": "C. Kieszenie",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "72. Jacht o otaklowaniu \u017caglowym typu kecz to jednostka:",
+    "answerA": "A. Z jednym masztem",
+    "answerB": "B. Z dwoma masztami",
+    "answerC": "C. Z trzema masztami",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "73. Spinaker to \u017cagiel stosowany przy \u017cegludze:",
+    "answerA": "A. Kurasami ostro na wiatr (bajdewind)",
+    "answerB": "B. W \u017cegludze sztormowej",
+    "answerC": "C. Na kursach pe\u0142nych (baksztag, fordewind)",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "74. Hals to lina napinaj\u0105ca lub mocuj\u0105ca:",
+    "answerA": "A. Dolny r\u00f3g \u017cagla przy liku przednim",
+    "answerB": "B. Dolny r\u00f3g \u017cagla przy liku tylnym (wolnym)",
+    "answerC": "C. G\u00f3rny r\u00f3g \u017cagla gdzie mocowany jest fa\u0142",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "75. Refszkentla jest lin\u0105 napinaj\u0105c\u0105:",
+    "answerA": "A. R\u00f3g halsowy \u017cagla przy refowaniu",
+    "answerB": "B. R\u00f3g szotowy \u017cagla przy refowaniu",
+    "answerC": "C. R\u00f3g fa\u0142owy \u017cagla",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "76. Lazy jack to:",
+    "answerA": "A. System linek biegn\u0105cych do kolumny masztu od bomu (cz\u0119sto po\u0142\u0105czony z pokrowcem)",
+    "answerB": "B. System linek u\u0142atwiaj\u0105cy wybieranie kotwicy",
+    "answerC": "C. System lin do cumowania jachtu amortyzuj\u0105cy ruchy jachtu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "77. Ko\u0144ce bomu to:",
+    "answerA": "A. Hals i szk\u0119tla",
+    "answerB": "B. Nok i pi\u0119ta",
+    "answerC": "C. Pik i garda",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "78. Bryty s\u0105 to:",
+    "answerA": "A. Pasy tkaniny, z kt\u00f3rej uszyty jest \u017cagiel",
+    "answerB": "B. Wzmocnienie rog\u00f3w \u017cagla",
+    "answerC": "C. Szwy \u0142\u0105cz\u0105ce pasy tkaniny w \u017caglu",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "79. Jacht o osprz\u0119cie \u017caglowym typu ket to:",
+    "answerA": "A. Jacht posiadaj\u0105cy jeden maszt i jeden \u017cagiel",
+    "answerB": "B. Jacht posiadaj\u0105cy jeden maszt i dwa \u017cagle",
+    "answerC": "C. Jacht posiadaj\u0105cy jeden maszt i trzy \u017cagle",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "80. Wzmocnienie konstrukcji pok\u0142adu w miejscu przej\u015bcia masztu przez pok\u0142ad nazywa si\u0119:",
+    "answerA": "A. Jarzmo",
+    "answerB": "B. Dejwud",
+    "answerC": "C. Op\u0119tnik",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "81. G\u0142\u00f3wny wzd\u0142u\u017cny element konstrukcyjny kad\u0142uba jachtu to:",
+    "answerA": "A. Kingston",
+    "answerB": "B. St\u0119pka/Kill",
+    "answerC": "C. Stewa",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "81. O sprawno\u015bci uk\u0142adu ch\u0142odzenia w silniku zaburtowym \u015bwiadczy:",
+    "answerA": "A. R\u00f3wno pracuj\u0105cy silnik",
+    "answerB": "B. Wyp\u0142ywaj\u0105ca z otworu pod silnikiem struga wody",
+    "answerC": "C. Czyste spaliny (brak dymu w spalinach)",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "83. Co zrobi\u0107 gdy w trakcie pracy silnika przyczepnego z otworu odp\u0142ywowego przestanie wyp\u0142ywa\u0107 woda:",
+    "answerA": "A. Wy\u0142\u0105czy\u0107 natychmiast silnik",
+    "answerB": "B. Zmniejszy\u0107 obroty nie gasz\u0105c silnika",
+    "answerC": "C. Na ma\u0142ych obrotach zdj\u0105\u0107 pokryw\u0119 i polewa\u0107 wod\u0105 cylindry silnika",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "84. Szkielet jachtu w p\u0142aszczy\u017anie poprzecznej wzmacniaj\u0105:",
+    "answerA": "A. Wr\u0119gi",
+    "answerB": "B. Gretingi",
+    "answerC": "C. Szpigaty",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "84. Kontrafa\u0142em nazywamy:",
+    "answerA": "A. Lin\u0119 s\u0142u\u017c\u0105c\u0105 do podnoszenia \u017cagla",
+    "answerB": "B. Lin\u0119 s\u0142u\u017c\u0105c\u0105 do opuszczania \u017cagla, dzia\u0142aj\u0105c\u0105 przeciwnie do fa\u0142u",
+    "answerC": "C. Lin\u0119 s\u0142u\u017c\u0105c\u0105 do trymowania \u017cagla",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "86. Na rysunku pokazano element takielunku jachtu. Jest to:",
+    "answerA": "A. \u015aci\u0105gacz do napinania olinowania",
+    "answerB": "B. Element do \u0142\u0105czenia kotwicy z \u0142a\u0144cuchem",
+    "answerC": "C. Urz\u0105dzenie do mocowania silnika",
+    "correctAnswer": "A",
+    "questionImage": "https://quizizz.com/_media/quizzes/3004b6a8-db9a-40b0-838c-062163d2870e_200_200"
+  },
+  {
+    "question": "87. Na rysunku pokazano dchematycznie miecz jachtu. Jaki to rodzaj miecza:",
+    "answerA": "A. Szybrowy",
+    "answerB": "B. Obrotowy",
+    "answerC": "C. Balastowy",
+    "correctAnswer": "B",
+    "questionImage": "https://o.quizlet.com/bupV-HkHInAI0BySBXJEYw.png"
+  },
+  {
+    "question": "88. Na rysunku pokazano schematycznie miecz jachtu. Jaki to rodzaj miecza:",
+    "answerA": "A. Szybrowy",
+    "answerB": "B. Obrotowy",
+    "answerC": "C. Balastowy",
+    "correctAnswer": "A",
+    "questionImage": "https://quizlet.com/cdn-cgi/image/f=auto,fit=cover,h=100,onerror=redirect,w=120/https://o.quizlet.com/zabzkY4f4bXMS3VvdxxUjQ.png"
+  },
+  {
+    "question": "89. Pikfa\u0142, co to za lina i do czego s\u0142u\u017cy:",
+    "answerA": "A. To ka\u017cdy fa\u0142 biegn\u0105cy do topu masztu",
+    "answerB": "B. To fa\u0142 utrzymuj\u0105cy gafel pod odpowiednim k\u0105tem do masztu",
+    "answerC": "C. To lina do \u015bci\u0105gania w d\u00f3\u0142 gafla przy zrzucaniu \u017cagla gaflowego",
+    "correctAnswer": "B"
+  }
+]

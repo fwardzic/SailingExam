@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Learning Test Questions</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <title>Żeglarz jachtowy egzamin pytania</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/js/bootstrap-multiselect.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/css/bootstrap-multiselect.css">
+    
     <style>
         .container {
             text-align: center;
@@ -50,9 +55,27 @@
         <p>Correct Answers: <span id="correctAnswers">0</span></p>
         <p>Correct Answers Percentage: <span id="percentage">0%</span></p> 
         <button class="btn btn-primary" onclick="resetStatistics()">Reset statistics</button>     
+
+        <div class="">
+            <strong>Select tests:</strong>
+            <select id="multiple-checkboxes" multiple="multiple">
+                <option value="budowa_jachtow.json">Budowa jachtów</option>
+                <option value="locje.json">Locje</option>
+                <option value="teoria_zeglowania.json">Teoria zeglowania</option>
+                <option value="testy1.json">Testy 1</option>
+                <option value="testy2.json">Testy 2</option>
+                <option value="test4.json">Test 4/Test 11</option>
+            </select>
+        </div>
     </div>
 
     <script>
+        $(document).ready(function() {
+            $('#multiple-checkboxes').multiselect({
+                includeSelectAllOption: true,
+            });
+        });
+        var questionsBase = {};
         var questions = [];
         var currentQuestionIndex = -1;
         var feedbackElement = document.getElementById("feedback");
@@ -103,7 +126,7 @@
                     hintButton.style.display = "none";
                 }
             } else {
-                console.error(`currentQuestionIndex out of available questions: got ${currentQuestionIndex} where have ${questions.length} questions `)
+                console.error(`currentQuestionIndex out of available questions: got ${currentQuestionIndex} where have ${questions.length} questions`)
             }
         }
 
@@ -250,6 +273,22 @@
         }
 
         function fetchQuizDataAndStart() {
+            const questionsFiles = [
+                'budowa_jachtow.json',
+                'locje.json',
+                'teoria_zeglowania.json',
+                'testy1.json',
+                'testy2.json',
+                'test4.json'
+            ];
+            try {
+                Promise.all(questionsFiles.map(file => fetch(`https://raw.githubusercontent.com/sebarys/SailingExam/main/${file}`)))
+                    .then(results => Promise.all(results.map(response => response.json())))
+                    .then(data => console.log(JSON.stringify(data)))
+                
+            } catch (error) {
+                console.error('Error fetching quiz data:', error);
+            }
             fetch("https://raw.githubusercontent.com/sebarys/SailingExam/main/questions.json")
                 .then((response) => response.json())
                 .then((data) => {
