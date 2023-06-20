@@ -3,8 +3,6 @@
 <head>
     <title>Żeglarz jachtowy egzamin pytania</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
-    <script src="https://raw.githubusercontent.com/admirhodzic/multiselect-dropdown/main/multiselect-dropdown.js" ></script>
     <style>
         .container {
             text-align: center;
@@ -29,10 +27,17 @@
         .hint {
             margin-top: 10px;
         }
+        select {
+            width: 20em;
+        }
     </style>
 </head>
 <body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
+    <script src="https://raw.githubusercontent.com/admirhodzic/multiselect-dropdown/main/multiselect-dropdown.js" ></script>
+
     <div class="container">
+        <div class="info" id="info" style="color:red"></div>
         <div class="question" id="question"></div>
         <div id="imageContainer">
             <img id="questionImage" src="" alt="Question Image">
@@ -60,35 +65,28 @@
                 multiple
                 multiselect-search="true" 
                 multiselect-select-all="true">
-                <option value="budowa_jachtow.json">Budowa jachtów</option>
-                <option value="locje.json">Locje</option>
-                <option value="teoria_zeglowania.json">Teoria zeglowania</option>
-                <option value="testy1.json">Testy 1</option>
-                <option value="testy2.json">Testy 2</option>
-                <option value="test4.json">Test 4/Test 11</option>
+                <option selected value="budowa_jachtow.json">Budowa jachtow</option>
+                <option selected value="locje.json">Locje</option>
+                <option selected value="teoria_zeglowania.json">Teoria zeglowania</option>
+                <option selected value="testy1.json">Testy 1</option>
+                <option selected value="testy2.json">Testy 2</option>
+                <option selected value="test4.json">Test 4/Test 11</option>
+                <option value="recent-wrong-answers">Recent wrong answers</option>
             </select>
-        </div>
-        <div class="container">
-            <select name="field1" id="field1" multiple onchange="console.log(Array.from(this.selectedOptions).map(x=>x.value??x.text))" multiselect-hide-x="true">
-                <option value="1">Audi</option>
-                <option selected value="2">BMW</option>
-                <option selected value="3">Mercedes</option>
-                <option value="4">Volvo</option>
-                <option value="5">Lexus</option>
-                <option value="6">Tesla</option>
-              </select>
         </div>
     </div>
 
     <script>
         var questionsBase = {};
         var questions = [];
-        var currentQuestionIndex = -1;
+        var currentQuestion = {};
         var feedbackElement = document.getElementById("feedback");
         var hintElement = document.getElementById("hint");
         const localStorageStatsKey = "sailingExamQuizStatistics";
+        const recentWrongAnswerSelectboxKey = "recent-wrong-answers";
         var answerCheckedFirstTime = true;
-        const lastQuestionIndices = []; // Array to store the indices of the last 100 questions
+        const lastQuestions = []; // Array to store the indices of the last 100 questions
+        var currentlySelectedTests = [];
 
 
         function displayQuestion() {
@@ -99,9 +97,7 @@
             labelA.style.color = "";
             labelB.style.color = "";
             labelC.style.color = "";
-
-            if (currentQuestionIndex >= 0 && currentQuestionIndex < questions.length) {
-                const currentQuestion = questions[currentQuestionIndex];
+            if (currentQuestion) {
                 questionElement.textContent = currentQuestion.question;
                 labelA.textContent = currentQuestion.answerA;
                 labelB.textContent = currentQuestion.answerB;
@@ -132,13 +128,12 @@
                     hintButton.style.display = "none";
                 }
             } else {
-                console.error(`currentQuestionIndex out of available questions: got ${currentQuestionIndex} where have ${questions.length} questions`)
+                console.error(`currentQuestion not defined: got ${currentQuestion} where have ${questions.length} questions`)
             }
         }
 
         function checkAnswer() {
             var selectedAnswer = getSelectedAnswer();
-            var currentQuestion = questions[currentQuestionIndex];
             const questionAnswerIsCorrect = selectedAnswer === currentQuestion.correctAnswer
 
             feedbackElement.textContent = questionAnswerIsCorrect ? "Correct!" : `Incorrect. The correct answer is ${currentQuestion.correctAnswer}`
@@ -151,22 +146,60 @@
             highlightCorrectAnswer();
         }
 
-        function nextQuestion() {
-            var selectedTests = document.getElementById("selected-tests");
-            console.log('#####' + JSON.stringify(selectedTests));
-            // Store the index of the answered question in the lastQuestionIndices array
-            lastQuestionIndices.push(currentQuestionIndex);
-            // Keep the lastQuestionIndices array limited to 100 indices
-            if (lastQuestionIndices.length > 100) {
-                lastQuestionIndices.shift(); // Remove the oldest index from the beginning of the array
+        function updateQuestionsListIfNeeded() {
+            const selectedTests = Array.from(
+                document.getElementById("selected-tests").selectedOptions
+            ).map(option=>option.value??option.text)
+
+            const selectedSetsAreTheSame = arraysContainsTheSameElements(selectedTests, currentlySelectedTests);
+            const testsIncludeWrongAnswersCollection = selectedTests.includes(recentWrongAnswerSelectboxKey);
+
+            if (!selectedSetsAreTheSame || testsIncludeWrongAnswersCollection) {
+                console.log(`Detected need to update questions list, selected tests are equal: ${selectedSetsAreTheSame}, include wrong answers ${testsIncludeWrongAnswersCollection}`);
+                updateQuestionsList();
+            } 
+        }
+
+        // based on user configuration pick what questions should be included in questions list that we use to pick next question
+        function updateQuestionsList() {
+            const selectedTests = Array.from(
+                document.getElementById("selected-tests").selectedOptions
+            ).map(option=>option.value??option.text)
+            console.log(`Previously selected tests: ${JSON.stringify(currentlySelectedTests)}, currenlty selected tests: ${JSON.stringify(selectedTests)}`);
+            currentlySelectedTests = selectedTests;
+            // TODO remove duplicate questions based on `(question text (without number), image link)` or `(question text, answers)` tuple - different tests can have the same question
+            let availableQuestions = selectedTests
+                .map(testName => questionsBase[testName])
+                .flat()
+            if (selectedTests.includes(recentWrongAnswerSelectboxKey)) {
+                const statistics = retrieveOrInitStatistics()
+                availableQuestions = availableQuestions.concat(statistics.recentlyWrongAnsweredQuestions);
             }
-            const availableIndices = questions
-                .map((_, index) => index) // Create an array of all question indices
-                .filter(index => !lastQuestionIndices.includes(index)); // Exclude the last answered question indices
-            // Check if there are available indices
-            if (availableIndices.length > 0) {
-                const randomIndex = Math.floor(Math.random() * availableIndices.length);
-                currentQuestionIndex = availableIndices[randomIndex];
+            console.log(`Updated questions list to have only questions from ${JSON.stringify(selectedTests)}. Previous questions set length ${questions.length}, updated questions set length ${availableQuestions.length}`);
+            questions = availableQuestions;
+            return availableQuestions;
+        }
+
+        function nextQuestion() {
+            updateQuestionsListIfNeeded();
+            const infoElement = document.getElementById("info");
+            // Store info about the answered question in the lastQuestions array
+            // TODO last questions should be also persisted in local storage
+            lastQuestions.push(currentQuestion);
+            // Keep the info about last 100 answered questions 
+            if (lastQuestions.length > 100) {
+                lastQuestions.shift(); // Remove the oldest question from the beginning of the array
+            }
+            // Exclude the last answered question from available questions 
+            const availableQuestions = questions.filter(question => !lastQuestions.includes(question)); 
+            // Pick next question from availableQuestions
+            if (availableQuestions.length > 0) {
+                const randomIndex = Math.floor(Math.random() * availableQuestions.length);
+                currentQuestion = availableQuestions[randomIndex];
+                infoElement.textContent = "";
+            } else {
+                console.warn("Available questions array is empty!");
+                infoElement.textContent = "Based on selected tests available questions set is empty, please update selected tests before clicking 'Next' button!";
             }
             answerCheckedFirstTime = true;
             displayQuestion();
@@ -194,7 +227,6 @@
 
         function highlightCorrectAnswer() {
             var selectedAnswer = getSelectedAnswer();
-            var currentQuestion = questions[currentQuestionIndex];
             var labelA = document.getElementById("labelA");
             var labelB = document.getElementById("labelB");
             var labelC = document.getElementById("labelC");
@@ -219,14 +251,12 @@
         }
 
         function searchQuestion() {
-            var currentQuestion = questions[currentQuestionIndex];
             var googleSearchUrl = "https://www.google.com/search?q=" + encodeURIComponent(currentQuestion.question);
             window.open(googleSearchUrl, "_blank");
         }
 
         // Function to show the hint
         function showHint() {
-            const currentQuestion = questions[currentQuestionIndex];
             const hint = currentQuestion.hint != undefined ? currentQuestion.hint : "No hint for given question";
             document.getElementById("hint").textContent = hint;
         }
@@ -238,7 +268,8 @@
             } else {
                 const statistics = {
                     totalQuestions: 0,
-                    correctAnswers: 0
+                    correctAnswers: 0,
+                    recentlyWrongAnsweredQuestions: []
                 };
                 localStorage.setItem(localStorageStatsKey, JSON.stringify(statistics));
                 return statistics;
@@ -263,6 +294,24 @@
             statistics.totalQuestions++;
             if (questionAnswerIsCorrect) {
                 statistics.correctAnswers++;
+                if (statistics.recentlyWrongAnsweredQuestions) {
+                    // we need remove correctly answered question from recentlyWrongAnsweredQuestions list
+                    statistics.recentlyWrongAnsweredQuestions = statistics.recentlyWrongAnsweredQuestions
+                        .filter(question => !areQuestionsEqual(question, currentQuestion));
+                }
+            } else {
+                if(statistics.length > 50) {
+                    statistics.recentlyWrongAnsweredQuestions.shift()
+                }
+                if (statistics.recentlyWrongAnsweredQuestions) {
+                    // we add wrongly answered question to recentlyWrongAnsweredQuestions list only if it is not present there yet
+                    if (statistics.recentlyWrongAnsweredQuestions.filter(question => areQuestionsEqual(question, currentQuestion)).length == 0) {
+                        statistics.recentlyWrongAnsweredQuestions.push(currentQuestion);
+                    }
+                } else {
+                    statistics.recentlyWrongAnsweredQuestions = [currentQuestion];
+                }
+                
             }
 
             // Store the updated statistics in local storage
@@ -296,13 +345,35 @@
                         data.map((questions, index) =>
                             questionsBase[questionsFiles[index]] = questions
                         );
-                        // console.log(JSON.stringify(questionsBase))
                         retrieveOrInitStatistics();
+                        updateQuestionsList();
                         nextQuestion();
                     });
             } catch (error) {
                 console.error('Error fetching quiz data:', error);
             }
+        }
+
+        function areQuestionsEqual(question1, question2) {
+            return question1.question === question2.question &&
+                question1.answerA === question2.answerA &&
+                question1.answerB === question2.answerB &&
+                question1.answerC === question2.answerC &&
+                question1.correctAnswer === question2.correctAnswer &&
+                question1.hint === question2.hint &&
+                question1.questionImage === question2.questionImage;
+        }
+
+        function arraysContainsTheSameElements(arr1, arr2) {
+            const arr1AsSet = new Set(arr1);
+            const arr2AsSet = new Set(arr2);
+            if (arr1AsSet.size !== arr2AsSet.size) {
+                return false;
+            }
+
+            return Array.from(arr1AsSet).every(element => {
+                return arr2AsSet.has(element);
+            });
         }
 
         fetchQuizDataAndStart();
