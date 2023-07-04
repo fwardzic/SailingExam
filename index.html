@@ -46,31 +46,30 @@
             <label for="answerB"><input type="radio" name="answer" value="B" id="answerB"> <span id="labelB"></span></label><br>
             <label for="answerC"><input type="radio" name="answer" value="C" id="answerC"> <span id="labelC"></span></label><br>
         </div>
-        <button class="btn btn-primary" onclick="checkAnswer()">Check Answer</button>
+        <button class="btn btn-primary" onclick="checkAnswer()">Sprawdź odpowiedź</button>
         <div class="feedback" id="feedback"></div>
         <div class="hint" id="hint"></div>
-        <button class="btn btn-primary" onclick="nextQuestion()">Next</button>
-        <button class="btn btn-primary" onclick="searchQuestion()">Search in Google</button>
-        <button class="btn btn-primary" onclick="showHint()" id="hintButton" style="display: none;">Show Hint</button>
-        <p>Total Questions: <span id="totalQuestions">0</span></p>
-        <p>Correct Answers: <span id="correctAnswers">0</span></p>
-        <p>Correct Answers Percentage: <span id="percentage">0%</span></p> 
-        <button class="btn btn-primary" onclick="resetStatistics()">Reset statistics</button>     
+        <button class="btn btn-primary" onclick="nextQuestion()">Następne pytanie</button>
+        <button class="btn btn-primary" onclick="searchQuestion()">Szukaj pytania w Google</button>
+        <button class="btn btn-primary" onclick="showHint()" id="hintButton" style="display: none;">Pokaż podpowiedź</button>
+        <p>Udzielono odpowiedzi: <span id="totalQuestions">0</span></p>
+        <p>Prawidłowe odpowiedzi: <span id="correctAnswers">0</span></p>
+        <p>Procent prawidłowych odpowiedzi: <span id="percentage">0%</span></p> 
+        <button class="btn btn-primary" onclick="resetStatistics()">Resetuj statystyki</button>     
 
         <div class="container">
-            <strong>Select tests:</strong>
+            <strong>Wybierz zestawy pytań:</strong>
             <select
                 id="selected-tests"
                 multiple
-                multiselect-search="true" 
                 multiselect-select-all="true">
+                <option value="recent-wrong-answers">Ostatnie błędne odpowiedzi</option>
                 <option selected value="budowa_jachtow.json">Budowa jachtow</option>
                 <option selected value="locje.json">Locje</option>
                 <option selected value="teoria_zeglowania.json">Teoria zeglowania</option>
                 <option selected value="testy1.json">Testy 1</option>
                 <option selected value="testy2.json">Testy 2</option>
                 <option selected value="test4.json">Test 4/Test 11</option>
-                <option value="recent-wrong-answers">Recent wrong answers</option>
             </select>
         </div>
     </div>
@@ -135,7 +134,7 @@
             var selectedAnswer = getSelectedAnswer();
             const questionAnswerIsCorrect = selectedAnswer === currentQuestion.correctAnswer
 
-            feedbackElement.textContent = questionAnswerIsCorrect ? "Correct!" : `Incorrect. The correct answer is ${currentQuestion.correctAnswer}`
+            feedbackElement.textContent = questionAnswerIsCorrect ? "Prawidłowa odpowiedź!" : `Zła odpowiedź. Prawidłowa odpowiedź to ${currentQuestion.correctAnswer}`
 
             if (answerCheckedFirstTime) {
                 updateStatistics(questionAnswerIsCorrect)
@@ -198,7 +197,7 @@
                 infoElement.textContent = "";
             } else {
                 console.warn("Available questions array is empty!");
-                infoElement.textContent = "Based on selected tests available questions set is empty, please update selected tests before clicking 'Next' button!";
+                infoElement.textContent = "Na podstawie wybranych zestawów pytań nie mozna zaproponować kolejnego pytania (brak pytań które nie zostały ostatnio zadane/brak złych odpowiedzi do powtórzenia w wybranym zestawie). Proszę zaktualizować wybrane zestawy pytań i kliknąć przycisk 'Następne pytanie'!";
             }
             answerCheckedFirstTime = true;
             displayQuestion();
